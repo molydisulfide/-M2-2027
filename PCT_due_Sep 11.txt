@@ -3,11 +3,46 @@ L1-02 (Selection) (2013 EQE)	(8 points)
 
 
 A British company A intends to file together with Mr. Surat as joint applicants a PCT application at the Patent Office of India. Mr. Surat is a national and resident of India. 
+
+
 a) As no agent is required before the Patent Office of India acting as receiving Office, it is decided that Mr. Surat should represent the applicants during the international phase. What options are there to achieve this and what steps must be taken to this end? 
+
+ - IN as rO requires an address for service in India - India Patent Office Annex C; AG-IP.
+ - Mr Surat is resident of India - requirement fulfilled. 
+ - He has right to file IA as resident and national of India - A9(1); R19(1)(i)/R19(1)(ii).
+ - Joint applicants can file IA if at least one of them is entitled to file IA - R.18.3 + R19.2(i).
+ - Mr Surat can either be: (1) appointed to be the common representative under R90.2(a); or (2) he can become the deemed common representative simply by virtue of the fact that he is the only Applicant entitled to file an IA at the IN rO, and is thus the first named entitled Applicant on the IA - R90.2(b).
+ - No need for separate and general power of attorney in that case for Mr Surat to represent the applicants during the international phase; all applicants just need to sign the request - R. 90.4(a). 
+ - However, they can also issue a PoA authorizing Mr Surat to be an agent for the IA - R90.4(b).
+ - As deemed common rep. he cannot do withdrawals of IA, prio claim, demand or designations - R90bis.5
+
+
+
 b) The applicants select the EPO as International Searching Authority (ISA) and International Preliminary Examining Authority (IPEA). For the procedure before the EPO as IPEA under Chapter II PCT the applicants decide to seek professional help. 
+
 b1) Can they appoint an Indian agent who has the right to practice before the Patent Office of India? 
+ - YES. They can appoint an Indian agent who has the right to practice before the rO, which was IN in the international phase. The right to practice before national office as rO entitles to practice before the ISA and IPEA - Art 49; R90.1(a).
+ - They can appoint him by either signing the demand - R90.4(a); or signing a separate PoA - R90.4(b).
+
 b2) Can they appoint a European professional representative?
+
+- YES. They can appoint EP professional representative to act before the EPO - A134(1) EPC; 
+- For the EPO as ISA, direct legal basis in the PCT is R.90.1(b);
+- For the EPO as IPEA, direct legal basis in the PCT is R.90.1(c);
+- EPO waived requirement for PoA for EPO representatives - R.90.4(d).
+
 c) For the procedure in the European phase the applicants consider continuing without professional help. Can Mr. Wilson, employee of company A, act as a common representative before the EPO? 
+
+- NO, he cannot.
+- No representation is forced for CS residents before the EPO - A133(1) EPC
+- EPO as eO applies national law under A27(7) PCT.  Requires professional representation for Euro-PCT entry in case the Applicants don't have residence in EPC CS - A133(2) EPC.
+ - If one of the applicants is obliged to appoint a professional representative, this representative shall be deemed to be the common representative - R151(1) EPC.
+- British company A presumably has residency or place of business in the UK, which is an EPC state. I will not make further edge-case assumptions about whether or not this British company has or has not an address in the UK. 
+- Thus, in principle, they are allowed to be represented by an employee who need not be an EPO representative - A133(3) EPC. 
+- However, Mr Surat is obliged to have professional representation before the EPO on Euro-PCT entry. He cannot be represented by Mr Wilson.
+- Mr Surat's appointed professional rep will be deemed common rep for all applicants - R151(1) EPC
+- However, if A named first and appoints professional rep, this rep will be deemed common rep for everyone - R151(1) EPC.
+- Mr. Wilson, employee of company A, can act as the common representative before the EPO only if he just happens to also be a professional representive before the EPO??? 
 
 
 
