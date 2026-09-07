@@ -1,0 +1,101 @@
+Question 1
+L1-02 (Selection) (2013 EQE)	(8 points)
+
+
+A British company A intends to file together with Mr. Surat as joint applicants a PCT application at the Patent Office of India. Mr. Surat is a national and resident of India. 
+a) As no agent is required before the Patent Office of India acting as receiving Office, it is decided that Mr. Surat should represent the applicants during the international phase. What options are there to achieve this and what steps must be taken to this end? 
+b) The applicants select the EPO as International Searching Authority (ISA) and International Preliminary Examining Authority (IPEA). For the procedure before the EPO as IPEA under Chapter II PCT the applicants decide to seek professional help. 
+b1) Can they appoint an Indian agent who has the right to practice before the Patent Office of India? 
+b2) Can they appoint a European professional representative?
+c) For the procedure in the European phase the applicants consider continuing without professional help. Can Mr. Wilson, employee of company A, act as a common representative before the EPO? 
+
+
+
+-----------------------
+
+
+Question 2
+2015 Paper D1, Question 3 		(9 points) 
+
+The German national Hans is working and living in Argentina. He is employed by Evita-Engineering (EE), which is a company constituted under Argentinean law and is based in Buenos Aires. Hans and company EE validly filed a national patent application A at the competent authority in Argentina. It is intended to file today an international patent application PCT-A in English claiming priority of application A. In the PCT request, company EE and Hans are named as applicants. 
+a)  May PCT-A contain a declaration claiming the priority of application A?
+b)  May Hans and company EE file PCT-A jointly?
+c)  Which of the following offices will act as the receiving Office for PCT-A? 
+1)  The EPO,
+2)  The government authority entrusted with the grant of patents of Germany (German Patent and Trademark Office, GPTO). 
+
+
+
+
+-----------------------
+
+
+
+Question 3
+2017 Paper D1, Question 5		(10 points) 
+
+French applicant G intended to file international application PCT-G claiming priority of French patent application FR-NAT1 filed on 16 February 2016 and French patent application FR-NAT2 filed on 12 February 2016. Despite all due care taken by the applicant, PCT-G was filed on 14 February 2017 with the EPO as receiving Office. PCT- G did not claim priority of FR-NAT2. 
+a) How can the priority claim based on FR-NAT2 be added to PCT-G? 
+b) What is the effect of the addition of the priority claim based on FR-NAT2 on the time limit for entry into the European phase? 
+c) What can the applicant do before the EPO as receiving Office to avoid that the priority right of FR-NAT2 claimed for PCT-G is considered invalid in the procedure for the grant of a European patent before the EPO as designated Office? 
+
+(Today’s date: 7 March 2017)
+
+
+-----------------------
+
+
+
+
+Question 4
+L2-27 (EQE - 6 points)
+
+Today is 11 March 2025. A Spanish company filed an international application in Spanish with the EPO on 21 February 2025. The international application validly claims priority from a Spanish application filed on 21 February 2024. All necessary fees were paid to the EPO. The Spanish company received a notification from the EPO that the application had been transmitted to the International Bureau.
+Why did the EPO transmit the application, what effect does this have and what has to be done next?
+
+
+
+-----------------------
+
+
+
+
+
+Question 5
+L2-28 (Selection) (2002 EQE)	(9 points) 
+
+
+On 17 December 2024 you filed an international application at the EPO claiming priority from a European patent application filed on 18 August 2024. Today, 11 March 2025, you received a telephone call from your client who instructs you also to claim priority from a German utility model filed on 21 December 2023.
+(a) Is this possible? If so, what is the last date on which the applicant can add the priority claim? 
+Your client further informs you that the certified copy of the priority document of the German utility model will not be issued by the German Patent and Trademark Office before 21 May 2025.
+(b) What can you undertake? 
+
+
+-----------------------
+
+
+
+Question 6
+L2-36 (Selection) (NEW in EQE2021 edition)
+
+
+An applicant filed an international application PCT1 on 1 December 2020 claiming priority -as indicated on the enclosed PCT Request form (recent version)-, from a first national application NL1 filed on 1 December 2019 and having 4 pages of description, 3 drawings and 5 claims, and also from a second national application NL2 filed on 18 December 2019, having 6 pages of description, 5 drawings and 7 claims. The second national application NL2 corresponds to the first national application NL1, except that the description of the second national application NL2 contained two extra embodiments, that the first national application NL1 had serious errors in Figure 2 which were corrected in the drawings of the second national application NL2, and that the second national application NL2 included two extra Figures, numbered Figure 4 and 5. 
+The intention was to file PCT1 with the description, claims and drawings of NL2. 
+Today is 12 December 2020. 
+Can the following defects be remedied? How? What is the effect on the filing date? 
+(a) PCT1 was filed with the descriptions and drawings, but erroneously without any claims
+(b) PCT1 was filed with the drawings and claims of NL2, but erroneously with the description of NL1 
+(c) PCT1 was filed with the description and claims of NL2, but erroneously with the drawings of NL1 
+
+
+-----------------------
+
+
+
+Question 7
+L2-38 (2014 Paper D1, Question 4)		(7 points)
+
+Mr. Smith is the sole applicant and inventor of an international application. This application, containing the prescribed request together with a separate power of attorney for an agent, was filed at the EPO as receiving Office. The request was signed by the agent. The power of attorney was not signed at all. 
+a)  Is there a defect in the application in view of the requirements for signatures? 
+b)  Who can withdraw the international application and what has to be done to this end? 
+
