@@ -53,12 +53,35 @@ Question 2
 2015 Paper D1, Question 3 		(9 points) 
 
 The German national Hans is working and living in Argentina. He is employed by Evita-Engineering (EE), which is a company constituted under Argentinean law and is based in Buenos Aires. Hans and company EE validly filed a national patent application A at the competent authority in Argentina. It is intended to file today an international patent application PCT-A in English claiming priority of application A. In the PCT request, company EE and Hans are named as applicants. 
+
 a)  May PCT-A contain a declaration claiming the priority of application A?
+
+- YES; PCT-A may contain a declaration claiming priority to application A - R4.10(a)
+- Priority may be claimed to any validly filed national patent application from a signatory of the Paris Convention - Art8 PCT and Art4A(1) Paris and Art4A(2) Paris.
+- ARG is signatory of Paris (and member of WTO) - ???
+- PCT-A must contain the priority declaration in the request.
+
+
 b)  May Hans and company EE file PCT-A jointly?
+
+- YES; they may file PCT-A jointly.
+- Joint applicants can file IA if at least one of them is entitled to file IA - R.18.3 + R19.2(i).
+- Hans is entitled to file an IA as he is a citizen of Germany, which is a CS - A9(1) PCT
+- He can file with the nO of CS of which he is a national - R19.1(a)(ii).
+
+
 c)  Which of the following offices will act as the receiving Office for PCT-A? 
 1)  The EPO,
 2)  The government authority entrusted with the grant of patents of Germany (German Patent and Trademark Office, GPTO). 
 
+
+- Competent rOs for Hans as a national of DE are: the EPO, the IB and the DPMA - AG-IP:DE - Annex B.
+- However, it is specified that PCT-A is to be filed in English. 
+- DPMA does not accept IAs filed in English as competent rO - AG-IP:DE - Annex C.
+- EPO accepts Its filed in English as competent rO - AG-IP:EP - Annex C.
+- The EPO will act as rO for PCT-A - A151 EPC & R157(1) EPC.
+- Alternatively, they can file with the IB in English as IB accepts filings in any language - AG-IP:IB - Annex C.
+- If filed with DPMA, the application will be considered to have been received on the date of filing by the DPMA on behalf of the IB as rO - R19.4(a)(ii) & R19.1(a)(iii)
 
 
 
@@ -87,6 +110,19 @@ L2-27 (EQE - 6 points)
 
 Today is 11 March 2025. A Spanish company filed an international application in Spanish with the EPO on 21 February 2025. The international application validly claims priority from a Spanish application filed on 21 February 2024. All necessary fees were paid to the EPO. The Spanish company received a notification from the EPO that the application had been transmitted to the International Bureau.
 Why did the EPO transmit the application, what effect does this have and what has to be done next?
+
+- It has been 19 days since filing.
+- Spanish company entitled to file IA at EPO as rO - A151 EPC & R157(1) EPC.
+- IA filed at EPO must be in EN/FR/DE - AG-IP:EP - Annex C & R157(2) EPC
+- Otherwise put; IA must be in prescribed language of rO - A3(4)(i) & R12.1(a)
+- Since the IA is not in a language prescribed by the rO, it is received by the EPO on behalf of the IB and transmitted to the IB - R19.4(a)(ii)
+- Date of filing is unaffected - all fees have been duly paid - R19.4(b).
+- IB will act as rO - R19.1(a)(iii)
+- However, EPO will refund the fees paid to the EPO - AG-IP 6.034 & OJ 1993, 764.
+- Transmittal fee, filing fee and search fee must then be paid to IB as rO within 1m of date of receipt by the IB - R14.1(c), R15.3, R16.1(f).
+- Date of receipt is the date of actual receipt by IB - R19.4(c).
+- 11 Mar 25 + 1m -> 11 Apr 25. Working day. No extensions under R80.5. The fees must be paid until 11 April 2025.
+- If applicant supplies translation into DE/FR/EN, EPO may act as ISA - R12.3.
 
 
 
