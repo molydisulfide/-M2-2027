@@ -167,6 +167,23 @@ Question 7
 L2-38 (2014 Paper D1, Question 4)		(7 points)
 
 Mr. Smith is the sole applicant and inventor of an international application. This application, containing the prescribed request together with a separate power of attorney for an agent, was filed at the EPO as receiving Office. The request was signed by the agent. The power of attorney was not signed at all. 
+
 a)  Is there a defect in the application in view of the requirements for signatures? 
+
+- NO there is no defect in the IA in view of the requirements for signatures.
+- Separate power of attorney must be submitted to rO or IB - R90.4(b)
+- It may be waived by rO - R90.4(d) & R90.5(c)
+- EPO in its capacity as rO has waived this requirement under Rule 90.4(b) - PCT-EPO Guidelines, A‑VIII, 1.13; OJ 2010, 335
+- Power of attorney needs to be duly signed by the Applicant - R90.4(c)
+- The power of attorney was not signed at all in this case.
+- Thus, it is considered non-existent - R90.4(c)
+- Hence, missing signature CANNOT be considered a defect.
+
 b)  Who can withdraw the international application and what has to be done to this end? 
 
+- WHO? Both Applicant and agent can withdraw the IA.
+- Applicant may withdraw IA at ANY TIME prior to 30m from priority date - R90bis.1(a)
+- So it doesnt matter that there is a defect in the IA on filing.
+- Applicant can simply submit a notice of withdrawal under R90.bis.5
+- He can also submit a duly signed separate or general power of attorney and have the agent sign the withdrawal notice as the waiver does not apply for withdrawals - R90.4(e) (also AG-IP 11.048)
+- WHAT TO BE DONE?: Request for withdrawal must be filed with the EPO (rO) or IB - R90bis.1(a); and prior to 30m from priority date - R90bis.1(a)
