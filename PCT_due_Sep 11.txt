@@ -93,11 +93,50 @@ Question 3
 2017 Paper D1, Question 5		(10 points) 
 
 French applicant G intended to file international application PCT-G claiming priority of French patent application FR-NAT1 filed on 16 February 2016 and French patent application FR-NAT2 filed on 12 February 2016. Despite all due care taken by the applicant, PCT-G was filed on 14 February 2017 with the EPO as receiving Office. PCT- G did not claim priority of FR-NAT2. 
-a) How can the priority claim based on FR-NAT2 be added to PCT-G? 
-b) What is the effect of the addition of the priority claim based on FR-NAT2 on the time limit for entry into the European phase? 
-c) What can the applicant do before the EPO as receiving Office to avoid that the priority right of FR-NAT2 claimed for PCT-G is considered invalid in the procedure for the grant of a European patent before the EPO as designated Office? 
+
 
 (Today’s date: 7 March 2017)
+
+a) How can the priority claim based on FR-NAT2 be added to PCT-G? 
+
+- Priority claim can be added by a notice sent to the EPO as rO (receiving Office) or to the IB - R.26bis.1 PCT
+-Time limit is: the later of:
+12 February 2016 (the earliest priority) + 16 months (R.80.2 PCT) → 12 June 2017 Monday,
+or: 14 February 2017 (international filing date) + 4 months (R.80.2 PCT) → 14 June 2017 Wednesday.
+- Therefore the last date to add the priority claim of FR-NAT2 would be 14 June 2017 Wednesday, because that is later.
+- So, today it is still possible.
+
+
+b) What is the effect of the addition of the priority claim based on FR-NAT2 on the time limit for entry into the European phase? 
+
+- deadlines are calculated from the restored priority date (even if request refused) - R26bis.1(c), GL/PCT-EPO F-VI 3.7
+- The 31-month time limit (Art.153 and R.159(1) EPC) must be calculated from the earliest priority date, thus from 12 February 2016 (and not from 16 February 2016). - R.26bis.1(c) PCT
+- Last day to enter European phase: 12 February 2016 + 31 months (R.131(4) EPC) → 12 Sept 2018 Thursday
+
+
+c) What can the applicant do before the EPO as receiving Office to avoid that the priority right of FR-NAT2 claimed for PCT-G is considered invalid in the procedure for the grant of a European patent before the EPO as designated Office? 
+
+- The 12-month priority period from FR-NAT2 ended: 
+12 February 2016 + 12 m (R.80.2 PCT) → 12 Feb 2017 Sunday → extended to 13 Feb 2017 Monday (R.80.5 PCT) - Art.4C(1) PC and Art.8(2)(a) PCT
+- Filing date (14 February 2017) is 1 day after the priority period ended, so in principle priority would not be valid. 
+- However, 1 day is less than 2 months (R.26bis.3(a) PCT) and all due care was taken (R.26bis.3(a)(i) PCT), so we can request that the right of priority is restored. 
+- A request for restoration of the right of priority must be filed - Art.8 PCT and R.26bis.3 PCT
+- Time limit to file it: 13 Feb 2017 (when the priority period expired) + 2 months (R.80.2 PCT) → 13 April 2017, Thursday - R.26bis.3(e) PCT
+- It can be filed with the EPO as rO, the request must satisfy the requirements of R.26bis.3(b) PCT
+- EPO applies all due care criteria - AG-IP Annex C, EPO
+- The EPO as rO will only grant the request for restoration of the right of priority if:
+- the international filing date is within 2 months of the date on which the priority period expired → this is satisfied, see calculation above, only 1 day passed since 13 Feb 2017.
+- the request is filed within 2 months from the date on which the priority period expired → Thus we have to file the request the latest on 13 April 2017 Thursday (as calculated above). - R.26bis.3(e) PCT
+- a fee of 750 EUR must be paid within the same time limit - R.26bis.3(d) PCT, A2(1).13 RFees EPC.
+- the request must include a statement explaining the reasons for failure to file the application within the priority period - Rule 26bis.3(b)(ii) PCT
+- if available, with any evidence - Rule 26bis.3(b)(iii) PCT 
+- the failure occurred in spite of all due care having been taken by the applicant → we know that all due care was taken, so we have to prove this to the EPO. The requirements for all due care are the same as described in Art.122 EPC.
+- Since the priority claim was not contained in the international application, we have to file that request earlier as well. Thus, both the request for restoration and the request to add the priority claim of FR-NAT2 must be filed by 13 April 2017. - R.26bis.3(c) PCT
+- If the EPO grants our request for restoration of the right of priority, the decision is valid and will not be reviewed in the Euro-PCT procedure. - Rule 49ter.1(a) PCT 
+- Thus, no new request will be necessary in the EP phase. - PCT-EPO GL A-VI, 1.5
+
+
+
 
 
 -----------------------
