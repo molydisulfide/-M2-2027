@@ -1,0 +1,179 @@
+Question 1
+L3-02 (Selection) (EQE - 4.5 points) 
+
+
+In an international application the claims relate to a method for smoothing the human skin by applying a certain substance, known per se. The International Searching Authority (ISA) refuses to search the claims, considering them as relating to a method of treatment of the human body by therapy. The applicant, however, is convinced that this invention falls in the cosmetic field rather than in the therapeutic field. 
+
+(a) What is the legal basis in the PCT for this refusal by the ISA? Can this refusal be appealed under the provisions of PCT? 
+
+- Legal basis for this refusal by the ISA is A17(2)(a)(i) & R39.1(iv).
+- There is no procedure under PCT to object to the decision by an ISA to issue the declaration under A17(2)(a)(i).
+- No provisions for appeal exist under PCT - AG-IP 6.054
+
+(b) Can the application enter the national phase with non-searched claims? Give reasons for your answer. 
+
+- YES; the IA can enter national phase with non-searched claims.
+- lack of an international search report does not, in itself, have any influence on the validity of the IA, the processing of which, including its communication to the designated Offices, continues - A22(2) PCT; AG-IP 7.013.
+- PCT cannot overrule national law regarding patentability - A27(5)
+
+
+------------------------
+
+
+
+Question 2
+L3-03 (Selection) (EQE - 6 points)
+
+The applicant filed an international patent application. The applicant receives notice from the USPTO as International Searching Authority (ISA) that it considers the application to lack unity and invites the applicant to pay an additional search fee for a second invention. The applicant considers the unity objection is unjust and does not protest or pay the additional fee as requested.
+What is the consequence of non-payment of the additional fee before:
+
+(a) the USPTO as ISA?
+
+- USPTO as ISA will establish the ISR on the first mentioned invention it can identify in the claim set - A17(3)a;
+- in the invitation to pay fees for the second invention, it will indicate reasons for lack of unity, the number of additional fees to be paid and the amount of the protest fee - R40.1(i); R40.1(ii); R40.2.
+- no protest fee and no addditional search fees have been paid in this case. 
+- IA processing continues regardless in respect of all claims - AG-IP 7.021.
+- the national law of any designated State may provide that such unsearched parts of the international application will be considered withdrawn as far as that State is concerned unless a special fee is paid by the applicant to its national Office - A17(3)(b)
+
+
+(b) the EPO as designated Office?
+
+- the declaration of no search for the second invention + the partial search report for the first invention will replace the ESR on entry to EP phase - A153(6) EPC
+- A copy of this search and declaration is communicated by the IB to the EPO as dO in accordance with A20(1)(a) PCT
+- EPO as dO will carry out its own supplementary search anyway, because the ISA was not the EPO itself - A153(7) EPC; OJ 2012, 212.
+- EPO is not bound by the non-unity finding of the USPTO as ISA. During Examination, Exam. Div. will review nonunity finding of ISA and take a final decision - AG-IP 2.038; T 631/97.
+- search fee must be paid on EP entry anyway - R159(1)(e) EPC
+- As EPO didn't do search, no amendments/arguments are required but they may be voluntarily filed, e.g., to explain why the Applicant doesnt agree with the nonunity finding of the USPTO.
+
+If non-unity is established by EPO as dO under A82 EPC during the supplementary search:
+- invitation to pay additional search fee within 2m - R164(1)(b);
+- partial search report drawn up for inventions for which fees have been paid (in this case the first invention in the claim set) - R164(1)(b);
+- applicant will be invited to correct nonunity deficiency - R70a(2) EPC
+- Examination will be limited to 1 invention if deficiency not corrected - G2/92
+- Divisional must be filed while parent is still pending for the other invention - A76(1) EPC; R36 EPC; G 1/09
+- This is only permitted after regional entry - J 18/09, i.e., the IA itself is not a "pending" EP applciation unless all requirements for entry to EP phase are met under A22 PCT.
+
+
+------------------------
+
+Question 3
+L3-08 (Selection) (6 points) 
+
+In August 2024, international application PCT1 was filed while claiming priority from an earlier national application NAT1 from the same applicant. International application PCT1 was filed in English and the EPO was duly indicated as ISA. The applicant immediately paid the fees directly incurred by the filing. 
+Shortly after filing PCT1, the applicant was notified that the record copy was received by the IB and the search copy by the EPO as ISA.The applicant carefully checked the application documents. The applicant noted that PCT1 had been erroneously filed with the claims from another earlier national application NAT2 from the same applicant and filed on the same day as NAT1. NAT2 relates to a different invention than NAT1. The applicant then successfully incorporated the correct claims from NAT1 into PCT1 under PCT Rule 20.5bis(d). The applicant also inquired about the status of PCT1 at the EPO, and the EPO informed the applicant that the search had started a few days before the correct claims were notified by the rO to the EPO. 
+
+Will the EPO as ISA search the original, erroneously filed, claims (i.e., the ones corresponding to those of NAT2), the corrected claims filed under PCT R.20.5bis(d) (i.e., the ones corresponding to those of NAT1), or both? 
+
+Facts:
+
+Aug 2024 = IA filing date
+Prio from same applicant = NAT1
+Language of IA = English
+Fees paid
+ISA = EPO
+whole element (Claims) is erroneously filed. Includes claims of NAT2 which has the same filing date as NAT1 but relates to a different invention.
+Icorp. by ref. succesful.
+EPO has already started search as ISA before rO received the corrected claims through incorp. by ref.
+
+- IA is filed after the period between 1 Jul 2020 and 31 Oct 2022 
+- The erroneously filed claims of NAT2 will remain in the application - R20.5bis(d)
+- In principle, the ISA need not to take into account any erroneously filed element or part which remained in the application under R 20.5bis(d) - PCT NL Oct 2019
+- An ISA may charge the Applicant an additional fee if it is notified of a correction of an erroneously filed element or part only after it has begun drawing up its search report - R40bis.1
+- For the case of EPO as ISA, this additional fee is not charged in the case of missing parts but IS charged in the case of erroneously filed parts - A2(2) No. 2 RFees; OJ 2020 A36, PCT-EPO GL, A-III, 5.1 Additional search fee.
+- This fee is equal to the search fee and must be paid within 1m from the date of invitation - PCT-EPO GL, A-III, 5.1 Additional search fee.
+- If fee is not paid, EPO as ISA need not take into account the new corrected claims incorporated by reference. - PCT NL Oct 2019.
+- EPO will also complete search on the erroneously filed claims and issue a non-official ISR for the Applicant as a courtesy, which does not consitute an official ISR under R43 and WO-ISR under R43bis, and there is no obligation to respond to this on EP entry - PCT-EPO GL, B-III, 2.3.4 Correct elements or parts notified after the start of the search and additional fee.
+
+
+------------------------
+
+Question 4
+L3-12 (10.5 points)
+
+A German applicant and a Swedish applicant jointly filed an international application in Swedish at the European Patent Office indicating the EPO as International Searching Authority (ISA).
+(a) Under what conditions will the EPO act as ISA?
+After receiving the international search report and an unfavourable written opinion of the EPO as ISA the applicants decided to file a demand. The names of both applicants are indicated in the demand. However, the address, nationality and residence of only the German applicant are indicated in the demand. In addition, the demand is signed by the German applicant only.
+(b) How will the EPO as IPEA respond to the missing details?
+
+
+------------------------
+
+
+Question 5
+L3-14 (EQE - 7.5 points)
+
+
+International application PCT-X was filed on 15 May 2023, validly claiming priority from earlier national application NA-X filed on 15 December 2022. The international search report was transmitted to the applicant together with the written opinion of the International Searching Authority on 29 April 2024.
+Only today, 11 March 2025, the applicant's representative realises that no demand for international preliminary examination was filed.
+a) The representative considers withdrawing the priority claim. Is this still possible?
+b) Is it still possible to have international preliminary examination carried out?
+
+------------------------
+
+Question 6
+L3-15 (Selection) (7.5 points) 
+
+
+A French company files an international application on 8 January 2024, invoking the priority of two earlier French applications filed on 9 January and 12 March 2023. The applicant fails to provide copies of the relevant priority documents within the period of 16 months from the earliest priority date. On 5 July 2024 he writes a letter to the International Bureau stating that he withdraws his claimed priority of 9 January 2023, which letter is received at the International Bureau on 9 July 2024. 
+(a)  When will the international application be published? 
+(b)  On what date does the period for submitting a copy of the second priority document expire? 
+(c)  When does the period for entering the national phase expire? 
+
+
+------------------------
+
+
+Question 7
+L3-37 (Selection) (EQE - 7.5 points)
+
+An international application PCT-X was duly filed as a first filing with the French patent office in French by a French company. This application was duly transferred to ROCOM, a company based in Romania. In the meantime, PCT-X has been published.
+ROCOM wants to proceed with PCT-X to international preliminary examination before the EPO and later to the European phase.
+Can ROCOM use, in the written proceedings, Romanian or English for:
+(a) the international phase
+(b) the European phase?
+
+------------------------
+
+
+Question 8
+L3-38 (EQE - 8 points) 
+
+On 4 October 2023 your Spanish client filed a PCT application in Spanish with the Spanish Patent and Trade Mark Office (SPTO). No priority was claimed. Due to a lack of unity objection, which the client accepts, only the first invention was searched by the SPTO. However, your client wants a search to be carried out by the EPO on the second invention before deciding on entry into the national/regional phase but does not want to file a new application. Today is 11 March 2025. 
+
+Facts:
+
+- ES person files in ES with SPTO.
+- No prio is claimed on filing.
+- DoF = 4 Oct 2023.
+- Lack of unity objection from SPTO as rO. Only first invention searched.
+- Today is 11 March 2025 = 17 months and 7 days after DoF
+
+
+a) Is this still possible today?
+
+- If the ISA was one of the European ISAs, e.g., ES, then the demand under Chapter II may be filed with the EPO alongside a request for a supplementary search - GL/PCT-EPO, B-XII 11; A32(2) PCT
+- to get it searched by EPO, we need to choose EPO as IPEA - A32(2)
+- SISA only searches originally filed claims. So we cannot rearrange claim order so that unsearched invention is first in the claim set to get the EPO to search it as SISA. 
+- EPO as SISA has no obligation to search other claims than those searched by ISA anyway (EPG 3.4.011)
+- So a demand for Chapter II must be filed with EPO at any time prior to the expiry of (a) 3m from date of transmittal of ISR; 22m from prio date. - R54bis(a) 
+- In this case, this condition is satisfied here, so we may act. - A31(6)(a); A32(1); R59; A152 EPC, AG-IP 10.006
+- YES it is possible. - R45bis.9(a)
+
+
+b) If so, what steps have to be taken?
+
+- Demand has to be filed with the EPO as competent IPEA - A31(6)(a); A32(1); R59; A152 EPC, AG-IP 10.006
+- Demand has to be signed by all applicants - R53.2(b); R53.8
+- Both IA and Demand will need to be translated to either EN/FR/DE from Spanish - R55.2(a)
+- Demand need not be translated from Spanish as Spanish is language of publication under R48.3
+- Demand is subject to prescribed fees - A31(5)
+- handling fee for benefit of IB collected by IPEA - R57.1;
+- preliminary examination fee for benefit of IPEA collected by IPEA - R58.1, A(2)(1).19 RFeesEPC;
+- SIS request must be filed within 22m of prio date with IB - R45bis.1(a) 
+- in either French, English or language of publication, which in this case is Spanish - R45bis.1(b)(iii) & R92.2(d)
+- indicate the unsearched invention as basis for supplementary search.
+- alternatively, rearrange claim set under A19 or A34 PCT so that unsearched claims are first in the set and the EPO will search the first set of claims at the very least.
+
+
+
+
