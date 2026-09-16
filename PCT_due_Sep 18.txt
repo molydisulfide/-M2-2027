@@ -140,6 +140,35 @@ Only today, 11 March 2025, the applicant's representative realises that no deman
 a) The representative considers withdrawing the priority claim. Is this still possible?
 b) Is it still possible to have international preliminary examination carried out?
 
+Facts:
+- NA-X filed @ 15 Dec 22;
+- PCT-X filed @ 15 May 23;
+- Prio valid;
+- WO-ISR issued @ 29 Apr 24;
+- Today = 11 Mar 25
+
+a) is prio claim withdrawal possible today?
+
+- YES prio claim withdrawal is possible today - R90bis.3
+- Prio claim may be withdrawn at any time prior to expiration of 30m from priority date - R90bis.3(a); A2(xi);
+- 15 Dec 22 + 30m = 15 Jun 25 (Sun) -> [R80.5] -> 16 Jun 25 (Mon);
+- We can still act today on 11 Mar 25;
+- Prio claim will be considered withdrawn effective on receipt of notice of such a withdrawal - R90bis.3(c);
+- Notice needs to be sent to IB or rO - AG-IP 11.056;
+- representative needs to submit Applicant-signed power of attorney to effect withdrawal - R90.4(e).  
+- representative can sign the withdrawal notice in name of applicant - AG-IP 11.056
+
+b) is IPE still possible?
+
+- NO, IPE is not possible any more.
+- Demand must be filed by the later of (i) 3m from date of transmittal of WO-ISR; or (ii) 22 months from prio date - R54bis.1(a)
+- option (i) is 29 Apr 24 + 3m end up in July 2024.  This is in the past -> too late for this option - R54bis.1(b)
+- option (ii) is 15 Dec 22 + 22m = 15 Oct 24.  This is in the past -> too late for this option - R54bis.1(b)
+- Withdrawing priority claim so that time limit for filing demand under R54bis.1(a) can be recalculated is only possible if that time limit has not ALREADY EXPIRED - R90bis.3(d)
+- In this case, it has already expired (see above calculation). So new priority date cannot be used to recalculate deadlines for filing the Demand in this case.
+
+
+
 ------------------------
 
 Question 6
