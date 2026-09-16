@@ -91,9 +91,41 @@ Question 4
 L3-12 (10.5 points)
 
 A German applicant and a Swedish applicant jointly filed an international application in Swedish at the European Patent Office indicating the EPO as International Searching Authority (ISA).
+
 (a) Under what conditions will the EPO act as ISA?
+
+- EPO will act as ISA for applicants who are resident or national of EPC CS - A152 EPC;
+- German applicant and Swedish applicant are CS nationals. So EPO is competent ISA for these individuals.
+- German national and Swedish national are eligible to file PCT application - A9(1);
+- EPO can act as rO - A151 EPC;
+- EPO is also competent rO for CS nationals. So IA may be filed with the EPO for these individuals - EP/Annex C; R19.1(a)(i).
+- However, IA filed at EPO must be filed in EN/FR/DE - R157(2) EPC; R12.1(a). This is not met because IA was filed in Swedish.
+- So EPO will promptly forward to IB, which then acts as rO because it accepts all languages - R19.1(a)(iii); R19.4(a)(ii); AG-IP 6.034;
+- Filing date remains unaffected - R4.19(b)
+- Any fees to EPO will be refunded - AG-IP 6.034;
+- Transmittal fee (A2(1).18 RFeesEPC), filing fee (A2(1).1 RFeesEPC), and search fee (A2(1).2RFeesEPC)
+ must be paid to IB as rO within 1m of date of receipt by IB - R14.1(c); R15.3; R16.1; R19.4(c).
+- Applicant has already indicated EPO as ISA. So IB will forward IA to EPO to act as ISA - R35.3(b)
+- IA needs to be translated for the purposes of international search - R12.3
+- Into a language that is a language accepted by ISA (R12.3(a)(i)), a language of publication [R12.3(a)(ii); R.48.3], a language accepted by rO [R12.3(a)(iii)] under R12.1(a), unless IA is filed in language of publication.
+- in this case, IA was filed not in a language of publication and in a language accepted by rO (IB accepts all languages). So under R12.3(a)(i) and R12.3(a)(i), IA needs to be translated from SE to either EN/DE/FR;
+- 1m from date of receipt by rO to provide this translation - R12.3(a);
+
+
 After receiving the international search report and an unfavourable written opinion of the EPO as ISA the applicants decided to file a demand. The names of both applicants are indicated in the demand. However, the address, nationality and residence of only the German applicant are indicated in the demand. In addition, the demand is signed by the German applicant only.
+
 (b) How will the EPO as IPEA respond to the missing details?
+
+- EPO is competent IPEA for EPO as rO - EP/Annex E
+- EPO can act as IPEA because EPO did the ISR - Agreement EPO-WIPO A3(2)
+- Demand must be signed - R53.2(b)
+- Demand must have Applicant details - R53.4
+- Details of Applicant must include name, adress, nationality - R4.4
+So for the German applicant, everything regarding Demand is fulfilled.
+- It is sufficient under R60.1(a-bis) that only one of the applicants having right to file Demand has indications under R53.4 specified on the Demand.
+- it is sufficient under R60.1(a-ter) that the Demand is only signed by one of the applicants. 
+- Names of both applicants are indicated - R4.5(a)(i)
+- the EPO will consider the Demand duly filed and will not react to the missing details and will carry out IPE - GL/PCT-EPO, C-II, 10. Correction of deficiencies and L/PCT-EPO, C-II, 7. Signature.
 
 
 ------------------------
@@ -171,9 +203,9 @@ b) If so, what steps have to be taken?
 - preliminary examination fee for benefit of IPEA collected by IPEA - R58.1, A(2)(1).19 RFeesEPC;
 - SIS request must be filed within 22m of prio date with IB - R45bis.1(a) 
 - in either French, English or language of publication, which in this case is Spanish - R45bis.1(b)(iii) & R92.2(d)
-- indicate the unsearched invention as basis for supplementary search.
-- alternatively, rearrange claim set under A19 or A34 PCT so that unsearched claims are first in the set and the EPO will search the first set of claims at the very least.
+- indicate the unsearched invention as basis for supplementary search. - PCT-EPO GL, B-XII, 10.3 The main ISA found that unity of invention is lacking;
+- ??? ---- ask Zsofia ----- alternatively, rearrange claim set under A19 or A34 PCT so that unsearched claims are first in the set and the EPO will search the first set of claims at the very least.
 
 
-
+Key point of this question is R45bis.1(d) - we can indicate inventions other than the main invention to be searched by SISA in event of lack-of-unity finding by ISA.  
 
