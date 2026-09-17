@@ -180,6 +180,29 @@ A French company files an international application on 8 January 2024, invoking 
 (b)  On what date does the period for submitting a copy of the second priority document expire? 
 (c)  When does the period for entering the national phase expire? 
 
+a) Publication takes place after - Art.21(2)(a), Art.2(xi)(b) PCT:
+9/1/23 + 18m (R.80.2 PCT) → 9/7/24 Tue
+ IB publishes on Thursdays (AG-IP 9.013), so earliest publication could be 11/7/24
+Technical preparations for publication are completed by: 11/7/24 - 15 days → 26/6/24 - AG-IP 9.014
+So, withdrawal should have been received at IB at latest on 25/6/24 (Tuesday)
+Withdrawal of the priority claim is effective on the receipt of the withdrawal, so only 9/7/24 - R.90bis.3(c) PCT
+This is after the technical preparations for publication, so IB will probably publish in July 2024 - R.90bis.3(e) PCT
+
+
+b)
+Certified copies must be submitted at latest - R.17.1(a); Art.2(xi)(b) PCT: 
+9/1/23 + 16 m (R.80.2 PCT) → 9/5/24 (Thu) (Ascension Day) (R. 80.5 PCT) → 10/5/24
+This was before the receipt of withdrawal of priority claim (9/7/24), so will not be re-computed - R.90bis.3(d) PCT
+Certified copies received later, but before publication are considered received in time - R.17.1(a) PCT 
+So if publication is on 11/7/24, the certified copy may be filed at latest on 10/7/24 
+
+
+c) 30 m period expires on: 9/1/23 + 30m (Art.22(1) for dO or Art.39(1)(a) PCT for eO, R80.2 PCT) → 9/7/25 
+
+
+This has not yet expired on 9/7/24, on the date of receipt of withdrawal of priority claim, so it will be recalculated under R.90bis.3(d) PCT
+Accordingly, the other (remaining) priority claim has to be used as a start date:
+12/3/2023 + 30m (R.80.2 PCT) → 12/9/25 (Fri)
 
 ------------------------
 
@@ -192,6 +215,26 @@ ROCOM wants to proceed with PCT-X to international preliminary examination befor
 Can ROCOM use, in the written proceedings, Romanian or English for:
 (a) the international phase
 (b) the European phase?
+
+a) In the international phase:
+IA was filed in French and was published in French as it is a language of publication - R.48.3(a) PCT
+EPO as IPEA does not require a translation, FR is accepted
+Demand has to be filed in French - R.55.1 PCT
+Amendments have to be filed in French, because IA was filed in French - R.12.2(a) PCT
+Further correspondence to EPO as IPEA can be in English - R.92.2(b) PCT and PCT-EPO GL A-VII, 3.1
+But amendments filed during IPE must be filed in French - R.12.2(a) and R.55.3 PCT
+Correspondence from EPO as IPEA to applicant will be in French - EPO-WIPO Agreement OJ 2017, A115, Art.7 and PCT-EPO GL A-VII, 3.1
+Romanian cannot be used
+
+
+b) In European phase:
+Language of proceedings before EPO is French - Art.14(3) and Art.153(2) EPC
+It cannot be changed to English - G4/08
+Amendments have to be filed in French - R.3(2) EPC
+Amendments to be filed within a time limit may also filed in Romanian (residency) - Art.14(4) EPC, and then translated into French - R.6(2) EPC
+Any other documents to be filed within a time limit may be filed in English or Romanian - Art.14(1) and (4) EPC
+If any of those in Romanian, translation into EN/DE/FR required within, as a rule, 1 m from filing the document - R.6(2) EPC 
+Other correspondence may be filed in English - R.3(1) and Art.14(1) EPC
 
 ------------------------
 
