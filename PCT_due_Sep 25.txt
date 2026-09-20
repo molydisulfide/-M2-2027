@@ -87,8 +87,17 @@ Fees for entry to EP phase include:
 - Hence, designation fee must be paid on EP entry -  Euro-PCT Guide 5.8.001;
 - Examination fee will have to be paid on EP entry as well because we are past 6m from ISR publication - R159(1)(f); A2(1).6 RFeesEPC; GL/EPO, C-II, 1.2
 - Renewal fee in respect of the third year - R159(1)(g) EPC
+- No extra claim fees are incurred because claim count is under 15 on EP entry - R162(1) EPC
 
 in case (b)?
+
+- extra claim fees are incurred because claim count is over 15 on EP entry - R162(1), R162(2) EPC; A2(1).15 RFeesEPC. This can be paid on EP entry or within 6m from the R162 EPC communication.
+- filing fee will have to be paid the same as in (a), mutatis mutandis.
+- EPO was ISA and thus already conducted search - no supplementary ESR will be drawn up and no search fee is due on EP entry - A153(7) EPC; OJ 2022 A29
+- A3 publication is ISR alone after IA was published. So ISR was published at around 20m after IA filing date. So earliest available deadline for filing the demand was at around 21m from filing date. - R54bis.1(a)(i) PCT
+- limit for paying designation fee was at around 26m after filing. R39(1) EPC 
+- We know IPE took place. This must finish at the latest by (i) 28 m after prio date; or (ii) 6m after filing demand. - R69.2 PCT. So assume IPE finished either at 28m after prio. - R69.2(i) PCT or 27m after prio under R69.2(ii) PCT. These are both after the 26m from prio deadline for paying designation fee at the earlier date. 
+- Therefore designation fee must be paid on EP entry at 31m from filing date. - Euro-PCT Guide 5.8.001; (and extension and validation fees, if applicable; Euro-PCT Guide 5.8.012) - R159(1)(d) EPC; R39(1), A79(2) EPC.
 
 
 
