@@ -40,11 +40,29 @@ The application was searched by the USPTO and published by the International Bur
 Company A wants examination of PCT1 in the European phase before the EPO to be started as soon as possible.
 What steps have to be taken?
 
-Minimal requirements for early entry into EP phase:
+- dO may not process IA unless expressly allowed by the Applicant [A23(1), A23(2), A40(1), A40(2) PCT, OJ EPO 2013, p. 156].
 
+Representation: 
 - EPO requires representation for applicants who are not residents of EPC CS - A133(2) EPC
 - EPO as dO of PCT1 applies EPC concerning who needs to be represented - A27(7); R51bis.1(b) PCT
-- US company may carry out early EP entry themselves and pay required fees. Anything after that (including FP/RE or correction of deficiencies) needs to be done by EPO representative. [A133(2)EPC; Euro-PCT Guide 5.3.006]
+- US company may carry out early EP entry themselves and pay required fees. Anything after that (including FP/RE or correction of deficiencies) needs to be done by EPO representative. [A133(2)EPC; Euro-PCT Guide 5.3.006; GL, E-IX, 2.3.1; GL, A-X, 1.]
+- Agent used in int. phase may not be used before the EPO unless they are also EPO representative - GL, E-IX, 2.3.1
+- A separate representative appointment for EP phase is needed even if int. phase agent is EPO representative - GL, E-IX, 2.3.1
+- Best to appoint representative ASAP otherwise invitation will be sent out by EPO - R163(5) EPC
+
+Minimal requirements for early entry into EP phase:
+- supply translation if necessary [R159(1)(a) EPC].  In this case, USPTO did the search and the application is published so it must have been filed in English. Hence, translation not necessary for EPO and PCT pub will become EP pub - A153(3) EPC
+- specify application documents - R159(1)(b) EPC
+- pay filing fee - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC;
+- pay designation fee if European search report is already published - R159(1)(d) EPC; R39(1). Within 6m of search report pub. 
+- in this case, EPO will need to carry out a supplementary European search [A153(7) EPC] but the ISR takes place of the ESR for PCT1 [A153(6) EPC].
+- since examination happened in int. phase and IA is published, ISR is more than likely published with it, so it is highly likely that the designation fee may already be paid. in either case, it seems it will be possible to pay the designation fee before having to wait out the full 31m period. 
+- pay the renewal fee in respect of the third year if the fee has fallen earlier - A86(1) EPC, R51(1) EPC
+- file written request for examination within 6m of ISR publication date - R159(1)(f) EPC if the R70(1) EPC period already expired. Including payment of examination fee - A94(1) EPC; A2(1).6 RFeesEPC.
+- Again, EPO will need to do its own search, but applicant can already file request for examination on entry to EP and waive the R70(2)/R70a(2) invitations.
+- Waive right to receive R161, R162 EPC communications to accelerate.
+- If ISR from USPTO was positive, PPH may be used to potentially accelerate grant at EPO - OJ 2014, A8
+
 
 
 
