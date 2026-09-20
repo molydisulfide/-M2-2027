@@ -15,18 +15,21 @@ An international application was filed by a German applicant as a first applicat
 - 3 Apr 2025 is the LAST day the fee may be paid without incurring additional fees.
 - First renewal fee (in respect of the third year) is due at the EPO on 3 Apr 2025.
 
-
-
-
-
-
 (b) Up until when can it be paid with an additional fee?
 
+- It may still be validly paid within 6m of 3 Apr 2025 provided the additional fee is also paid within this period. - R51(2) EPC; GL, A-X, 5.2.4 Renewal fees 
+- In this case: 3 Apr 2025 + 6m = 3 Oct 2025 -> [Friday but EPO closed] -> R134(1) EPC -> 6 Oct 2025 (Mon). [J 1/81]
+- Additional fee is 50 % of the belated renewal fee - A2(1).5 RFeesEPC
 
 (c) What would be your answer if priority was claimed from an earlier application filed on 3 September 2021?
-
-
-
+In that case:
+- EP entry deadline: 3 Sep 2021 [A2(xi) PCT] + 31m [A22(3) PCT; R159(1) EPC; R131(4) EPC] = 3 Apr 2024.
+- Third year renewal fee date (always calculated from DATE OF FILING): 3 Sep 2022 [A2(xi) PCT] + 2 yr = 3 Sep 2024 + end of month = 30 Sep 2024.  Falls LATER than EP entry date. So MUST NOT be paid immediately on EP entry. Calculated using standard R51(1) EPC date.
+- So renewal fee [A2(1).4 RFeesEPC] can be paid without additional fee [A2(1).5 RFeesEPC] at latest on 30 Sep 2024.
+- If not paid by then, may still be validly paid within 6m of 30 Sep 2024 - R51(2) EPC
+- The additional fee can be paid until the last day of the sixth month following the month containing the anniversary of the date of filing (see J 4/91, reasons 2.7)
+[de ultimo ad ultimo; J 4/91].
+- In this case: 30 Sep 2024 + 6m [de ultimo ad ultimo; J 4/91 and R131(4) EPC shifts to last available day of month anyway] = 28 Feb 2025. 
 
 
 Question 2
