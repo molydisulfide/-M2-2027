@@ -4,7 +4,14 @@ L4-03 (Selection) (EQE - 9.5 points)
 
 An international application was filed by a German applicant as a first application in Germany on 3 September 2022. The international application validly enters the regional phase before the EPO at the end of the normal time limit for EP entry.
 (a) When is the first renewal fee (in respect of the third year) due at the EPO and up until when could it have been paid without additional fee?
+
+- Renewal fee must be paid in respect of the third year and each subsequent year - R159(1)(g) EPC
+- The renewal fee in respect of the third year may not be validly paid more than six months before it falls due - R51(1) EPC
+
+
 (b) Up until when can it be paid with an additional fee?
+
+
 (c) What would be your answer if priority was claimed from an earlier application filed on 3 September 2021?
 
 
