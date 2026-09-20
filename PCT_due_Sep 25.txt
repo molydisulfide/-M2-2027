@@ -7,6 +7,12 @@ An international application was filed by a German applicant as a first applicat
 
 - Renewal fee must be paid in respect of the third year and each subsequent year - R159(1)(g) EPC
 - The renewal fee in respect of the third year may not be validly paid more than six months before it falls due - R51(1) EPC
+- Renewal fee for the IA application after EP entry in respect of the coming year shall be due on the last day of the month containing the anniversary of the date of filing of the European patent application (IA in this case). - R51(1) EPC
+- If renewal fee is due before entering EP phase, it must be paid on entry to EP phase - A86(1) EPC; R51(1) EPC, A2(1).4 RFeesEPC
+
+- In this case: 3 Sep 2022 + 31m = 3 Apr 2025 - 
+
+
 
 
 (b) Up until when can it be paid with an additional fee?
