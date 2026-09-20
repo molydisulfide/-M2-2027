@@ -150,7 +150,7 @@ a)  Your client contacts you today, 11 March 2025, and wants to know what the am
 - Filing fee [A78(2) EPC] for Euro-PCT entry depends on whether Form 1200 was filed online or not. In this case, it was filed by post so the flat filing fee will be 285 EUR - A2(1).1(ii) RFees EPC
 - for a European patent application comprising more than 35 pages, the additional fee is 17 EUR for the 36th and each subsequent page - R38(2) EPC; A2(1).1a RFees EPC
 - This is calculated on the basis of IA publication; in Chinese in this case - GL/EPO A-III 13.2
-- If pages are amended, translation of IA as required under A153(4) EPC and R159(1)(a) EPC are taken as basis instead.  So translation of description and claims is taken as basis. - GL/EPO A-III 13.2
+- If pages are amended, translation of IA as required under A153(4) EPC and R159(1)(a) EPC are taken as basis instead.  So translation of description and claims is taken as basis. - GL/EPO A-III 13.2; OJ EPO 2009, 338
 - in this case, then we have translated description and AMENDED claims. So original Chinese description has not been amended and will form basis for page fee calculation with 40 pages. 
 - claims have been amended. so translated version will form basis for page fee calculation with 3 pages.
 - SO total is 43 pages + 1 page of bibliographic data/abstract = 44 pages. surplus pages are 44 - 35 = 9 pages. 
@@ -163,7 +163,7 @@ b)  What is the latest date for paying the filing fee without incurring addition
 - Additional page fee paid as part of filing fee if EP app comprises more than 35 pages - GL/EPO A-III 13.2
 - This is payable as part of the filing fee within 31m period of R159(1) EPC as part of the filing fee.
 - Latest possible day for EP entry is 31m from filing (prio) date of PCT-CN. - A22(3) PCT
-- 29 Oct 2022 [A2(xi) PCT] + 31m = 29 May 2025 [EPO closed] -> R134(1) EPC -> 30 May 2025 (Fri).
+- 29 Oct 2022 [A2(xi) PCT] + 31m [R131(4) EPC] = 29 May 2025 [EPO closed] -> R134(1) EPC -> 30 May 2025 (Fri).
 - the latest date for paying the filing fee without incurring additional fees is 30 May 2025.
 
 
