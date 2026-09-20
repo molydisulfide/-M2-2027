@@ -1,0 +1,96 @@
+Question 1
+L4-03 (Selection) (EQE - 9.5 points)
+
+
+An international application was filed by a German applicant as a first application in Germany on 3 September 2022. The international application validly enters the regional phase before the EPO at the end of the normal time limit for EP entry.
+(a) When is the first renewal fee (in respect of the third year) due at the EPO and up until when could it have been paid without additional fee?
+(b) Up until when can it be paid with an additional fee?
+(c) What would be your answer if priority was claimed from an earlier application filed on 3 September 2021?
+
+
+
+
+
+Question 2
+L4-11 (EQE - 6 points)
+
+US company A filed an international application PCT1 with the USPTO. The application was searched by the USPTO and published by the International Bureau. Company A wants examination of PCT1 in the European phase before the EPO to be started as soon as possible.
+What steps have to be taken?
+
+
+
+
+
+Question 3
+L4-14 (Selection) (EQE - 9 points)
+
+You are asked to perform the necessary acts for entering the regional phase before the EPO in respect of:
+(a) an international application, PCT1, filed 18 months ago in the USA validly claiming the priority of an earlier application filed 30 months ago. The USPTO was the International Searching Authority (ISA). The international application was published as A1 publication. International Preliminary Examination has not been requested. The application contains twelve claims.
+(b) an international application, PCT2, filed 30 months ago in the USA without any priority claim. Two months after international publication, the A3 publication was published. International Preliminary Examination has been carried out. The EPO was International Searching Authority (ISA) and International Preliminary Examining Authority (IPEA). The application contains eighteen claims.
+Which fees are to be paid for entering the regional phase:
+in case (a)?
+in case (b)?
+
+
+
+Question 4
+L4-18 (Selection) (EQE - 10.5 points)
+
+Today, 11 March 2025, you receive a letter from a US client asking you to perform the necessary acts for entering the regional phase before the EPO for an international application, if still possible. He filed the international application on 16 July 2023 with the US Patent Office (USPTO). The priorities of US applications dated 16 July 2022 and 22 October 2022 were claimed.
+International search and preliminary examination was carried out by the USPTO. The subject-matter of each of the original fifteen claims met the requirements of PCT Article 33(1) to (4).
+Since the period for performing the necessary acts for entering the regional phase before the EPO has already lapsed, your client proposes to withdraw the first of the priority claims in order to extend this period.
+(a) Will withdrawal of the first priority claim have the desired effect?
+(b) If this priority claim were maintained, would it still be possible to enter the regional phase before the EPO and, if so, what measures should be taken?
+
+
+Question 5
+L4-26 (EQE - 10.5 points) 
+
+
+An international application was filed on 17 October 2024 with the intention to enter the EP regional phase. A priority of 17 October 2023 was claimed. The abstract is missing in the international application. 
+The receiving Office has invited company A to correct the defect, setting a time limit which ended on 8 February 2025. In the meantime, due to the sudden bankruptcy of its main debtor, company A faced severe financial difficulties, neglected the application and did not react to the invitation. 
+As a consequence, the receiving Office considered the application withdrawn and dispatched the corresponding declaration, dated 20 February 2025. After being fully informed of the status of the application, company C took over all assets of company A on 25 February 2025.
+Today, early March 2025, C asks you whether it is possible to revive the international application or at least to save the designation EP, and if so, what the time limits involved are. 
+
+
+
+
+
+Question 6
+L4-29 (Selection) (7 points)
+
+
+An applicant wanted to enter the EP phase with his international application and duly filed a translation into English, and paid the filing fee and search fee.
+Shortly after the 31m time limit, the applicant received a loss-of-rights communication, indicating that the application was deemed to be withdrawn due to non-payment of the designation and examination fee and not filing the request for examination. One week after having received the communication, the applicant got into the hospital and despite all due care, he missed the time limit to request further processing with respect to the missed periods.
+How many re-establishment fees does the applicant need to pay?
+
+
+
+
+
+Question 7
+L4-39 (EQE 2014) (6 points)
+
+International application PCT-CN was filed by your client, a large Chinese company, on 29 October 2022 in Chinese with the Chinese patent office (CNIPA). The publication of PCT-CN contains 40 pages of description and 2 pages of claims. In order to enter the European phase, your client provides you with an English translation of the description of PCT-CN comprising 35 pages and an amended set of claims in English comprising 3 pages. These documents will be submitted to the EPO by post together with EPO Form 1200. 
+a)  Your client contacts you today, 11 March 2025, and wants to know what the amount of the filing fee will be. 
+b)  What is the latest date for paying the filing fee without incurring additional fees? 
+
+
+
+Question 8
+2017 Paper D1 - QUESTION 1 		(6 MARKS) 
+
+On 7 August 2014, applicant A filed PCT-A with the EPO as receiving Office. PCT-A does not claim priority of an earlier application and contains two claims, independent claim 1 and independent claim 2. In February 2015, the applicant received from the EPO as International Searching Authority (ISA) a partial search report for the first invention and an invitation to pay an additional search fee for the second invention. The applicant did not respond to the invitation. The applicant received an international preliminary report on patentability (IPRP) repeating the lack of unity objection and with a positive opinion for the first invention. 
+Today (7 March 2017), the applicant would like to have the second invention searched by the EPO. 
+Consider the following two situations: 
+a) Advise the applicant on how to have the first invention granted as a European patent as soon as possible and to get the second invention searched. 
+b) The applicant only wants to pursue one European patent application but does not know yet for which invention he wishes to obtain protection. Advise the applicant on which steps to take to be able to base this decision on a search from the EPO for both inventions. 
+
+
+Optional question (recommended for Paper M4 candidates only)
+L4-34 (7 points) 
+
+An international application PCT-JP was filed in Japanese at the Japanese Patent Office without claiming priority on 20 September 2022. The international application PCT-JP was published on 22 March 2024, the international search report on 28 June 2024. In September 2024, the applicant has been informed of an infringer in one of the designated EPC Contracting States. He wishes to claim reasonable compensation from the infringer prior to the grant of the European patent Euro-PCT-JP.
+How should the applicant proceed (today is 11 March 2025)?
+
+
