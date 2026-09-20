@@ -35,8 +35,16 @@ In that case:
 Question 2
 L4-11 (EQE - 6 points)
 
-US company A filed an international application PCT1 with the USPTO. The application was searched by the USPTO and published by the International Bureau. Company A wants examination of PCT1 in the European phase before the EPO to be started as soon as possible.
+US company A filed an international application PCT1 with the USPTO. 
+The application was searched by the USPTO and published by the International Bureau. 
+Company A wants examination of PCT1 in the European phase before the EPO to be started as soon as possible.
 What steps have to be taken?
+
+Minimal requirements for early entry into EP phase:
+
+- EPO requires representation for applicants who are not residents of EPC CS - A133(2) EPC
+- EPO as dO of PCT1 applies EPC concerning who needs to be represented - A27(7); R51bis.1(b) PCT
+- US company may carry out early EP entry themselves and pay required fees. Anything after that (including FP/RE or correction of deficiencies) needs to be done by EPO representative. [A133(2)EPC; Euro-PCT Guide 5.3.006]
 
 
 
