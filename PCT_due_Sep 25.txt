@@ -29,7 +29,7 @@ In that case:
 - If not paid by then, may still be validly paid within 6m of 30 Sep 2024 - R51(2) EPC
 - The additional fee can be paid until the last day of the sixth month following the month containing the anniversary of the date of filing (see J 4/91, reasons 2.7)
 [de ultimo ad ultimo; J 4/91].
-- In this case: 30 Sep 2024 + 6m [de ultimo ad ultimo; J 4/91 and R131(4) EPC shifts to last available day of month anyway] = 28 Feb 2025. 
+- In this case: 30 Sep 2024 + 6m [de ultimo ad ultimo; J 4/91] = 31 Mar 2025. 
 
 
 Question 2
