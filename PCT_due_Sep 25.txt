@@ -9,8 +9,13 @@ An international application was filed by a German applicant as a first applicat
 - The renewal fee in respect of the third year may not be validly paid more than six months before it falls due - R51(1) EPC
 - Renewal fee for the IA application after EP entry in respect of the coming year shall be due on the last day of the month containing the anniversary of the date of filing of the European patent application (IA in this case). - R51(1) EPC
 - If renewal fee is due before entering EP phase, it must be paid on entry to EP phase - A86(1) EPC; R51(1) EPC, A2(1).4 RFeesEPC
+- In this case: 
+- EP entry date: 3 Sep 2022 [A2(xi) PCT] + 31m [A22(3) PCT; R159(1) EPC; R131(4) EPC] = 3 Apr 2025
+- Third year renewal fee date: 3 Sep 2022 [A2(xi) PCT] + 2 yr = 3 Sep 2024 + end of month = 30 Sep 2024.  Falls EARLIER than EP entry date. So MUST be paid immediately on EP entry. - R159(1)(g) EPC; A86(1) EPC; R51(1) EPC
+- 3 Apr 2025 is the LAST day the fee may be paid without incurring additional fees.
+- First renewal fee (in respect of the third year) is due at the EPO on 3 Apr 2025.
 
-- In this case: 3 Sep 2022 + 31m = 3 Apr 2025 - 
+
 
 
 
