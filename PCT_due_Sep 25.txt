@@ -52,6 +52,7 @@ Representation:
 - Best to appoint representative ASAP otherwise invitation will be sent out by EPO - R163(5) EPC
 
 Minimal requirements for early entry into EP phase:
+- search fee - R159(1)(e) EPC
 - supply translation if necessary [R159(1)(a) EPC].  In this case, USPTO did the search and the application is published so it must have been filed in English. Hence, translation not necessary for EPO and PCT pub will become EP pub - A153(3) EPC
 - specify application documents - R159(1)(b) EPC
 - pay filing fee - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC;
@@ -77,17 +78,22 @@ You are asked to perform the necessary acts for entering the regional phase befo
 Which fees are to be paid for entering the regional phase:
 in case (a)?
 Fees for entry to EP phase include:
+- search fee for supplementary ESR since EPO did not do the search in int. phase - R159(1)(e) EPC; A153(7) EPC; A2(1).2 RFeesEPC
 - filing fee - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC;
 - designation fee (and extension and validation fees, if applicable; Euro-PCT Guide 5.8.012) if European search report is already published - R159(1)(d) EPC; R39(1), A79(2) EPC.
 - Within 6m of search report pub. - R39(1) EPC.  
 - in this case, EPO will need to carry out a supplementary European search [A153(7) EPC] but the ISR takes place of the ESR for PCT1 [A153(6) EPC].
 - In this case, A1 publication already happened for the IA, which INCLUDES the ISR. So this deadline has already expired around 6m ago. - R48.2(a)(v) 
 - Hence, designation fee must be paid on EP entry -  Euro-PCT Guide 5.8.001;
-
-
+- Examination fee will have to be paid on EP entry as well because we are past 6m from ISR publication - R159(1)(f); A2(1).6 RFeesEPC; GL/EPO, C-II, 1.2
+- Renewal fee in respect of the third year - R159(1)(g) EPC
 
 in case (b)?
 
+
+
+
+---------------------------------------------
 
 
 Question 4
