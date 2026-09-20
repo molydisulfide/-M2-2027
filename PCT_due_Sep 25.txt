@@ -55,7 +55,7 @@ Minimal requirements for early entry into EP phase:
 - supply translation if necessary [R159(1)(a) EPC].  In this case, USPTO did the search and the application is published so it must have been filed in English. Hence, translation not necessary for EPO and PCT pub will become EP pub - A153(3) EPC
 - specify application documents - R159(1)(b) EPC
 - pay filing fee - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC;
-- pay designation fee if European search report is already published - R159(1)(d) EPC; R39(1). Within 6m of search report pub. 
+- pay designation fee if European search report is already published - R159(1)(d) EPC; R39(1); A79(2) EPC. Within 6m of search report pub. 
 - in this case, EPO will need to carry out a supplementary European search [A153(7) EPC] but the ISR takes place of the ESR for PCT1 [A153(6) EPC].
 - since examination happened in int. phase and IA is published, ISR is more than likely published with it, so it is highly likely that the designation fee may already be paid. in either case, it seems it will be possible to pay the designation fee before having to wait out the full 31m period. 
 - pay the renewal fee in respect of the third year if the fee has fallen earlier - A86(1) EPC, R51(1) EPC
@@ -78,13 +78,12 @@ Which fees are to be paid for entering the regional phase:
 in case (a)?
 Fees for entry to EP phase include:
 - filing fee - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC;
-- designation fee (and extension and validation fees, if applicable; Euro-PCT Guide 5.8.012) if European search report is already published - R159(1)(d) EPC; R39(1).
-- Within 6m of search report pub. - R39(1) EPC.  In this case, A1 publication already happened for the IA, which INCLUDES the ISR. So this deadline has already expired. 
+- designation fee (and extension and validation fees, if applicable; Euro-PCT Guide 5.8.012) if European search report is already published - R159(1)(d) EPC; R39(1), A79(2) EPC.
+- Within 6m of search report pub. - R39(1) EPC.  
+- in this case, EPO will need to carry out a supplementary European search [A153(7) EPC] but the ISR takes place of the ESR for PCT1 [A153(6) EPC].
+- In this case, A1 publication already happened for the IA, which INCLUDES the ISR. So this deadline has already expired around 6m ago. - R48.2(a)(v) 
 - Hence, designation fee must be paid on EP entry -  Euro-PCT Guide 5.8.001;
 
-- in this case, EPO will need to carry out a supplementary European search [A153(7) EPC] but the ISR takes place of the ESR for PCT1 [A153(6) EPC].
-- So 6m  since publication of ISR was 12m ago. So designation fee is 
-- since examination happened in int. phase and IA is published, ISR is more than likely published with it, so it is highly likely that the designation fee may already be paid. in either case, it seems it will be possible to pay the designation fee before having to wait out the full 31m period. 
 
 
 in case (b)?
