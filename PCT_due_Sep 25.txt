@@ -99,6 +99,7 @@ in case (b)?
 - We know IPE took place. This must finish at the latest by (i) 28 m after prio date; or (ii) 6m after filing demand. - R69.2 PCT. So assume IPE finished either at 28m after prio. [R69.2(i) PCT] or at 27m after prio under R69.2(ii) PCT. These are both AFTER the 26m from prio deadline for paying designation fee at the earlier date. 
 - Therefore designation fee must be paid on EP entry at 31m from filing date. - Euro-PCT Guide 5.8.001; (and extension and validation fees, if applicable; Euro-PCT Guide 5.8.012) - R159(1)(d) EPC; R39(1), A79(2) EPC.
 - Examination fee will be reduced by 75 % because EPO was IPEA - RFees 14(2); OJ 2018, A4.
+- Renewal fee standard deadline under R51(1) EPC expired about 6m ago, so renewal fee for 3rd year MUST be paid on EP entry - R159(1)(g) EPC.
 
 
 
@@ -137,7 +138,7 @@ Shortly after the 31m time limit, the applicant received a loss-of-rights commun
 How many re-establishment fees does the applicant need to pay?
 
 
-
+---------------------------------------------------
 
 
 Question 7
@@ -145,8 +146,28 @@ L4-39 (EQE 2014) (6 points)
 
 International application PCT-CN was filed by your client, a large Chinese company, on 29 October 2022 in Chinese with the Chinese patent office (CNIPA). The publication of PCT-CN contains 40 pages of description and 2 pages of claims. In order to enter the European phase, your client provides you with an English translation of the description of PCT-CN comprising 35 pages and an amended set of claims in English comprising 3 pages. These documents will be submitted to the EPO by post together with EPO Form 1200. 
 a)  Your client contacts you today, 11 March 2025, and wants to know what the amount of the filing fee will be. 
+
+- Filing fee [A78(2) EPC] for Euro-PCT entry depends on whether Form 1200 was filed online or not. In this case, it was filed by post so the flat filing fee will be 285 EUR - A2(1).1(ii) RFees EPC
+- for a European patent application comprising more than 35 pages, the additional fee is 17 EUR for the 36th and each subsequent page - R38(2) EPC; A2(1).1a RFees EPC
+- This is calculated on the basis of IA publication; in Chinese in this case - GL/EPO A-III 13.2
+- If pages are amended, translation of IA as required under A153(4) EPC and R159(1)(a) EPC are taken as basis instead.  So translation of description and claims is taken as basis. - GL/EPO A-III 13.2
+- in this case, then we have translated description and AMENDED claims. So original Chinese description has not been amended and will form basis for page fee calculation with 40 pages. 
+- claims have been amended. so translated version will form basis for page fee calculation with 3 pages.
+- SO total is 43 pages + 1 page of bibliographic data/abstract = 44 pages. surplus pages are 44 - 35 = 9 pages. 
+- 9 x 17 EUR = 153 EUR.
+- Added to flat filing fee is 153 EUR + 285 EUR = 438 EUR.
+
 b)  What is the latest date for paying the filing fee without incurring additional fees? 
 
+- Filing fee including any additional page fees must be paid on EP entry. - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC, A2(1).1 and .1a RFeesEPC
+- Additional page fee paid as part of filing fee if EP app comprises more than 35 pages - GL/EPO A-III 13.2
+- This is payable as part of the filing fee within 31m period of R159(1) EPC as part of the filing fee.
+- Latest possible day for EP entry is 31m from filing (prio) date of PCT-CN. - A22(3) PCT
+- 29 Oct 2022 [A2(xi) PCT] + 31m = 29 May 2025 [EPO closed] -> R134(1) EPC -> 30 May 2025 (Fri).
+- the latest date for paying the filing fee without incurring additional fees is 30 May 2025.
+
+
+---------------------------------------------
 
 
 Question 8
