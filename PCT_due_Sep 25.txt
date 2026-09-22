@@ -177,7 +177,32 @@ On 7 August 2014, applicant A filed PCT-A with the EPO as receiving Office. PCT-
 Today (7 March 2017), the applicant would like to have the second invention searched by the EPO. 
 Consider the following two situations: 
 a) Advise the applicant on how to have the first invention granted as a European patent as soon as possible and to get the second invention searched. 
+
+- 7 Aug 2014 to 7 Mar 2017 is exactly 31m
+- 7 Mar 2017 is a working day at the EPO. So it is the last day for entering EP phase without additional fees - R159(1) EPC; A22(3) PCT; R50 PCT
+
+How to get EP granted ASAP:
+- carry out all acts necessary to enter EP phase TODAY, i.e.,:
+- no translation needed under R159(1)(a) EPC as EPO was ISA so PCT-A is already in DE or EN or FR;
+- specify application documents - R159(1)(b) EPC
+- pay filing fee - R159(1)(c) EPC; A78(2) EPC, R38(1) EPC;
+- pay designation fee if European search report is already published - R159(1)(d) EPC; R39(1); A79(2) EPC. Within 6m of search report pub. 
+- in this case, EPO will not need to carry out a supplementary European search under A153(7) EPC but the ISR will take place of the ESR for PCT1 [A153(6) EPC].
+- pay the renewal fee in respect of the third year if the fee has fallen earlier - A86(1) EPC, R51(1) EPC
+- file written request for examination  - R159(1)(f) EPC if the R70(1) EPC period already expired. Including payment of examination fee - A94(1) EPC; A2(1).6 RFeesEPC.
+- Again, EPO will need to do its own search, but applicant can already file request for examination on entry to EP and waive the R70(2)/R70a(2) invitations.
+- Waive right to receive R161, R162 EPC communications to accelerate.
+- search fee FOR THE FIRST INVENTION under R159(1)(e) EPC need not be paid because EPO was ISA and already did the search. - A153(7) EPC, OJ 2022 A29
+- amend the claim set on EP entry to remove independent claim 2. indicate documents under R159(1)(b) EPC to be the new amended claim set containing only independent claim 1. remove any conflicting parts of the description to avoid any office actions under A94(3) EPC asking to correct description, etc. 
+- Respond to ISR drafted by EPO when filing the amended claim set indicating that you are proceeding with the application. 
+
+
+
 b) The applicant only wants to pursue one European patent application but does not know yet for which invention he wishes to obtain protection. Advise the applicant on which steps to take to be able to base this decision on a search from the EPO for both inventions. 
+
+
+
+----------------------------------------------
 
 
 Optional question (recommended for Paper M4 candidates only)
