@@ -191,9 +191,9 @@ How to get EP granted ASAP:
 - pay the renewal fee in respect of the third year if the fee has fallen earlier - A86(1) EPC, R51(1) EPC
 - file written request for examination  - R159(1)(f) EPC if the R70(1) EPC period already expired. Including payment of examination fee - A94(1) EPC; A2(1).6 RFeesEPC.
 - Again, EPO will need to do its own search, but applicant can already file request for examination on entry to EP and waive the R70(2)/R70a(2) invitations.
-- Waive right to receive R161, R162 EPC communications to accelerate.
-- search fee FOR THE FIRST INVENTION under R159(1)(e) EPC need not be paid because EPO was ISA and already did the search. - A153(7) EPC, OJ 2022 A29
-- amend the claim set on EP entry to remove independent claim 2. indicate documents under R159(1)(b) EPC to be the new amended claim set containing only independent claim 1. remove any conflicting parts of the description to avoid any office actions under A94(3) EPC asking to correct description, etc. 
+- Waive right to receive R161, R162 EPC communications to accelerate - OJ 2015 A93
+- search fee FOR THE FIRST INVENTION under R159(1)(e) EPC need not be paid because EPO was ISA and already did the search. - A153(7) EPC, R164(2) EPC; OJ 2022 A29
+- amend the claim set on EP entry to remove independent claim 2 to be in keeping with A82 EPC. indicate documents under R159(1)(b) EPC to be the new amended claim set containing only independent claim 1. remove any conflicting parts of the description to avoid any office actions under A94(3) EPC asking to correct description, etc. 
 - Respond to ISR drafted by EPO when filing the amended claim set indicating that you are proceeding with the application. 
 
 How to get second invention searched:
@@ -206,9 +206,13 @@ Alternatively:
 
 
 
-
-
 b) The applicant only wants to pursue one European patent application but does not know yet for which invention he wishes to obtain protection. Advise the applicant on which steps to take to be able to base this decision on a search from the EPO for both inventions. 
+
+- EPO was ISA so the first invention had already been searched by the EPO. 
+- To get the second invention searched, he can either file a divisional once parent enters EP and pay the required fees, including a new search fee; 
+- or he can enter EP phase with all (and maybe amended) claims, indicating the claim to be searched to be independent claim 2. 
+- EPO will issue invite under R164(2)(a) EPC to pay a search fee within 2m.
+- If he decides to pursue invention 1 or 2, he will have to restrict the application to a single invention - G 2/92; C-III, 3.2.2; H-II, 6.4.2 - R164(2)(b)(c) EPC.
 
 
 
