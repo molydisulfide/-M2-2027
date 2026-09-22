@@ -196,6 +196,16 @@ How to get EP granted ASAP:
 - amend the claim set on EP entry to remove independent claim 2. indicate documents under R159(1)(b) EPC to be the new amended claim set containing only independent claim 1. remove any conflicting parts of the description to avoid any office actions under A94(3) EPC asking to correct description, etc. 
 - Respond to ISR drafted by EPO when filing the amended claim set indicating that you are proceeding with the application. 
 
+How to get second invention searched:
+
+- entering EP phase with both claims and making arguments as to their unity will not work because applicant did not respond to partial ISR in int. phase.  Will need to restrict to one invention only; only first invention in claim set was searched - G 2/92
+- file divisional [A76(1) EPC; R36 EPC] while parent is still pending and make independent claim 2 the first claim of the divisional. keep the exact same description as for the parent (at least for now);
+- pay search fee and filing fee within 1m of filing the divisional - R36(3) EPC 
+Alternatively:
+- enter EP phase with both claims in the claim set and pay additional search fee to have EPO search independent claim 2 after EP entry. once supplementary ESR is drawn up for the second invention, decide whether it's worth pursuing and file a divisional while the parent is still pending [A76(1) EPC; R36 EPC] for the second invention. 
+
+
+
 
 
 b) The applicant only wants to pursue one European patent application but does not know yet for which invention he wishes to obtain protection. Advise the applicant on which steps to take to be able to base this decision on a search from the EPO for both inventions. 
