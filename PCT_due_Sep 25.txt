@@ -130,6 +130,21 @@ Since the period for performing the necessary acts for entering the regional pha
 - 31m limit for EP entry was 17 FEB 2025 (Mon)
 - This was 22 days ago.
 - Applicant can pay omitted fees, request further processing (FP) under A121 EPC within a period of 2m from R160(2) EPC notification and pay the FP fee for each of the omitted acts - R135(1) EPC, A2(1).12 RFeesEPC
+- 22 days is less than 2m, so FP is available for EP entry.
+- Alternatively, if all due care is proven, re-establishment of rights (RE) in the 2m period for FP is under R135(1) EPC is possible if all due care criterion is met. - A122 EPC; R136(3) EPC. 
+- For each omitted act, RE fee has to be paid and the omitted act has to be completed, resulting in an RE and FP fee for each omitted act under R159(1) EPC. 
+- So better to request FP under A121(1) EPC; R135(1) EPC.
+- USPTO did the ISR. So IA had to be published in English. So no translation and FP fee for translation is needed under R159(1)(a) EPC.
+- no FP fee is due for specifying the documents under R159(1)(b) [GL E-VIII 3.1.3]
+- Filing fee (and any additional page fees GL, A-III, 13.2) under R159(1)(c) EPC and FP fee (comprising 50 % of filing fee + 50 % of additional fee) need to be paid.
+- Designation fee and FP fee for that - R159(1)(d). It has to be paid on entry because we are 31m past priority date.
+- Search fee will have to be paid because EPO needs to do its own search as USPTO was ISA in int. phase - A153(7) EPC; OJ 2009, 594. 1 FP fee for that as well - R159(1)(e) EPC
+- Request for examinaton + examination fee (unitary act) = 1 FP fee comprising 50 % flat fee + 50 % examination fee) - R159(1)(f)
+- No additional claims fees need to be paid as there are only 15 claims - R162(1) EPC
+- Renewal fee was due on entry as R51(1) EPC date fell earlier - R159(1)(g) EPC
+- This has no FP available.  6-month time limit of R.51(2) EPC applies, Further Processing is not possible.
+- 16 FEB 2025 + 6m [R131(4) EPC] = 16 AUG 2025 (Sat) -> de ultimo ad ultimo [J 4/91] -> 31 AUG 2025 (Sun) -> [R134(1) EPC] -> 1 SEP 2025 (Mon). 
+- Renewal fee for 3rd year need not be paid on entry but can be paid until 01 SEP 2025 with additional fee of 50 % of belated renewal fee [RFees2(1)(5) EPC]
 
 
 
