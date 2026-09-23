@@ -115,6 +115,25 @@ Since the period for performing the necessary acts for entering the regional pha
 (a) Will withdrawal of the first priority claim have the desired effect?
 (b) If this priority claim were maintained, would it still be possible to enter the regional phase before the EPO and, if so, what measures should be taken?
 
+(a)
+- Entry to regional/national phase is calculated from date of earliest priority claimed when there are multiple priority claims - A2(xi)(b) PCT.
+- So removing the oldest priority claim [16 JUL 2022] would, in principle, shift the date for re-calculating the EP entry period to just the single left-over priority claim of [22 OCT 2022] under A2(xi)(a) PCT.
+- Withdrawing priority claim made under A8(1) PCT/A4C PC is possible under PCT at any time prior to expiration of 30 months from the priority date - R90bis.3(a) PCT
+- If there are multiple priority claims, its possible to withdraw just one of them - R90bis.3(b) PCT
+- However, only time limits that have NOT ALREADY EXPIRED will be re-computed from the new priority date - R90bis.3(d) PCT
+- 16 JUL 2022 [A2(xi) PCT] + 31m [R159.1(a) EPC] = 16 FEB 2025 (Sun) -> [R134(1) EPC] -> 17 FEB 2025 (Mon)
+- Today is 11 MAR 2025, so this limit has already expired and will not be recalculated - R90bis.3(d) PCT.
+- Moreover, we are also past the 30m expiration under R90bis.3(a) PCT. So NO priority withdrawal may be carried out at all for the first priority claim this application under the PCT.
+- Withdrawal of the first priority will not have the desired effect.
+
+(b) 
+- 31m limit for EP entry was 17 FEB 2025 (Mon)
+- This was 22 days ago.
+- Applicant can pay omitted fees, request further processing (FP) under A121 EPC within a period of 2m from R160(2) EPC notification and pay the FP fee for each of the omitted acts - R135(1) EPC, A2(1).12 RFeesEPC
+
+
+
+----------------------------------------------
 
 Question 5
 L4-26 (EQE - 10.5 points) 
