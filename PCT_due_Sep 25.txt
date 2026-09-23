@@ -141,11 +141,12 @@ Since the period for performing the necessary acts for entering the regional pha
 - Search fee will have to be paid because EPO needs to do its own search as USPTO was ISA in int. phase - A153(7) EPC; OJ 2009, 594. 1 FP fee for that as well - R159(1)(e) EPC
 - Request for examinaton + examination fee (unitary act) = 1 FP fee comprising 50 % flat fee + 50 % examination fee) - R159(1)(f)
 - No additional claims fees need to be paid as there are only 15 claims - R162(1) EPC
-- Renewal fee was due on entry as R51(1) EPC date fell earlier - R159(1)(g) EPC
-- This has no FP available.  6-month time limit of R.51(2) EPC applies, Further Processing is not possible.
-- 16 FEB 2025 + 6m [R131(4) EPC] = 16 AUG 2025 (Sat) -> de ultimo ad ultimo [J 4/91] -> 31 AUG 2025 (Sun) -> [R134(1) EPC] -> 1 SEP 2025 (Mon). 
-- Renewal fee for 3rd year need not be paid on entry but can be paid until 01 SEP 2025 with additional fee of 50 % of belated renewal fee [RFees2(1)(5) EPC]
-
+- Renewal fee is calculated from FILING date - NOT prio date - R51(1) EPC
+- Renewal fee is due on 31 JUL 2025. 
+- It can be paid 6m in advance - R51(1) EPC
+- So can be paid today.
+- After expiry of 31m period, only professional rep. can perform FP acts for US client - A27(7) PCT; Art. 133(2) EPC
+- If US client doesnt appoint one, EPO will invite him to do so within 2m - R163(5) EPC
 
 
 ----------------------------------------------
