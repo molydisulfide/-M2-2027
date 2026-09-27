@@ -1,0 +1,205 @@
+Question 1
+B4-01 (Selection) (EQE - 12 points)
+
+
+Today is 11 March 2025. In which of the following cases is the applicant filing a European patent application entitled to a reduction in the filing fee? 
+(a)  A British national, resident in Sweden, files a European patent application in Swedish. 
+- YES. 
+- Natural person resident in Sweden (EPC state) filing an EP application in the official language of Sweden, which is different from EN/DE/FR - A14(4) EPC; R7a(1) EPC
+- Also eligible for reduction in filing fee as a natural person under R7a(3) EPC.
+- Reduction is 30 % under Rfees14(1). Applied twice in this case under Rfees14(3) EPC.
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+(b)  An Argentinean national, resident in France, files a European patent application in Spanish. 
+- YES
+- ARG national is not an A14(4) EPC person.
+- but they are a natural person and will get the 30 % discount under R7a(3) EPC regardless of residency, language or nationality. - OJ 2024; A8
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+
+(c)  An SME with their principle place of business in Switzerland files a European patent application in Italian. 
+- Italian is an official language of Switzerland - National Law relating to EPC, II., Switzerland, 4.
+- SME is officially eligible for R7a(1) EPC discount under R7a(2) EPC
+- Hence, the SME is an eligible A14(4) EPC person for the discount under R7a(1) EPC.
+- It is NOT eligible for the further sequential discount [Rfees14(3) EPC] under R7a(3) EPC as an SME. - OJ 2024; A8
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+
+(d)  A Spanish European patent attorney files a European patent application in Spanish for a natural person who is resident in and a national of Andorra. 
+
+- No eligibility under R7a(1) because the person is not an A14(4) person.
+- Nationality of agent has no effect on A14(4) EPC eligibility - T 149/85.
+- Applicant is a natural person; will get discount under R7a(3) EPC.
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+
+(e)  A firm whose principal place of business is in Germany and a Belgian national who is resident in Germany together file a European patent application in Dutch. The firm employs only ten people with an annual turnover of 1 million Euros. 
+
+- Definition of SME is less than 250 employees and annual turnover less than 50 million EUR. - GL A-X 9.3.1; OJ 2024 A8;
+ - Definition of microenterprise is less than 10 employees and annual turnover less than 2 million EUR - GL A-X 9.3.1; OJ 2024 A8.
+- In this case, there are NOT fewer than 10 employees so only SME definition is met. Hence no eligibility under R7a(3) EPC.
+- but through R7a(2) potential eligibility under R7a(1) if AT LEAST one of the SME or Belgian national is Art 14(4) person - R7a(5) EPC
+- Dutch is eligible language under A14(4) for Belgium if the description and/or request for examination was filed in Dutch - National Law relating to EPC, II., Belgium, 4. Question syas the file the EP app, so assumption is that description must have been filed to accord a filing date under R40(1)(c) EPC.
+- Hence, at least the Belgian national is an Art14(4) person.
+- Reduction under R7a(1) EPC applies.
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+
+(f)  A Dutch national files a European patent application with a description in Dutch, and at the same time he files a set of claims in English. 
+
+- He will get reductions under both R7a(1) and R7a(3) [Art 14(4) person and natural person, respectively]
+- what matters is the description - J 4/88 & G 6/91.
+- [no need for claims to get filing date under R40(1) EPC].
+- he will need to provide translation of Dutch spec into EN/DE/FR within 2m - A14(2) EPC; R6(1) EPC
+- since description is the deciding element, he may file also a translation of the EN claims into FR or DE if he chooses FR or DE for the spec — ???
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+
+(g)  A Spanish national files a European patent application with reference to a previously filed Spanish application in Spanish, and at the same time he files a set of claims in French. 
+
+- reductions apply also to EP apps filed by reference - R40(1)(c); GL A II, 4.1.3.1.
+- gets R7a(3) as natural person;
+- gets R7a(1) as an A14(4) person
+- FR claims are irrelevant
+- he will need to provide translation of SPA spec into EN/DE/FR within 2m - A14(2) EPC; R6(1) EPC
+- He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
+
+(h)  A German microenterprise with its principle place of business in Munich files a European patent application in English. 
+
+- NO reductions under R7a(1) because not an A14(4) peep;
+- reduction under R7a(3) because microenterprise. language and residence irrelevant
+
+
+(i)  A Dutch microenterprise with its principle place of business in Amsterdam files a European patent application in English, after having filed already six European patent applications since the enterprise started three years ago. 
+
+- not eligible for R7a(3) because more than 5 apps in 5 years - R7a(4) EPC;
+- not eligible under R7a(2) and R7a(1) because app was filed in English.
+
+-----------------------------------------------------------------------
+
+
+Question 2
+B4-02 (Selection) (EQE - 6 points)
+
+A Finnish national wishes to file a European patent application claiming priority of a Swedish patent application filed 11 months ago in Swedish. He sends you an English translation of the Swedish patent application for filing. Also enclosed is a certified copy of the Swedish patent application. He asks you to file a European patent application; he also asks you to save costs.
+Can you reduce the amount of fees payable? If so, how?
+
+- EP app can be filed in any language different from official EPO languages - A14(2) EPC
+- Swedish not an official EPO language [A14(1)] so EP app must be translated to EN/DE/FR within 2m of filing - A14(2) EPC
+- Finnish national eligible to file - A58 EPC
+- We already have EN translation. so not much cost saving to do with translation.
+- Finnish national is eligible for fee reductions under R7a(3) EPC because he is a natural person.
+- Swedish is a national language in Finland - National Law relating to EPC, II., Finland, 4.
+- So if EP app is filed in Swedish by the Finnish national, he will also be eligible for fee reduction under R7a(1) EPC as an Art. 14(4) EPC person.
+- declaration under R7b(1) EPC needs to be filed to declare he is such a person.
+- This will apply as long as the Swedish version is filed no later than the English translation. - G 6/91
+- So best course of action is to file the Swedish version and the ENG version simultaneously within 12m priority year under A4C PC; A87(1) EPC.
+- Two copies of the SWE text need to be provided - one as the certified prio copy under A88(1) EPC; R53(1) EPC and one as the application text so that the EPO understands the intention.
+- No translation of the prio document as such for the purposes of A88(1) EPC; R53(1) EPC is needed. Only when determining validity of prio claim - GL F-VI 3.4
+- Reduction under Rfees14(1) EPC is 30 % for the filing fee and 30 % for the examination fee if examination requested in EITHER Finnish or Swedish.
+- if EPO did a search for the Swedish app to which prio is claimed, one can also get a search fee reduction under Rfees9(2) EPC.
+- Minimize costs by filing max 15 claims - R45(1); Rfees 2(1).15 EPC
+
+-----------------------------------------------------------------------
+
+Question 3
+B4-04 (Selection) (3 points)
+
+A European patent application EP1 was filed in Chinese; a translation into English was filed in due time. Two embodiments of the description of EP1 were erroneously omitted when the translation was filed. EP1 is published without the omitted text. Later on EP1 forms a prior right with respect to another European patent application EP2.
+Is this omitted text of EP1 state of the art with respect to EP2?
+
+- EP1 was filed in Chinese. this is the authentic text of the application under A70(2) EPC.
+- as such, content of A54(3) EPC document is based on the Chinese version of EP1 regardless of missing embodiments in the published translation - EPO/GL A-VII, 7; G-IV, 5.1
+
+-----------------------------------------------------------------------
+
+Question 4
+B4-13 (Selection) (EQE - 7.5 points)
+
+European patent application EP-IT was duly filed by Italian company ITSA in Italian language a few years ago. A translation of the application into the French language was filed in due time. 
+Recently, ITSA was taken over by US company USCO. It has not been decided if the application will be transferred to USCO or be kept by ITSA, but in any case USCO are keen on using the English language during further prosecution of EP-IT before the EPO. USCO ask you, as their European patent attorney, the following questions:
+(a) Can the English language be used by you and/or the EPO in the written procedure during substantive examination of EP-IT?
+- For the EPO: No. FR becomes official language of proceedings upon the Italian original text being translated to FR under A14(3) EPC.
+- For the Applicant - YES. EN is official language of EPO under A14(1) and can be used in written proceedings under R3(1) EPC. However, EPO will respond back in French - G 4/08.
+- Any amendments need to be filed in FR (or translated into FR for Art14(4) persons) - R3(2) EPC
+
+(b) Can the English language be used by you and/or the Examining Division in oral proceedings taking place during substantive examination of EP-IT?
+- Yes. Under R4(1) EPC, any party to oral proceedings may use an official language of the EPO [A14(1)] if such party gives 1m notice to the EPO or provides interpretation into said language. 
+- EPO employees may use an official EPO language other than lang. of proceedings under R4(2) EPC. 
+
+(c) Which languages can be used by either USCO or ITSA for filing a divisional application based on EP-IT?
+
+- Divisional applications must be filed in the language of proceedings of the parent - R36(2) EPC
+- Must be filed while parent is still pending - A76(1); R36(1); G 1/09.
+- However, in this case EP-IT was not filed in an official EPO language. Hence, under R36(2) EPC, the divisional may also be filed in Italian. 
+- So Italian and French may be validly used. 
+- The Italian divisional will have to be translated into FR within 2m of filing the divisional - R36(2) EPC
+- If divisional filed in any language other than IT or FR, the application shall not be dealt with as an EP application - A90(2); J 13/14.
+
+(d) In case of observations by third parties concerning the patentability of the invention of EP-IT, in which language has their statement of grounds to be presented?
+
+- TPOs need to be filed in an official language of the EPO under R114(1) EPC.
+- So it can be DE or FR or EN [A14(1) EPC]
+
+
+-----------------------------------------------------------------------
+
+Question 5
+B4-15 (EQE - 7.5 points)
+
+
+Last week Mr. McX, a British national living in the UK, filed the following documents at the EPO in Italian:
+a) European patent application EP-1,
+b) amendments to European patent application EP-2, which application was filed in French,
+c) an opposition to European patent EP-3, granted to an Italian, the opposition period having expired yesterday.
+Have the documents been validly filed? Are translations required?
+
+a) 
+- Anyone can file an EP app - A58;
+- EP app can be filed in non-official EPO language but must be translated to official EPO language within 2m of filing - A14(2); R6(1) EPC
+- Validly filed and translation of EP-1 into DE or FR or EN needed within 2m of filing date.
+
+b) 
+- Language of proceedings of EP-2 is FR because EP-2 was filed in FR - A14(3)
+- amendments to EP-2 must be filed in FR or, if Applicant is A14(4) EPC person, in the corresponding language.
+- British person resident in the UK is not an A14(4) eligible person.
+- so amendments filed in Italian will not be considered as having been validly filed - A14(4) EPC
+- so technically no translation is needed as the document is not even deemed filed. amendments should be filed again but this time in FR if there is still time.
+
+c) 
+- notice of opposition must be filed in offical EPO language - R76(1) EPC; R3(1) EPC; A14(1) EPC
+- however, it is a document that needs to be filed within 9m time limit - R99(1) EPC. So Art 14(4) EPC applies in principle.
+- what matters is the status of Applicant - not the representative. Nationality of agent has no effect on A14(4) EPC eligibility - T 149/85.
+- in this case, patent proprietor is in principle an A14(4) person but what matters is the nationality of opponent.
+- Opposition is not validly filed under A99; R76(1) EPC.
+- No translation is to be provided as nothing is on file to be translated.
+- Too late to try again as 9m period has elapsed. 
+
+
+-----------------------------------------------------------------------
+
+
+Question 6
+B5-02 (Selection) (EQE - 7.5 points)
+
+
+The Irish company HYPERTOOLS has a technical collaboration agreement with the English company CYBERFIT. The agreement stipulates that HYPERTOOLS and CYBERFIT are to act as joint applicants in respect of joint inventions made under the terms of the collaboration. Furthermore, since CYBERFIT is too small to have its own patent department, it is agreed that HYPERTOOLS will prosecute these patent applications. You are employed by HYPERTOOLS and have been asked to deal with inventions arising from this collaboration. However, you are neither a legal practitioner nor a professional representative before the EPO.
+Can you act before the EPO in respect of applications for which HYPERTOOLS and CYBERFIT are joint applicants? If so, what conditions must be fulfilled?
+
+
+
+-----------------------------------------------------------------------
+
+
+Question 7
+B5-03 (Selection) (7.5 points) 
+
+A European patent attorney is summoned to oral proceedings before a Board of Appeal. On the day of the oral proceedings, he surprises the Board with his large team. He explains that this opposition case is so complex that different aspects of the case must be presented by different members of the team. 
+For each person in the team, explain whether they are entitled to speak and formalities to be complied with: 
+(a)  The European patent attorney himself 
+(b)  A younger colleague who intends to sit the European qualifying examination the following year 
+(c)  The chief executive officer (CEO) of Dutch company D, who is the proprietor 
+(d)  A Dutch national patent attorney, who wrote the Dutch priority application 
+(e)  The inventor Mr. X, who is employed by company D 
+
+
