@@ -51,7 +51,7 @@ Today is 11 March 2025. In which of the following cases is the applicant filing 
 - what matters is the description - J 4/88 & G 6/91.
 - [no need for claims to get filing date under R40(1) EPC].
 - he will need to provide translation of Dutch spec into EN/DE/FR within 2m - A14(2) EPC; R6(1) EPC
-- since description is the deciding element, he may file also a translation of the EN claims into FR or DE if he chooses FR or DE for the spec — ???
+- since description is the deciding element, he may file also a translation of the EN claims into FR or DE if he chooses FR or DE for the spec â€” ???
 - He needs to file a declaration under R7b(1) EPC at the latest when the first reduced payment is made.
 
 
@@ -185,6 +185,26 @@ B5-02 (Selection) (EQE - 7.5 points)
 
 The Irish company HYPERTOOLS has a technical collaboration agreement with the English company CYBERFIT. The agreement stipulates that HYPERTOOLS and CYBERFIT are to act as joint applicants in respect of joint inventions made under the terms of the collaboration. Furthermore, since CYBERFIT is too small to have its own patent department, it is agreed that HYPERTOOLS will prosecute these patent applications. You are employed by HYPERTOOLS and have been asked to deal with inventions arising from this collaboration. However, you are neither a legal practitioner nor a professional representative before the EPO.
 Can you act before the EPO in respect of applications for which HYPERTOOLS and CYBERFIT are joint applicants? If so, what conditions must be fulfilled?
+
+for EP apps:
+- Natural/legal persons within EPC CSs need not be represented by a professional representative - A133(1) EPC
+- Natural or legal persons having residence or principal place of business in EPC CS may be represented by an employee who needs authorisation - A133(3) EPC; R152(1) EPC.
+- A133(3) EPC also provides that, in principle, that employee may also act for other legal persons "economically connected" to their employer.
+- T 298/97; hn. II clarifies that the EPC does not currently have any Rules providing for such representation to "economically connected" legal persons.
+- So course of action should be to make HT the common representative under A133(4) EPC; R151 EPC
+- I should then represent HT, which as common representative will represent all applicants.
+- Under R151(1) EPC, the request for grant for any patent applications filed jointly between HYPERTOOLS and CYBERFIT should name HT as the common representative or have HYPERTOOLS always be listed as the first applicant. 
+- Neither party should appoint a professional representative.
+- Neither party needs to appoint one because they are both EPC CS-based - A133(2) EPC
+- The request for grant should be signed by both a HYPERTOOLS rep. and a CYBERFIT rep (e.g., the directors of both) and shall authorise me to represent HT - R41(3) EPC.
+- This is equivalent to authorisation for me to act for joint applications between HYPERTOOLS and CYBERFIT.
+- I need to file authorisation with EPO - OJ 2024 A75, Art. 2
+- I can then receive notifications from EPO as common rep under R130(3) EPC
+
+for PCT apps:
+- I can also handle IAs for which EPO is rO or dO - A27(7) PCT, A49 PCT, R90.1(a) PCT.
+- EPO applies national law so the reasoning under A133(3) EPC is the same for IAs.
+- Again, HT must be common rep. appointed by either explicit statement - R90.2(a)- in the request, or deemed common rep. because HT is first-named applicant - R90.2(b).
 
 
 
