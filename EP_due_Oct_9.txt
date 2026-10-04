@@ -133,12 +133,15 @@ Applicant A filed a US patent application US1 disclosing a new and inventive com
 Competitor B filed an admissible notice of opposition based solely on the ground that the invention in EP1 is insufficiently disclosed (Art. 100(b) EPC) because EP1 fails to disclose any process to produce X.
 Applicant A asks you whether the patent will be revoked on this ground.
 
-- If attack under A100(b) EPC is substantiated, the patent would not get revoked anyway because EP1 only claims the compound X and not the process X, which is merely disclosed in the description. 
+On the issue of cross-referencing:
 - Including a reference to a SPECIFIC passage of another document is an acceptable way of inserting an enabling disclosure into a document - T 153/85; GL/EPO G-IV, 8.
 - However, that cross-referenced document needs to have been available to the public on the publication date of the primary document - GL/EPO G-IV, 8.
-- In this case, US1 was withdrawn before publication (it was never available to the public).
-- Hence, the disclosures regarding the process for obtaining X are, in principle, not available and the process for obtaining X is not sufficiently described under A83 EPC.
-
+- In this case, US1 was withdrawn before publication.
+- Cross-referenced documents not available to the public on the date of filing of the application can only be considered if (see T 737/90): (i) a copy of the document was available to the EPO on or before the date of filing of the application; and (ii) the document was made available to the public no later than on the date of publication of the application under Art. 93 (e.g. by being present in the application dossier and therefore made public under Art. 128(4)). - GL/EPO H-IV, 2.2.1 via GL/EPO F-III, 8.
+- In this case, EPO received the certified copy of the prio document on the date of filing AND this document would have been present in the dossier under A128(4) EPC on the date of publication of EP1. EP1 was granted so it must have been published.
+- Sufficiency of disclosure must be judged on the basis of the application as a whole (not just claims) - T 14/83.
+- In this case, the specific reference to the US1 prio document which was available to the EPO on DoF and to the public on DofPub of EP1 is explicitly part of the disclosures of EP1. Hence, process for obtaining X has been sufficiently described under A83 EPC.
+- Attach under A100(b) EPC will not be substantiated, the patent will not get revoked and the opposition will be rejected - A101(2) EPC.
 
 
 
