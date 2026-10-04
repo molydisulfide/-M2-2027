@@ -133,6 +133,16 @@ Applicant A filed a US patent application US1 disclosing a new and inventive com
 Competitor B filed an admissible notice of opposition based solely on the ground that the invention in EP1 is insufficiently disclosed (Art. 100(b) EPC) because EP1 fails to disclose any process to produce X.
 Applicant A asks you whether the patent will be revoked on this ground.
 
+- If attack under A100(b) EPC is substantiated, the patent would not get revoked anyway because EP1 only claims the compound X and not the process X, which is merely disclosed in the description. 
+- Including a reference to a SPECIFIC passage of another document is an acceptable way of inserting an enabling disclosure into a document - T 153/85; GL/EPO G-IV, 8.
+- However, that cross-referenced document needs to have been available to the public on the publication date of the primary document - GL/EPO G-IV, 8.
+- In this case, US1 was withdrawn before publication (it was never available to the public).
+- Hence, the disclosures regarding the process for obtaining X are, in principle, not available and the process for obtaining X is not sufficiently described under A83 EPC.
+
+
+
+
+
 ---------------------------------------------
 
 
