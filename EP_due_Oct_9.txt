@@ -1,0 +1,145 @@
+Question 1
+C2-02 (Selection) (6.5 points)
+
+
+A lecture was given for accountants on environmental protection - only invited guests were allowed to attend, and none of the accountants was chemically qualified. During the lecture, the speaker explains for the first time, using slides with various chemical formulae including their method of preparation, an environmentally acceptable detergent which he has invented.
+There were no secrecy agreements required or made, no recordings were made and no handouts were distributed.
+a) Is this disclosure prejudicial to novelty?
+
+- It is a public disclosure under A54(2) EPC. Also GL/EPO G-IV, 7.3.1
+- It will form part of prior art if date and content can be ascertained - T 406/92
+- Slides existed and there are multiple witnesses. 
+- Although accountants are not skilled in the field of chemistry, they could have taken pictures of the slides and sent them to a chemist. However, the stadard for oral disclosures is that the audience had to include skilled persons capable of understanding the lecture - T 877/90.
+- This type of invited lecture does not fall under the exceptions of evident abuse [A55(1) EPC] nor the international exhibitions exception of A55(2) EPC as no secrecy agreements had been made. 
+- Nonetheless, since the guests have limited chemical knowledge, its unlikely that all essential details were conveyed to the point of forming an enabling disclosure.
+- The standard of proof for establishing the content of an oral disclosure is therefore high. Whether the amount of evidence provided is sufficient to prove the content of the oral disclosure to this standard has to be evaluated on a case-by-case basis and depends on the quality of the evidence in each case. - GL/EPO, G-IV, 7.3.4
+- So in this case, probably it would not be enough to count as an enabling disclosure under A54 EPC.
+
+
+b) Would your answer be different if a handout of the slides had been distributed?
+- Yes; a written disclosure in that respect is enabling as the skilled person can theoretically consult it - T 165/96; GL/EPO, G-IV, 2
+
+---------------------------------------------
+
+
+Question 2
+C2-05 (5 points)
+
+Mr Green of London filed a European patent application as a first application on 13 October 2025. He displayed the invention of a novel windmill support at the International Exhibition "Designing Future Society for Our Lives" in Osaka (JP) during the period from 1 June to 13 October 2025. After reading the exhibition website on 25 October 2025, Mr Green realised that he needed an appropriate certificate. He obtained, on the basis of his documents, an exhibition certificate from the Permanent Secretariat of the International Exhibition Bureau in Paris. He sent the certificate to the EPO on 27 February 2026, together with a statement that the invention had been displayed in Osaka.
+Is the display of the invention at the Exhibition prejudicial to novelty? 
+
+- In principle, inventions displayed at international exhibitions recognised by the EPO for the purposes of A55(1)(b) may not be prejudicial to the novelty of an EP application for that same invention.
+- The Osaka exhibition is one of those recognized exhibitions. - OJ 2023 A79.
+- An appropriate certificate needs to be provided to the EPO under A55(2) EPC.
+- The EP application must be filed within 6m of the FIRST DAY of the exhibition.
+- 1 JUN 2025 = 6m [G 2/99] = 1 DEC 2025. By filing on 13 OCT 2025, Mr Green is within the time limit required by A55(1)(b).
+- The supporting certificate needs to be provided to the EPO within 4m of the filing date - R25 EPC.
+- 13 OCT 2025 + 4m [R131(4)] = 13 FEB 2025. 
+- Hence, the certificate is provided too late under the provisions of R25 EPC.
+- Also he obtained the certificate AFTER the exhibition, not during, so under R25(a) the certificate is likely void.
+- Moreover, a statement MUST be filed on the same day the application is filed stating that the Applicant exhibited the invention within the meaning of A55(2) EPC - GL/EPO, A-IV, 3.1
+- The only remedy for not filing the statement is to refile the application. 
+- But in this case, it's too late to provide the certificate anyway so the exhibition WILL BE PREJUDICIAL to novelty of the EP application.
+
+
+---------------------------------------------
+
+Question 3
+C2-09 (Selection) (EQE - 6 points)
+
+On 15 October 2017 company A filed a European patent application EP-A for an invention, validly claiming priority from a French application with a filing date of 31 October 2016. B works in the research division of company A and is under an obligation of secrecy according to his labour contract. When B was informed that he would not be promoted he decided to harm company A. 
+Do the following disclosures form part of the state of the art for company A's European patent application, if:
+(a) B disclosed the same invention at a conference on 24 October 2016?
+(b) on 11 August 2016 B filed his own European patent application EP-B which claims the same invention and was published at his request on 5 October 2017?
+(c) on 13 October 2016 B filed his own European patent application EP-B which claims the same invention and was published at his request on 9 November 2017?
+(d) on 1 August 2015 B filed his own European patent application EP-B which claims the same invention and was published on 1 February 2017?
+
+- First consideration is that of evident abuse in relation to the applicant under A55(1)(a) EPC.
+- Intention of harm is known. Assume B acted with intent to cause harm within the meaning of T 585/92.
+- Relevant date for the 6m grace period of A55(1) EPC is the date of filing of the EP application - NOT the priority date - G 3/98; G 2/99
+- DoF of EP-A is 15 OCT 2017. 
+- Hence, any abusive disclosures after 15 APR 2017 do not form part of the state of art. Any abusive disclosures before that date DO form part of the state of art.
+
+Accordingly:
+
+(a) - public disclosure under A54(2) EPC before 15 OCT 2017 - FORMS PART OF STATE OF ART;
+(b) - published within the 6m grace period of A55(1) EPC - DOES NOT FORM PART OF STATE OF ART;
+(c) - published after DoF of EP-A - DOES NOT FORM PART OF STATE OF ART for purposes of A54(3);
+(d) - published before 6m grace period of A55(1) EPC - FORMS PART OF STATE OF ART.
+
+
+---------------------------------------------
+
+Question 4
+C3-06 (Selection) (EQE - 7.5 points)
+
+A European patent application EP1 was filed in January 2022 and validly claims the priority of a patent application filed in January 2021. The mention of the grant of the European patent based on EP1 has been published on 12 February 2025. 
+A client wishing to oppose EP1 provides you with a European patent application EP2. EP2 discloses the same invention as EP1 and has been published in September 2021. The publication of EP2 mentions a filing date of February 2021 and a priority date of a Portuguese national patent application filed in March 2020. The Portuguese national patent application has been published in September 2021 and discloses the same invention as EP2. 
+According to a file inspection, no copy of the priority document for EP2 has been filed. Further, the applicant for EP2 failed to respond to a communication pursuant to Rule 59 EPC dated July 2021 objecting to the missing copy of the priority document and setting a period of 4 months to remedy the deficiency. 
+Today is 11 March 2025. Can patent EP1 be revoked on the basis of EP2? 
+
+---------------------------------------------
+
+
+Question 5
+C3-07 (Selection) (EQE - 8 points) 
+
+
+On 1 February 2018 an applicant filed a European patent application EP-1 describing and claiming subject-matter A. EP-1 claims priority from a German national application DE-1 filed on 2 March 2017. DE-1 discloses subject-matter A.
+The search report mentions a German patent application DE-0 filed by the same applicant and disclosing subject-matter A. DE-0 was filed on 2 June 2016 and was withdrawn on 1 July 2017.
+Due to an internal processing error of the German Patent and Trademark Office, DE-0 was published on 5 October 2017, although the applicant had duly filed the letter withdrawing DE-0 in order to prevent publication of DE-0.
+Does DE-0 form prior art for EP-1?
+
+
+---------------------------------------------
+
+
+Question 6
+C5-17 (6 points) 
+
+
+A European patent application EP1 has a main claim directed to a pump comprising a specially-shaped paddle wheel and a hydraulic motor, in which the motive power is provided by the hydraulic motor. EP1 validly claims priority of an earlier national application DE. The search report of EP1 mentions a European patent application EP2 published before the filing date of DE disclosing the same paddle wheel used in a pump powered by an electric motor. 
+(a)  Assess the patentability of EP1 in view of EP2. 
+(b)  Would your answer have been different if EP2 was published on the filing date of DE? 
+
+(a) 
+- EP2 was published before the the priority date of EP1. Thus EP2 forms full prior art under A54(2) EPC and can be used to attack novelty and inventiveness of the main claim of EP1.
+- Main claim of EP1 has the following features:
+(i) a pump;
+(ii) paddle wheel; and
+(iii) hydraulic motor supplying motive power to the pump.
+- EP2 discloses at least features (i) and (ii).
+- EP2 fails to disclose a hydraulic motor. 
+- Hence, EP1 is novel over EP2 at least by virture of feature (iii).
+- However, electric/hydraulic motors are commonly known EQUIVALENTS for power supplies. - T 697/92 
+- Hence, EP1 is likely to not show inventive step under A56 EPC in view of EP2 combined with common general knowledge.
+- Amendments will likely be needed to bring EP2 into state for grant that add another feature (iv) from a dependent claim or the description/figures that is further novel over EP2 and works in synergy with the feature of the hydraulic motor to provide a technical effect that the pump of EP2 does not disclose or motivate/suggest.
+
+(b)
+- YES.
+- EP2 being published ON the filing date of EP1 [i.e., the priority date in this case, i.e., the filing date of DE] makes EP2 an Art. 54(3) EPC document for EP1.
+- This is provided EP2 is still PENDING on that publication date (J 5/81) and is a valid publication under A93 EPC. 
+- EP1 need only to be NOVEL over EP2 in that case - does not need to be inventive - last sentence of Art 56 EPC.
+- Since EP2 fails to disclose feature (iii), EP1 is likely to be granted in view of EP2. 
+
+
+---------------------------------------------
+
+
+Question 7
+C6-12 (2013 EQE Q1 - 5 points)
+
+Applicant A filed a US patent application US1 disclosing a new and inventive compound X and the only possible process to obtain X. The process to obtain X is not obvious in view of the prior art. US1 was withdrawn before publication. Within the priority period of US1, a European patent application EP1 claiming priority of US1 was filed together with a certified copy of US1. EP1 claims and discloses the compound X. However, for the process, the description of EP1 only contains a reference to a specific passage of US1 disclosing the process in detail. EP1 was granted as filed.
+Competitor B filed an admissible notice of opposition based solely on the ground that the invention in EP1 is insufficiently disclosed (Art. 100(b) EPC) because EP1 fails to disclose any process to produce X.
+Applicant A asks you whether the patent will be revoked on this ground.
+
+---------------------------------------------
+
+
+Question 8
+2017 Paper D1 - QUESTION 4 	(6 marks)
+
+In June 2016 the president of company F mentioned during a television interview the upcoming launch of their new smart phone. In July 2016, company F filed US provisional patent application US-P disclosing smart phone TEL1. As of August 2016, any potential buyer could request a password to access technical information describing smart phone TEL1 available on the website of F. In autumn 2016 company F found out that the antenna ANT1 of smart phone TEL1 did not guarantee indoor reception of telephone calls. It is generally known since 2015, that a different antenna, ANT2, provides better indoor reception for smart phones. Therefore, company F developed smart phone TEL2 by replacing in TEL1 antenna ANT1 with antenna ANT2. In December 2016, company F filed a European patent application EP-F with a single claim directed to smart phone TEL2. EP-F claims priority of US-P. Company F started selling smart phone TEL2 in January 2017. 
+Is TEL2 patentable in view of each of the above disclosures or any combination of these disclosures? 
+
+
