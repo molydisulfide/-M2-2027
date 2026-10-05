@@ -156,7 +156,7 @@ In June 2016 the president of company F mentioned during a television interview 
 Is TEL2 patentable in view of each of the above disclosures or any combination of these disclosures? 
 
 
-For subject-matter purposes, we assume TEL2 = TEL1 - ANT1 + ANT2
+For subject-matter purposes, we effectively assume that TEL2 = TEL1 - ANT1 + ANT2
 
 TIMELINE:
 2015 - ANT2 known and comprised within state of art under A54(1) EPC.
@@ -167,7 +167,7 @@ July 2016 - US-P provisional for TEL1 including ANT1 - US provisional applicatio
 
 August 2016 - technical information about TEL1 made public. Although password needed, anyone could request it and we are given no details about non-disclosure agreements, etc., so we assume the technical details therein are sufficient for an enabling disclosure under A54(2) EPC.
 
-December 2016 - EP-F with 1 claim directed to TEL2 including ANT2. Priority claim to US-P. Only 5 months have passed since DoF of US-P so priority may be claimed under A4C PC and A87(1) EPC. US-P is equivalent to regular national filing under A87(3) EPC, so priority claim is assumed valid with declaration under A88(1) EPC filed, etc. However, US-P
+December 2016 - EP-F with 1 claim directed to TEL2 including ANT2. Priority claim to US-P. Only 5 months have passed since DoF of US-P so priority may be claimed under A4C PC and A87(1) EPC. US-P is equivalent to regular national filing under A87(3) EPC, so priority claim is assumed valid with declaration under A88(1) EPC filed, etc. However, US-P only discloses TEL1 while EP-F discloses TEL1 - ANT1 + ANT2. The right of priority is invalid for sjm. not disclosed in the prio. application [G 1/15]. We can assume the TEL1 + ANT2 feature combination is an "AND" combination and not an "OR" combination and thus cannot enjoy partial priority in the meaning of G 1/15.
 
 January 2017 - TEL2 including ANT2 sold to public. TEL2 becomes state of art under A54(2) EPC.
 
@@ -175,7 +175,14 @@ EFFECT of EACH DISCLOSURE:
 - 2015 disclosure of ANT2 is prejudicial to novelty of ANT2 included within TEL2 under A54(2) EPC.
 - June 2016 TV mention is not an enabling disclosure - will not be taken into account for Novelty A54 or Inventive Step A56.
 - US-P is the priority document of EP-F and will not make up state of the art for assessing novelty or inventiveness of EP-F. US provisionals dont get published anyway so it wont become available to the public until the publication date of EP-F in the EP Register under A128(4) EPC.
+- US-P priority claim would secure EP-F from any novelty-destroying disclosures about TEL1 from the website launch in Aug 2016. However, the priority is not validly claimed as you cannot claim multiple priorities to an "AND" claim - G 2/98
+- the DoF of EP-F secures it against the sale start because EP-F was filed before the sale start even though the whole priority claim was found to be invalid. So Jan 2017 launch is totally out of the picture for novelty and inventiveness assessment.
 
+NOVELTY outcome during ESR:
+- DoF of EP-F used.
+- ANT2 anticipated under A54(2) EPC. No priority protection for ANT2 for EP-F.
+- TEL1 anticipated through website disclosure.
+- Cannot base inventive-step argument on ANT2 + TEL1 as replacing ANT1 with ANT2 an obvious alternative and so specific technical effect is given for this combination that would render it surprising or inventive over TEL1 + ANT1 which was disclosed on the website launch.
 
 
 
