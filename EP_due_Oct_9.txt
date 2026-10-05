@@ -156,3 +156,28 @@ In June 2016 the president of company F mentioned during a television interview 
 Is TEL2 patentable in view of each of the above disclosures or any combination of these disclosures? 
 
 
+For subject-matter purposes, we assume TEL2 = TEL1 - ANT1 + ANT2
+
+TIMELINE:
+2015 - ANT2 known and comprised within state of art under A54(1) EPC.
+
+June 2016 - mention of upcoming launch - oral disclosure under A54(2). Nonetheless, mere mention is not an enabling disclosure as A54(2) document needs to be sufficient in terms of A83 EPC - T 206/83; T 26/85; GL, G-IV, 2
+
+July 2016 - US-P provisional for TEL1 including ANT1 - US provisional applications are documents to which priority can be claimed under A4C PC; A87 EPC; OJ 1996 p.81.
+
+August 2016 - technical information about TEL1 made public. Although password needed, anyone could request it and we are given no details about non-disclosure agreements, etc., so we assume the technical details therein are sufficient for an enabling disclosure under A54(2) EPC.
+
+December 2016 - EP-F with 1 claim directed to TEL2 including ANT2. Priority claim to US-P. Only 5 months have passed since DoF of US-P so priority may be claimed under A4C PC and A87(1) EPC. US-P is equivalent to regular national filing under A87(3) EPC, so priority claim is assumed valid with declaration under A88(1) EPC filed, etc. However, US-P
+
+January 2017 - TEL2 including ANT2 sold to public. TEL2 becomes state of art under A54(2) EPC.
+
+EFFECT of EACH DISCLOSURE:
+- 2015 disclosure of ANT2 is prejudicial to novelty of ANT2 included within TEL2 under A54(2) EPC.
+- June 2016 TV mention is not an enabling disclosure - will not be taken into account for Novelty A54 or Inventive Step A56.
+- US-P is the priority document of EP-F and will not make up state of the art for assessing novelty or inventiveness of EP-F. US provisionals dont get published anyway so it wont become available to the public until the publication date of EP-F in the EP Register under A128(4) EPC.
+
+
+
+
+
+
