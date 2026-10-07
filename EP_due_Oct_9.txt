@@ -78,6 +78,16 @@ A client wishing to oppose EP1 provides you with a European patent application E
 According to a file inspection, no copy of the priority document for EP2 has been filed. Further, the applicant for EP2 failed to respond to a communication pursuant to Rule 59 EPC dated July 2021 objecting to the missing copy of the priority document and setting a period of 4 months to remedy the deficiency. 
 Today is 11 March 2025. Can patent EP1 be revoked on the basis of EP2? 
 
+
+On the issue of opposition:
+- Today [11 MAR 2025] is within the 9m opposition period of A99(1) EPC, i.e., within 9m from the publication of the mention of grant under A97(3) EPC.
+- Revocation is one possible outcome of opposition proceedings - 
+- So, opposition procedure should be instigated against granted patent EP1. 
+- the Portuguese national application [PR-1] discloses the same invention as EP2, which discloses the same invention as EP1.
+- PR-1 is the only document 
+- The notice of opposition ought to be filed with grounds of opposition including at least lack of novelty under A
+
+
 ---------------------------------------------
 
 
