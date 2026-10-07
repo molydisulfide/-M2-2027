@@ -78,14 +78,20 @@ A client wishing to oppose EP1 provides you with a European patent application E
 According to a file inspection, no copy of the priority document for EP2 has been filed. Further, the applicant for EP2 failed to respond to a communication pursuant to Rule 59 EPC dated July 2021 objecting to the missing copy of the priority document and setting a period of 4 months to remedy the deficiency. 
 Today is 11 March 2025. Can patent EP1 be revoked on the basis of EP2? 
 
-
-On the issue of opposition:
-- Today [11 MAR 2025] is within the 9m opposition period of A99(1) EPC, i.e., within 9m from the publication of the mention of grant under A97(3) EPC.
-- Revocation is one possible outcome of opposition proceedings - 
-- So, opposition procedure should be instigated against granted patent EP1. 
+On the issue of the certified copy of the priority document:
+- Certified copy of prio doc must be filed within 16m of earliest priority date - A88(1); R53(1)
+- Failure to file in time results in deficiency under R59 EPC - the EPO invites the applicant to provide a copy within period to be specified. - R132(2) EPC; GL A-III 6.7, - in this case, 4m.
+- According to file inspection, the Applicant did not respond to this invitation and never filed a copy of the priority document.
+- This results in the right of priority being lost - A90(5) EPC
 - the Portuguese national application [PR-1] discloses the same invention as EP2, which discloses the same invention as EP1.
-- PR-1 is the only document 
-- The notice of opposition ought to be filed with grounds of opposition including at least lack of novelty under A
+- The disclosure of PR-1 thus, in principle, becomes prior art for EP2 under A54(2) EPC. But this doesnt really matter in this case.
+- In this case, PR-1 and EP2 were both published in September 2021. So the cut-off date for A54(2) documents against EP1 is SEP 21.
+- PR-1 was filed before but published after the earliest prio date of EP1. However, only EP applications can become prior art under A54(3) against other EP applications.
+- There may be prior right issues in Portugal after entering national validation phase if EP1 designated Portugal. But this is beyond the scope of the question.
+- DoF of EP2 thus becomes shifted to FEB 21, which is after the prio date of JAN 21 of EP1. Hence, EP2 is no longer relevant for novelty against EP1 under either A54(2) or A54(3).
+- Today [11 MAR 2025] is within the 9m opposition period of A99(1) EPC, i.e., within 9m from the publication of the mention of grant under A97(3) EPC.
+- But filing a notice of opposition with a ground under A100(a) on the basis of EP2 will fail to revoke the patent because EP2 is not prior art for EP1. 
+
 
 
 ---------------------------------------------
