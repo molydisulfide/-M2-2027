@@ -161,6 +161,28 @@ A US provisional application US-0 was filed by US Company USCO and research inst
 Today, 1 March 2021, you receive an email from USCO wherein they inform you that, to their surprise, RESI has presented the results of the research program at a scientific conference in the US on 20 July 2017, including all details about invention A. They also inform you that the presentation at the conference resulted in huge interest from the academic world as well as from industry. USCO asks you whether this information is relevant for the patentability of Euro-PCT-1. 
 What will you tell USCO? 
 
+Timeline:
+- US0 filed by applicants X and Y on 18 MAY 2017 for invention A.
+- RESI shows A at conference on 20 JUL 2017.
+- PCT-1 filed by X only on 16 MAR 2018 for A and B claiming prio to US0.
+- PCT-1 enters EP phase on 18 DEC 2019.
+- Today is 1 MAR 2021.
+
+Central issue is whether the priority right to sjm A from US0 extends to PCT-1. 
+- Transfer including priority must have taken place before filing date of later EP application and must be a transfer valid under relevant national provisions - G 1/22; G 2/22; T844/18; GL A-III, 6.1 
+- In other words, EXCLUDING an applicant from the subsequent application does not validly confer right of priority within the meaning of "First application" under A87(1) EPC.
+- In this case, no agreement had been made between X and Y regarding IP transfer.
+- In other words, effective DoF of PCT-1 is 16 MAR 2018 - A89 EPC; A2(xi)(c) PCT.
+- Conference outing of RESI is novelty destroying under A54(2) EPC for sjm A. 
+- US0 is novelty destroying under A54(2) EPC for sjm A. 
+- However, there is a rebuttable presumption that the priority was transferred legitimately under G 1/22 regardless of Applicant overlap between prio doc and subsequent app and regardless whether the subsequent app is a PCT app.
+- Hence, we can continue prosecution in Europe under the assumption that sjm A is priority-protected from the conference disclosure.
+- Sjm B was not disclosed at the conference so it is novel over the conference. 
+- B was surprisingly better than A anyway so B will be considered novel and inventive under A56 EPC regardless of priority situation.
+- Nonetheless, for example in opposition, someone could come in and challenge prio right and prove that there was no legitimate transfer of priority and priority would be lost for sjm A which would then become open to attacks under A54(2) EPC from the conference disclosure. 
+- So eventually protection may be lost for sjm A but will not be lost for sjm B, so prosecution under EP should be continued without taking any action regarding the priority situation.
+
+
 -----------------------------------
 
 Question 6
