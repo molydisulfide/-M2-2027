@@ -1,0 +1,151 @@
+Question 1
+C7-10 (EQE - 7.5 points) 
+
+
+Professor Pivo from Prague (CZ), inventor of a revolutionary new beer-brewing process, files a Czech national application CZ-A on 6 January 2025 as a first filing, describing and claiming his brewing process. On 6 January 2026 he presents the process in detail in a lecture at a public congress in Vienna. On the same day, just before his lecture, he puts a European patent application EP-A claiming the priority of CZ-A in the letter box of the EPO's Vienna sub-office. 
+EP-A is an exact translation of CZ-A into English. EP-A is transmitted to the EPO's Munich office and received there on 12 January 2026. Today is 3 March 2026. 
+Discuss whether the lecture will be considered novelty destroying for EP-A. 
+
+
+Timeline:
+- CZ-A: 6 JAN 2025
+- EP-A given to Vienna sub-office claiming prio to CZ-A: 6 JAN 2026
+- Public lecture: 6 JAN 2026
+- EP-A in ENG is received at Munich office on 12 JAN 2026
+- TODAY: 3 MAR 2026
+
+On the issue of trying to file at Vienna office:
+- EP applications may be filed online or in person at the Hague or Munich or Berlin locations - A75(1); R2(1); R35(1). [also at national offices (A75(1)(b)) but irrelevant here].
+- Applications received at the Vienna sub-office will be forwarded to one of the filing offices and will have their date of filing accorded as the date of receipt of the application at that filing office - OJ2025 A33
+- Thus, the Munich office received EP-A after the expiry of the 12m priority period under A87(1).
+
+On the issue of novelty:
+- the oral lecture thus, in principle, becomes A54(2) EPC prior art for EP-A, whose priority claim is invalid. - GL/EPO G-IV, 7.3.1
+- It will form part of prior art if date and content can be ascertained - T 406/92
+- we assume the lecture was given to people skilled in the art to put the teaching into practice [the content of the lecture was enabling] -  T 877/90.
+- although the standard for proving what was disclosed orally is higher than for written disclosures, the fact that it is a "congress" implies at least that there were many people present and there could, in principle, be many witnesses to what was exactly disclosed and some people there understood the presentation - T 877/90
+- there were no NDAs or other secrecy agreements for A55(1) EPC regarding non-prejudicial disclosures to apply.
+- for all intents and purposes we need to assume the lecture is full A54(2) EPC prior art.
+
+On the issue of recovering priority for EP-A:
+- Had priority to CZ-A been validly claimed, the lecture would not be A54(2) prior art for EP-A because CZ-A had been filed before the date of the lecture - A89 EPC
+- FP excluded for period of A87(1) - A121(4) EPC
+- RE is available if all due care can be proven - A122(1) EPC; R136(3) EPC
+- In principle, the RE request needs to be filed within 2m of expiry of the priority period - R136(1) EPC
+- In this case it would be: 
+- 6 JAN 2026 [Sunday] -> R134(1) EPC -> 7 JAN 2026 + 2m [R131(4) EPC] -> 7 MAR 2026 [Saturday] -> R134(1) EPC -> 9 MAR 2026 [Monday]. 
+- So today there is still time to complete the omitted act - R136(2) EPC [already done by filing EP-A] and to pay the RE fee - A2(1).13 RFeesEPC, R136(1) EPC.
+- However, standard for proving due care is high at the EPO, and the fact that Mr Pivo merely waited till the very last day and then filed at Vienna will likely not be considered good enough. Misinterpreting the EPC is not sufficient to meet the due care criterion - D 6/82. No other info is given regarding sickness, etc., so right of priority will likely not be reestablished.
+- An alternative solution could be to file the ENG contents of EP-A as an international application and request restoration of right of priority under R26bis.3(a) PCT or make use of the 12m grace period in the US. 
+
+
+---------------------------------------------
+
+
+Question 2
+C7-11 (EQE - 9 points) 
+
+The applicant files an application for a German national patent DE. Three months later he files a European patent application EP1 for the same invention as in DE together with a further embodiment, claiming the priority of the earlier German national patent application. The applicant files a second - subsequent - European patent application EP2 claiming patent protection for the subject-matter disclosed in the first European patent application EP1 together with another further embodiment of the invention. 
+May priority be validly claimed for this second European patent application EP2, if this application: 
+(a)  is filed six months after the German national patent application DE, claiming the priority of both the national application and the European application; 
+(b)  is filed six months after the European patent application EP1 and claiming only the priority of the European patent application EP1; 
+(c)  is filed eleven months after the European patent application EP1 claiming the priority of the European patent application EP1, the German national application DE having been abandoned before the filing of EP1? 
+
+Timeline:
+- DE filed for sjm A.
+- 3m later: EP1 filed for DE content + Embodiment A. Call this sjm B. Prio claimed to DE.
+- EP2 filed after EP1 for EP1 content + Embodiment B. Call this sjm C.
+
+- General requirements for valid prio claim under A87:
+- Same applicant - always fulfilled here
+- Paris Convention state (or WTO member) - always fulfilled here
+- Same invention - need to analyze
+- First application for that invention - need to analyze
+- within 12m of date of filing of priority application - need to analyze
+
+(a) EP2 filed 6m after DE; claiming prio to both DE and EP1:
+- multiple priorities may be claimed under A88(2) and A88(3) EPC
+- 6m after DE is within 12m period of DE and 12m period of EP1 under A87(1) EPC.
+- DE was the first app for A. EP1 is first app for B. EP2 is first app for C. Hence, EP2 can claim priority from both DE and EP1 because neither DE nor EP1 is the first application for C. 
+- Hence EP2 is first app for C under A87(1).
+- Both priorities valid for EP2. 
+
+(b) EP2 is filed 6m after EP1 and claims only prio of EP1:
+- within 12m of EP1 (and also within 12m of DE) - OK under A87(1) EPC.
+- However, EP1 is not the first application for sjm A. There are rights outstanding to sjm A stemming from DE - A87(4) EPC.
+- Hence, prio would at best be conferred for Embodiment 1 in that case for EP2 from EP1 and sjm A would become A54(2) EPC from DE once published. 
+- Moreover, DE has already been used to claim priority by EP1. So it cannot be chained for another prio claim by EP2. 
+- but we can amend the priority claim of EP2 within 16m of filing date of DE - R52(2) EPC by adding a priority declaration to DE.
+- we need to do this no later than 4m from the date of filing of EP2 or no later than 16m from the date of filing of DE - whichever expires later - - R52(3)
+
+(c) DE is abandoned before EP1 is filed. EP2 is filed 11m after EP1. EP2 claims prio to EP1:
+- although DE was abandoned before EP1 filing date and has not been published, it leaves rights outstanding because it had been used to claim priority by EP1. Hence, under A87(4) EPC, EP1 cannot be treated as the first application.
+- Moreover, a priority declaration to DE may no longer be added under R52(2) EPC because EP2 was filed more than 12m after the filing date of DE. 
+
+
+-----------------
+
+Question 3
+C7-15 (Selection)	(6 points)
+
+An applicant filed a first patent application SE1 describing and claiming a mosquito repellent comprising a combination of compounds C and K, which causes the mosquito repellent to very efficiently keep mosquitos at a distance. After further experimentation, the applicant found that the mosquito repellent is also very efficient in keep mosquitos at a distance if instead of K, a compound L is used. The applicant compiled a new European application EP2 by taking the full description of SE1, adding the newly found mosquito repellent comprising a combination of compounds and L to the description, and claiming a mosquito repellent comprising a combination of compounds C and at least one of K and L. The applicant duly filed the new European application EP2 at the end of the priority period, while claiming priority from SE1.
+A few months after filing SE1, the applicant handed out samples of his mosquito repellent comprising a combination of compounds C and K at an outdoor event in Sweden.
+Is the hand-out of the samples at the outdoor event in Sweden novelty-destroying for the claim of EP2?
+
+---------------------------------------------
+
+Question 4
+C7-17 (Selection) 	(7 points) 
+
+Claim 1 of the set of claims of a European application EP-2 reads:
+"1. A dosage form comprising a core having an exterior surface and first and second ends; a subcoating over portions of the exterior surface of the core; a first gelatinous coating over at least part of the subcoating; and a second gelatinous coating over at least part of the subcoating; [...], wherein said first and second gelatinous coatings form a gap through which the subcoating is exposed, the gap being from 3,0% to 33% of the length of the elongated tablet as measured along its longest axis; and [...]". 
+EP-2 claims priority from an earlier US application US-1 from the same applicant. The same subject-matter as claimed in EP-2 is disclosed in the priority document US-1, but specifying a range of 5,0% to 33%. No examples with gaps smaller than 5,0% of the length of the elongated tables are disclosed in US-1. 
+A public disclosure D occurred in the priority interval according to the same kind of gelatinous coated dosage forms wherein the gap has a width which is approximately 17% of the length.
+a) Discuss the priority situation and the effect of the public disclosure D on the novelty of the claim.
+b) Discuss the priority situation and the effect of the public disclosure D on the novelty of the claim if the public disclosure D would have shown a gap having a width which is 4,0% of the length. 
+
+------------------------------------------
+
+Question 5
+C7-20 (Selection)	(5 points) 
+
+A US provisional application US-0 was filed by US Company USCO and research institute RESI as co-applicants for invention A on 18 May 2017. Invention A resulted from a two-year research program between USCO and RESI and corresponds to a class of materials for high-capacity batteries. No agreements on ownership and/or transfer of the technology, patent applications and associated rights, trademarks and other IP rights were in place between USCO and RESI. USCO continued to develop alternatives for invention A after filing the US provisional application US-0. USCO developed a different class of materials, class B, which surprisingly appeared to result in even higher-capacity batteries than class A. On 16 March 2018, USCO filed an international patent application PCT-1 for invention A and invention B, claiming priority from the US provisional application US-0. USCO is the only applicant for PCT-1. On 18 December 2019, USCO entered the European phase with PCT-1 and subsequently appointed you as their European patent attorney for Euro-PCT-1. 
+Today, 1 March 2021, you receive an email from USCO wherein they inform you that, to their surprise, RESI has presented the results of the research program at a scientific conference in the US on 20 July 2017, including all details about invention A. They also inform you that the presentation at the conference resulted in huge interest from the academic world as well as from industry. USCO asks you whether this information is relevant for the patentability of Euro-PCT-1. 
+What will you tell USCO? 
+
+-----------------------------------
+
+Question 6
+C7-26	(EQE - 9 points)
+
+
+On 13 December 2018 you filed a European patent application EP2 claiming priority from a European patent application EP1 filed on 16 August 2018. Today, 26 February 2019, you received a telephone call from your client who instructs you also to claim priority from a German utility model filed on 18 December 2017.
+(a) Is this possible? If so, what is the last date on which the applicant can add the priority claim?
+Your client further informs you that the certified copy of the priority document of the German utility model will not be issued by the German Patent and Trademark Office before 10 May 2019.
+(b) What can you undertake?
+(c) Would your answer to question (b) have been different if the added priority claim would relate to a EP patent application?
+
+
+----------------------------------
+
+
+Question 7
+C7-32 (Selection)	(EQE 2012 - 9 points)
+On 19 October 2024 your client filed an Italian application IT1 for invention Inv1 and an Italian application IT2 for invention Inv2. Inv1 and Inv2 are unitary. On 19 October 2025 your client duly filed a European application EP1 describing and claiming inventions Inv1 and Inv2. EP1 claims the priority of IT1 only. Your client has discovered a document D published on 7 August 2025 disclosing Inv1 and Inv2.
+Your client wants to use EP1 to obtain Europe-wide protection for both Inv1 and Inv2. Today is 3 March 2026.
+What do you advise your client?
+
+--------------------
+
+
+Question 8
+2014 Paper D1 - QUESTION 2	(7 points)
+
+Applicant X filed an Italian patent application IT1 disclosing and claiming only subject-matter A. No priority was claimed. Then applicant X filed an Italian patent application IT2 with an independent claim 1 directed to subject-matter A and a dependent claim 2 directed to subject-matter A+B without claiming priority. 
+IT1 was accorded the filing date of 3 December 2012 and IT2 was accorded the filing date of 4 December 2012. At a symposium on 7 December 2012 filing of IT1 and IT2 was mentioned and their content was disclosed. 
+On 10 December 2012 applicant X withdrew IT1. On 3 December 2013 applicant X filed a European patent application EP1 with claims identical to IT2 and claiming priority of IT2. 
+Can a patent be granted for EP1 with claims 1 and 2? 
+
+(Today's date: 25 February 2014)
+
+
