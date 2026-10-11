@@ -79,7 +79,8 @@ Timeline:
 - we need to do this no later than 4m from the date of filing of EP2 or no later than 16m from the date of filing of DE - whichever expires later - - R52(3)
 
 (c) DE is abandoned before EP1 is filed. EP2 is filed 11m after EP1. EP2 claims prio to EP1:
-- although DE was abandoned before EP1 filing date and has not been published, it leaves rights outstanding because it had been used to claim priority by EP1. Hence, under A87(4) EPC, EP1 cannot be treated as the first application.
+- DE was filed 14m before EP2.
+- although DE was abandoned before EP1 filing date and has not been published, it leaves rights outstanding because it had already been used to claim priority by EP1. Hence, under A87(4) EPC, EP1 cannot be treated as the first application.
 - Moreover, a priority declaration to DE may no longer be added under R52(2) EPC because EP2 was filed more than 12m after the filing date of DE. 
 
 
@@ -92,17 +93,64 @@ An applicant filed a first patent application SE1 describing and claiming a mosq
 A few months after filing SE1, the applicant handed out samples of his mosquito repellent comprising a combination of compounds C and K at an outdoor event in Sweden.
 Is the hand-out of the samples at the outdoor event in Sweden novelty-destroying for the claim of EP2?
 
+Timeline:
+- SE1 filed for [C and K].
+- Outdoor sample hand-out of [C and K] samples a few months later.
+- EP2 duly filed claiming prio to SE1 claiming [(C and K) or (C and L) or (C and K and L)].
+
+What is EP2 claiming?
+- [C and K] or [C and L] or [C and K and L] ; call these A and B and C, respectively.
+
+Partial priority issue:
+- SE1 is the first application for A. It was filed before the outdoor hand-out of A. So hand-out is not novelty destroying A54(2) EPC event for SE1 with respect to sjm A.
+- Simiarly, EP2 claims valid prio to SE1 that includes sjm A. Hence, prio for sjm A is secured against the intervening hand-out event and the claim of EP2 directed to A is going to be novel in view of the handout.
+- However, sjm B is claimed in EP2 whose priority is not secured by SE1 as SE1 does not disclose B.
+- Handout anticipates A only, which is protected by SE1. 
+- Handout does not anticipate B. B will be novel against the handout event.
+- Claim is a true alternative "OR" claim. At least one of the alternatives needs to have been disclosed for the entire claim to be anticipated. Each alternative needs its own assessment procedure regarding priority - G 2/98
+- As neither alternative is disclosed in the handout event, the event was not novelty destroying for the claim of EP2. 
+
+
 ---------------------------------------------
 
 Question 4
 C7-17 (Selection) 	(7 points) 
 
 Claim 1 of the set of claims of a European application EP-2 reads:
+
 "1. A dosage form comprising a core having an exterior surface and first and second ends; a subcoating over portions of the exterior surface of the core; a first gelatinous coating over at least part of the subcoating; and a second gelatinous coating over at least part of the subcoating; [...], wherein said first and second gelatinous coatings form a gap through which the subcoating is exposed, the gap being from 3,0% to 33% of the length of the elongated tablet as measured along its longest axis; and [...]". 
+
 EP-2 claims priority from an earlier US application US-1 from the same applicant. The same subject-matter as claimed in EP-2 is disclosed in the priority document US-1, but specifying a range of 5,0% to 33%. No examples with gaps smaller than 5,0% of the length of the elongated tables are disclosed in US-1. 
+
 A public disclosure D occurred in the priority interval according to the same kind of gelatinous coated dosage forms wherein the gap has a width which is approximately 17% of the length.
+
 a) Discuss the priority situation and the effect of the public disclosure D on the novelty of the claim.
 b) Discuss the priority situation and the effect of the public disclosure D on the novelty of the claim if the public disclosure D would have shown a gap having a width which is 4,0% of the length. 
+
+Timeline:
+- US1 from same Applicant discloses range 5–33;
+- Public disclosure D discloses approximately 17;
+- EP2 from same Applicant claims prio to US1 and discloses 3–33.
+
+a) Priority situation:
+- EP2 can claim priority to US1 because USA is a PCT state and is, presumably, the first application for this invention from this Applicant - A4C PC; A87(1) EPC.
+- Priority needs to be claimed within 12m of DoF of US1 - A87(1) and a declaration or priority needs to filed within 16m of the DoF of US1 - A88(1) EPC; R 52(2) EPC
+- We treat sjm of EP2 as "5–33" and "not 5–33", i.e., in this case, "3–4". Call these A and B, respectively. - G 1/15.
+- EP2 enjoys prio to range A based on US1. - A89 EPC. 
+- The public disclosure D of a value within that range will not make up state of the art under A54(1); A54(2) EPC.
+- Range B is not disclosed by disclosure D. So Range B is also novel over D. 
+- Effective filing date of A is DoF of US1. Effective filing date of B is DoF of EP2. Both will not be anticipated by D for the purposes of A54 EPC.
+
+b) Priority situation:
+- EP2 can claim priority to US1 because USA is a PCT state and is, presumably, the first application for this invention from this Applicant - A4C PC; A87(1) EPC.
+- Priority needs to be claimed within 12m of DoF of US1 - A87(1) and a declaration or priority needs to filed within 16m of the DoF of US1 - A88(1) EPC; R 52(2) EPC
+- We treat sjm of EP2 as "5–33" and "not 5–33", i.e., in this case, "3–4". Call these A and B, respectively.
+- EP2 enjoys prio to range A based on US1. The public disclosure D of a value within that range will not make up state of the art under A54(1); A54(2) EPC.
+- Range B IS disclosed by disclosure D. So Range B is not novel over D. 
+- Effective filing date of A is DoF of US1. Effective filing date of B is DoF of EP2. Range B is anticipated by D for the purposes of A54 EPC.
+- An undisclosed disclaimer may not be used against an A54(2) EPC attack.
+- Unless the description has more granular ranges and/or separation from A and B that could be used to amend claim 1 of EP2, the whole range of EP2 is spoiled by D and the entire claim falls on A54(2) EPC. 
+
 
 ------------------------------------------
 
