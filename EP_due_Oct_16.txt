@@ -195,6 +195,22 @@ Your client further informs you that the certified copy of the priority document
 (b) What can you undertake?
 (c) Would your answer to question (b) have been different if the added priority claim would relate to a EP patent application?
 
+Timeline:
+- DE-U filed on 18 DEC 2017
+- Priority app EP1 filed on 16 AUG 2018
+- Subsequent app EP2 claims prio to EP1 filed on 13 DEC 2018
+- TODAY: 26 FEB 2019
+- DE-U certified copy will be issued on 10 MAY 2019
+
+(a) General considerations:
+- Multiple priorities may be claimed - A88(2) and A88(3) EPC
+- Priority may be claimed to a utility model - A87(1) EPC
+- Germany is part of Paris Convention - A87(1)(a) - claiming prio of German utility model within 12m of first application will be fine under A4C PC
+- Priority to EP1 was claimed within 12m, so this claim is legit and right now effective date of EP2 is filing date of EP1 - A89 EPC
+
+
+
+
 
 ----------------------------------
 
