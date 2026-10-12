@@ -202,11 +202,31 @@ Timeline:
 - TODAY: 26 FEB 2019
 - DE-U certified copy will be issued on 10 MAY 2019
 
-(a) General considerations:
+(a) + (b)
+
+General considerations:
 - Multiple priorities may be claimed - A88(2) and A88(3) EPC
 - Priority may be claimed to a utility model - A87(1) EPC
 - Germany is part of Paris Convention - A87(1)(a) - claiming prio of German utility model within 12m of first application will be fine under A4C PC
 - Priority to EP1 was claimed within 12m, so this claim is legit and right now effective date of EP2 is filing date of EP1 - A89 EPC
+- DoF of DE-U + 12m = 18 DEC 2017 + 12m [R131(4)] -> 18 DEC 2018 [Tuesday] was the last day to validly file a subsequent application that could enjoy priority to DE-U.
+- EP2 was filed 5 days before that date. So at least within 12m period under A87(1) EPC.
+
+Adding priority claim to DE-U:
+- Declaration of priority may be filed at latest on 16m from earliest priority date - A88(1) EPC; R52(2) EPC
+- A certified copy of the prio document needs to be filed within the same 16m period - R53(1) EPC; unless already available to EPO - R53(2) EPC
+- Otherwise priority right will be lost - A90(5) EPC
+- In this case, DE-U would be the earliest prio date.
+- 18 DEC 2017 + 16m [R131(4) EPC] -> 18 APR 2019 [Thursday; EPO open]
+- So today is still time to file the certified copy, but we already know that we will only get the certified copy on 10 MAY 2019. That is about 22 days after the 16m period expires.
+- However, if the copy pursuant to R53(1) EPC is not filed in due time, the EPO shall inform the applicant accordingly and invite him to file them within a period to be specified. - R59 EPC 
+- This period is usually 2m - GL A-III, 6.7
+- This period can even be extended under Rule 132(2).
+- So we can expect that it is possible to validly add the priority claim to DE-U and that the last day to do so would be after the issuance of the certified copy of DE-U.
+
+(c)
+- YES
+- In the case that the prio doc was an EP application, it would have been available to the EPO under R53(2) EPC, OJ2021 A83, GL A-III, 6.7 and no filing of the certified copy would have been necessary. 
 
 
 
