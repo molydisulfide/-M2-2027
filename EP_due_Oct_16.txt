@@ -254,4 +254,24 @@ Can a patent be granted for EP1 with claims 1 and 2?
 
 (Today's date: 25 February 2014)
 
+Timeline:
+- IT1 claiming A. No prio. - 3 DEC 2012
+- IT2 claiming A in C1 and A+B in C2. No prio. - 4 DEC 2012.
+- Symposium discloses both IT1 and IT2 - 7 DEC 2012.
+- IT1 withdrawn - 10 DEC 2012.
+- EP1 filed claiming A in C1 and A+B in C2. Prio to IT2. - 3 DEC 2013.
+- TODAY = 25 FEB 2014.
+
+Priority issue:
+- IT1 first app for A. However, withdrawn after 1 week and itself did not claim prio.
+- However, IT1 was withdrawn AFTER the DoF of IT2. This makes it not fulfill all conditions of A87(4). It remains the first app for invention A under A87(1) EPC.
+- EP1 validly claims prio to IT2. Consider two inventions A and AB.
+- AB was first disclosed in IT2. IT2 is first app under A87(1) for AB. AB is safe from symposium due to right of priority - A89.
+- symposium is not prior art under A54(2) for AB.
+- but Symposium spoils novelty of A - A54(2).
+- 
+
+
+
+
 
