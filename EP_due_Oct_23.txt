@@ -1,0 +1,148 @@
+Question 1
+D-03 (Selection) 	(EQE - 4.5 points) 
+
+
+By a final decision of a national court dated 1 February 2026, it was adjudged that your client is entitled to the grant of a European patent on the basis of a European patent application EP-A filed by a third party. Your client intends to file a new European patent application in respect of the invention of application EP-A. 
+(a) If application EP-A is pending:	
+(i) Would your client be allowed to include some further embodiments of his invention in this new European patent application?	
+(ii) Would your client have to pay renewal fees in respect of the year in which the new European patent application is filed and any preceding year?
+(b) Would your client still be entitled to file a new European patent application if application EP-A is no longer pending?
+
+- A61(1)(b) EPC provides for the entitled applicant to be able to file a new application in respect of the same invention.
+- Remedies of A61 need to be availed of within 3m of the decision of hte national court - R16(1)(a) EPC.
+
+(a) 
+(i) No; the contents of this new application may not exceed beyond the contents of the originally filed [unlawful] application. This is because in many respects the new application under A61(1)(b) is treated as a divisional application, mutatis mutandis - A61(2) and a divisional may not add matter - A76(1)
+
+(ii) 
+- Filing fee and search fee are to be paid within 1m of filing of new app - R17(2)
+- Designation fee within 6m of EESR mention in Bulleting - R17(3)
+- However, renewal fees are only due for the years FOLLOWING the year of the filing of the new app - R51(6) EPC.
+- answer is NO.
+
+(b) YES. Even if EP-A is no longer pending, a new application under A61(1)(b) may be filed [G 3/92; r.5.5, 5.6]
+- but you should just do it within 3m period of R16(1)(a) as long as patent has not yet been granted [R16(1)(b)]:
+1 FEB 2026 + 3m [R131(4)] -> 1 MAY 2026 [EPO off] -> R134(1) -> 4 MAY 2026 [Monday]
+----------------------------------------------------------
+
+Question 2
+D-10 	(EQE - 13.5 points)
+
+You are the professional representative of German company AA. AA is a supplier of silicon wafers to the electronic industry. The R&D department of this company is in charge of developing and improving a sawing process for cutting silicon wafers. AA does not manufacture the sawing devices themselves but have them made by external engineering companies, such as the Swiss engineering company BB.
+On 8 December 2017 an inventor Mr.A2 of Company AA had been visiting BB. In the meeting, he presented a new and inventive process for sawing silicon wafers and handed over to employee Mr.B2 of BB documents marked "confidential" including a description of the process and sketches of the sawing machines.
+In March 2018 the managing director Mr.A1 of AA and the managing director Mr.B1 of BB met at a semiconductor conference, where Mr.B1 told Mr. A1 that one of his employees, Mr.B2, had invented a new sawing process. BB had filed a European patent application EP-B for this process as a first filing with the EPO on 22 December 2017. Mr.B1 provided Mr.A1 with a copy of the text of the application since he believed the process might be of interest to AA.
+The text has meanwhile been reviewed by Mr.A2. The process according to EP-B appeared to him to be very similar to the process developed by AA. In addition, Mr.A2 noted that part of the description of EP-B is almost a word-for-word copy of the documents handed over during the meeting. Some of the drawings are fair copies of the sketches handed over. However, EP-B also contains a description and claims for a special type of saw blade for use in a multiple blade sawing process unknown to AA.
+What steps would you take to dispute the entitlement to the sawing process? 
+Today is 26 February 2019.
+
+Timeline:
+- 8 DEC 2017 - A2 gives confidential documents to B2.
+- 22 DEC 2017 - BB files EP-B including process of AA + further sjm
+- March 2018 - AA becomes aware of EP-B
+- 26 FEB 2019 - Today
+
+This is a question of partial entitlement.
+- Partial transfer of right to European patent/application is governed by R18 implementing A61.
+- Third parties entitled to only part of the sjm of the pending EP app DO NOT have the option of A61(1)(a) EPC - i.e., AA may not take over prosecution of EP-B from BB because EP-B discloses some sjm that was not invented by AA.
+- Hence, AA ought to seek exercising its right to file a new European patent application under A61(1)(b) for the sjm to which it has a right. The right to the patent belongs to the inventor or his successor in title under A60(1) EPC. AA presumaby have copies of the confidential documents A2 gave to BB before the filing of EP-B and can prove the invention was reduced to practice by AA before a national court. In this case, it would be a national court of Switzerland under A60(1) EPC as BB have place of Business in SUI.
+
+How to start entitlement proceedings:
+- Open court proceedings in the national court of Switzerland in this case - A61 EPC; Protocol on Recognition (PoR) A2
+- Present the evidence of the same partial contents of EP-B that was shown in the meeting in Switzerland. BB will likely be ruled to have acted abusively because the documents clearly indicated CONFIDENTIALITY and there was no agreement between AA and BB about filing EP-B as co-applicants nor regarding any IP rights as far as we are aware. Hence, the contents of the meeting (including the presentation) should have been bound by secrecy and/or at least do not form A54(2) prior art - T 830/90.
+- EP-B publication is ASAP after expiry of 18m from DoF (there is no prio claim) - A93(1)(a) EPC/
+- EP publications are always on a Wednesday; irrespective whether it's a holiday or not. - OJ 1997 p. 542
+- 22 DEC 2017 + 18m [R131(4)] -> 22 JUN 2019 [Sat] -> R134(1) -> 24 June 2019 [Monday]. Publication likely on Wed 26 June 2019.
+- EP-B is currently still NOT PUBLISHED.
+- Stay of proceedings may only be requested under R14(1) for applications that had already been published.
+- Final decision of national court shall be respected by other CSs - PoR A9
+- Send final decision to EPO under R14(2) and apply for one of A61(1) options - (b) or (c)
+
+Option (1): 
+- wait for publication of EP-B and file evidence to EPO that national proceedings have been instituted under R14(1). This will work to create a stay of proceedings at the EPO but carries the risk that BB withdraws the application in the meantime until protection under R15 is afforded after publication. If that's the case, AA can still avail of remedy under A61(1)(b) and R17(1) and file a new application for the sjm to which it has a right even though the previous application is no longer pending - G 3/92
+- No point requesting an injunction from a German court preventing withdrawal of EP-B. In principle, remedy of A61(1)(a) saves on fees, i.e., R17(2) and R17(3) fees. However, since AA is only entitled to a portion of the sjm of EP-B, they cannot continue prosecution of EP-B under A61(1)(a), so a new EP application will have to be filed anyway under A61(1)(b) [or refused under A61(1)(c)].
+- its too late to file a new EP claiming prio to EP-B under A87(1) EPC
+
+Option (2): 
+- meeting was not public so not A54(2) prior art. Business meeting has secrecy agreement implied even if not in writing - T 830/90
+- but PUBLICATION of EP-B will be abusive disclosure under A55(1)(a) EPC. 
+- AA then has 6m to file its own new EP application [with only the contents it is entitled to], which will exclude the publication of EP-B from state of the art. Also excluded from A54(3) state of art.
+- Need to show intention to harm - T 173/83; T 585/92 - this will likely be shown as invention effectively stolen. 
+- Wed 26 June 2019 = 6m [G 2/99 and G 3/98] -> 26 Dec 2019.
+- So option (1) should be pursued first and then option (2). 
+
+
+- In all cases, monitor renewal fee payments as these need to keep happening - R14(4). A third party can pay renewal fees, so this is fine. 
+
+
+
+
+
+
+
+
+
+------------------------------------------------------
+
+Question 3
+D-11 (EQE - 4.5 points) 
+
+Shortly after the publication of the European patent application, competitor Y opens proceedings in one of the Contracting States against applicant X. Y claims that he is entitled to the grant of the European patent. As X has serious doubts as to whether the outcome of the proceedings will be in his favour he sees no use in continuing the patent application procedure before the EPO at this stage. Applicant X considers asking for a stay of the proceedings or even a withdrawal of the application.
+Does X have each of these options? Provide reasons.
+
+- R15 prohibits withdrawals of an EP application from the date that a third party provides evidence of having instututed national proceedings under R14(1) EPC.
+- EP app is published so stay of proceedings is an option. - R14(1)
+- Withdrawal is an option by means of a signed declaration which is unqualified and unambiguous - J 11/80; GL A-VI 1.2. EPO Form 1018 can be used - OJ2019 A79. Valid withdrawal has immediate effect - J 25/03.
+- Unclear whether Y has provided the evidence required under R14(1) to the EPO to freeze withdrawal option under R15. So X seems to have an option to withdraw today and end the procedure for the EP app before the EPO at this stage.
+- Asking for a stay of proceedings is not a right available to the Applicant under A61, R14.
+
+
+-------------------------------------------------------
+
+Question 4
+E-06 	(EQE - 6 points)
+
+On 9 October 2026 a prototype of a golf ball of your client was disclosed to the public. The golf ball included a plurality of small dimples which are small surface indentations, which are known to reduce wind resistance. However, your client had found out that when the dimples are placed exclusively in a very specific arrangement (as in the prototype), they are surprisingly efficient in reducing wind resistance. On the same day, the client filed a European patent application EP1 covering the golf ball with the dimple-arrangement and describing the surprising effect of this arrangement.
+On the same day, a competitor after seeing the prototype also filed a European patent application EP2 describing and claiming a golf ball with small knobs, i.e. protrusions, in the same arrangement. The dimples and the knobs are, as is commonly known, equivalents.
+(a) Are EP1 and EP2 patentable?
+(b) Who will be able to sell the golf balls?
+
+--------------------------------------------------------
+
+
+Question 5
+F-08 (Selection) (EQE - 6 points)
+
+
+Your client, firm X, has acquired from firm Y European industrial property rights A-G insofar as they affect the designated Contracting State DE. In a letter dated 1 October 2026 you are instructed to affect the transfer of rights.
+• A, B and C are European patent applications which are under substantive examination.
+• In the case of D, notice of the grant of the patent was published on 22 July 2026.
+• E, F and G are patents which were granted in the years 2022-2024.
+• In the case of G an opposition was rejected at first instance, but appeal proceedings are still pending.
+Can European patent applications and patents also be transferred for one particular designated State, what requirements must be met for the transfer to be registered, and which EPO provisions apply to the different cases specified?
+
+---------------------------------------------
+
+
+Question 6
+F-09 	(EQE - 5,5 points) 
+
+
+Your client A has taken a licence under a European patent application owned by company B. Your client A wishes the grant of the licence to be recorded in the European Patent Register. Company B does not consent to such registration. 
+a) Is the registration of the grant of A's licence from B nevertheless possible? If so, what steps have to be taken? 
+b) If the licence is exclusive, is its registration as an exclusive licence possible? If so, what steps have to be taken? 
+
+-------------------------------------------------
+
+Question 7
+G-01 (Selection)	(7.5 points)
+
+A European patent application was filed on 9 March 2018 claiming priority from an earlier national patent application filed on 10 March 2017. During the course of the examination, the representative became ill. Based on a medical certificate sent to the EPO, a period to be specified was successfully extended to 9 months. Subsequently, to speed up the grant proceedings, the applicant requested accelerated proceedings.
+A competitor of the applicant wishes to verify these facts. If today is 2 March 2021, what can you advise him?
+
+
+Question 8 - Optional, recommended for Paper M4 candidates
+
+E-05 (Selection)	(EQE - 9 points)
+
+One of your clients phones you today, 17 March 2025. She tells you that she filed an EP application and that a competitor has been using her invention in some of the EPC Contracting States since late January 2025. The application was filed in French in December 2023, without claiming any priority rights; all fees have been duly paid. 
+She asks you to defend her rights. How would you proceed? 
