@@ -56,6 +56,7 @@ How to start entitlement proceedings:
 - Stay of proceedings may only be requested under R14(1) for applications that had already been published.
 - Final decision of national court shall be respected by other CSs - PoR A9
 - Send final decision to EPO under R14(2) and apply for one of A61(1) options - (b) or (c)
+- If going through with A61(1)(b) provisions, pay the necessary fees under R17(2) and R17(3) and R51(6). 
 
 Option (1): 
 - wait for publication of EP-B and file evidence to EPO that national proceedings have been instituted under R14(1). This will work to create a stay of proceedings at the EPO but carries the risk that BB withdraws the application in the meantime until protection under R15 is afforded after publication. If that's the case, AA can still avail of remedy under A61(1)(b) and R17(1) and file a new application for the sjm to which it has a right even though the previous application is no longer pending - G 3/92
@@ -70,16 +71,7 @@ Option (2):
 - Wed 26 June 2019 = 6m [G 2/99 and G 3/98] -> 26 Dec 2019.
 - So option (1) should be pursued first and then option (2). 
 
-
 - In all cases, monitor renewal fee payments as these need to keep happening - R14(4). A third party can pay renewal fees, so this is fine. 
-
-
-
-
-
-
-
-
 
 ------------------------------------------------------
 
