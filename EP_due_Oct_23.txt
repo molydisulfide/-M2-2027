@@ -144,6 +144,23 @@ Your client A has taken a licence under a European patent application owned by c
 a) Is the registration of the grant of A's licence from B nevertheless possible? If so, what steps have to be taken? 
 b) If the licence is exclusive, is its registration as an exclusive licence possible? If so, what steps have to be taken? 
 
+
+General considerations:
+- an EP app may be licensed in whole or in part for the whole or part of the territories of the designated CSs of that EP app under A73.
+- to validly register a licence in the EP register under R143(1)(w), it is necessary to file a signed, written request - R23(1); R22; R50(3) in one of the official languages of the EPO - R3(1) as well as documents providing evidence of such transfer - R22(1) [can be in any language - R3(3)].
+- the request may be filed by ANY interested party, i.e., either the applicant or the assignee - R22(1)
+
+(a)
+- Since the request may be filed by any party interested party, A may request the entry in the EP register under R143(1)(w) and provide evidence of the licence under R23(1) with the written request as discussed above.
+- A fee may be payable under R22(2); RFees3(1), but is waived if using MyEPO to request the record of the transfer - OJ 2024 A5.
+- However, B as the proprietor, may request the EPO to cancel the registration if they do not agree to it under R23(2) by providing a written consent of the cancellation. The fee for cancellation is set out in RFees3(1) and is waived if using MyEPO to file the request.
+
+(b)
+- YES, it is possible to register an exclusive licence under R24(a).
+- However, both applicant and licensee must so request.
+- So in this case the applicant will likely not agree and exclusive licence will not be registered. 
+
+
 -------------------------------------------------
 
 Question 7
