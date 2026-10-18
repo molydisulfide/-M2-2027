@@ -98,6 +98,15 @@ On the same day, a competitor after seeing the prototype also filed a European p
 (a) Are EP1 and EP2 patentable?
 (b) Who will be able to sell the golf balls?
 
+General considerations:
+- A60(2) provides that if two or more persons have made an invention independent of each other, the right to the patent shall belong to the person whose application has an earlier filing date - provided the application is published.
+- In the case of the same date of filing, the two applications are each to be treated as though the other did not exist - GL G-IV, 5.4
+
+Filing date issue in this case:
+- Both EP1 and EP2 have a DoF of 9 OCT 2026 and do not claim priority - A80; R40; A89.
+- Hence, EP1 does not make up state of the art for EP2; and EP2 does not make up state of art for EP1 under A54(2) and/or A54(3).
+- 
+
 --------------------------------------------------------
 
 
