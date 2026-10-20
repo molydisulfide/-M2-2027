@@ -133,6 +133,33 @@ Your client, firm X, has acquired from firm Y European industrial property right
 • In the case of G an opposition was rejected at first instance, but appeal proceedings are still pending.
 Can European patent applications and patents also be transferred for one particular designated State, what requirements must be met for the transfer to be registered, and which EPO provisions apply to the different cases specified?
 
+General considerations:
+- Yes, EP applications and patents can be transferred for one particular designated State - A71
+- Registration of transfers is governed by R22
+- A written registration request bearing the name and signatures of persons able to act on behalf of the parties must be filed - A72; G-XIV, 3; J 5/23.
+- Proof of the transfer must be provided - R22(1)
+- A fee must be paid - R22(2); RFees3(1)
+- The request must be filed in one of the official languages of the EPO - R3(1)
+- Proof of the transfer can be filed in any language - R3(3)
+- The transfer is effective on at the the date and to the extent that the written request and the evidence are produced - R22(3)
+
+For A, B, C:
+- the declaration of transfer must be signed by both X and Y under A72 to assign the pending EP application.
+
+For D:
+- 9m window for opposition under A99(1) runs out in 2027. We are still in OCT 26. 
+- EPO will record transfer of an application as long as procedural rights are pending. For the opposition period specifically R85 implements A71.
+
+For E, F:
+- no procedural rights are pending for applications whose opposition period ran out in 2024 (2 years ago).
+- not even the 1yr restablishment period of R136(1)
+- or 2m appeal period of the decision to grant
+
+For G:
+- if opposition-appeal is pending, then opposition proceedings are still technically open and R85 applies.
+
+
+
 ---------------------------------------------
 
 
