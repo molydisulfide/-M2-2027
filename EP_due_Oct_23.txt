@@ -198,6 +198,30 @@ G-01 (Selection)	(7.5 points)
 A European patent application was filed on 9 March 2018 claiming priority from an earlier national patent application filed on 10 March 2017. During the course of the examination, the representative became ill. Based on a medical certificate sent to the EPO, a period to be specified was successfully extended to 9 months. Subsequently, to speed up the grant proceedings, the applicant requested accelerated proceedings.
 A competitor of the applicant wishes to verify these facts. If today is 2 March 2021, what can you advise him?
 
+Timeline:
+- Prio NP1 filed @ 10 MAR 2017
+- EP1 filed @ 9 MAR 2018 claims prio to NP1.
+- Rep becomes ill.
+- Medical cert sent to EPO.
+- Period to be specified extended to 9m.
+- Request for accelerated proceedings.
+ - TODAY: 2 MAR 2021.
+
+- No public entries will be made in the EP register before EP1 is published.
+- EP1 published at the earliest on: 
+- 10 MAR 2017 [A89] + 18m [R134(1)] -> 10 SEP 2018 [EPO open; Monday] -> Pubs on next available Wednesday so 12 SEP 2018.
+- EP register already public [A127; A128(1)]
+- Will contain filing date - R143(1)(b) and prio date - 143(1)(i)
+- However, the medical certificate and PACE request are excluded from file inspection - R144(d); OJ2007 SE3-J.3 A1
+- Nonetheless, the application will be removed from the PACE programme if the applicant has requested an extension of a time limit (OJ EPO 2015, A93, point A.4).
+- So a loss-of-rights comm under A94(4) and R112(1) would have been communicated to the Applicant after the decision to reject a request for PACE. This R112(1) would have been entered into the public EP register. If re-establishment was successfully attempted, this also would have been entered into the register under R143(1)(u).
+
+
+
+
+
+-------------------
+
 
 Question 8 - Optional, recommended for Paper M4 candidates
 
