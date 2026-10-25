@@ -152,6 +152,27 @@ Today, 7 March 2017, you receive an e-mail from a patent attorney in Japan. He a
 In the e-mail the patent attorney in Japan informed you that he cannot be contacted today. However, you were instructed to file the application today. 
 How will you proceed? 
 
+Securing DoF:
+- Today is last day of 12m prio period under A87(1)
+- Cannot ask for extension of this 12m period because it is not a period to be specified under R132(2) EPC
+- However, priority claim may be added/corrected under R52(2) and R52(3) EPC, respectively.
+- We should secure a DoF [A80] of 7 MAR 2017 by meeting all the three requirements of R40(1).
+- We need an indication that EP patent is sought - R40(1)(a) - file a cover letter when submitting files online today to the EPO stating that an EP application is filed herewith
+- We need to incorporate JP 12345 by reference under R40(1)(c) - just file a statement saying at least description and drawings are incorporated by reference. We have the office where it was filed [Japan PTO] and file number [12345]. 
+- Don't need claims for now to secure DoR - just submit them within 2m of DoF after figuring out whether they are useful for EP procedure and are do not violate A123(2). 
+- Can also just say claims are incorporated on filing by using Section 26 of Request for Grant form - GL A-II, 4.1.3.1
+- The name and address of the applicant's representative is sufficient as information to contact applicant under R40(1)(b) - GL A-II, 4.1.2
+- Since Applicant is outside of EPC CS (Japan), he needs representation before the EPO anyway - A133(2)
+- I am his representative and EPO has my contact details as I am on the list mentioned in A134(5)
+- So filing date will be accorded for meeting all the requirements of R40(1).
+
+Adding priority claim:
+- We have 16m from earliest prio date to file a declaration claiming priority to JP 12345 - A88(1); R52(2)
+- 7 MAR 2016 + 16m [R131(4)] -> 7 JUL 2017 [EPO open]
+- We still have 4m to file the R52(2) declaration, so it should be plenty of time to find out the exact details of JP 12345.
+
+
+
 ---------------------------------------------------------------
 
 Question 8
