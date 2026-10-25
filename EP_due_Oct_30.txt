@@ -158,9 +158,10 @@ Securing DoF:
 - However, priority claim may be added/corrected under R52(2) and R52(3) EPC, respectively.
 - We should secure a DoF [A80] of 7 MAR 2017 by meeting all the three requirements of R40(1).
 - We need an indication that EP patent is sought - R40(1)(a) - file a cover letter when submitting files online today to the EPO stating that an EP application is filed herewith
-- We need to incorporate JP 12345 by reference under R40(1)(c) - just file a statement saying at least description and drawings are incorporated by reference. We have the office where it was filed [Japan PTO] and file number [12345]. 
-- Don't need claims for now to secure DoR - just submit them within 2m of DoF after figuring out whether they are useful for EP procedure and are do not violate A123(2). 
-- Can also just say claims are incorporated on filing by using Section 26 of Request for Grant form - GL A-II, 4.1.3.1
+- We need to incorporate JP 12345 by reference under R40(1)(c) - just file a statement saying at least description and drawings are incorporated by reference. We have the office where it was filed [Japan PTO] and file number [12345] and filing date [7 MAR 2016] so we will meet all the requirements of R40(2) and the DoF of the EP app will not be re-dated.
+- We need to file a certified copy of JP 12345 within 2m [R40(3)] and a translation into one of the official EPO languages [A14(2)] to retain the DoF through incorporation by reference under R40(1)(c).
+- Don't need claims for now to secure DoF - could always just submit them within 2m of DoF after figuring out whether they are useful for EP procedure and do not violate A123(2). 
+- Can also just say claims are incorporated on filing to satisfy R57(c) immediately by using Section 26 of Request for Grant form - GL A-II, 4.1.3.1
 - The name and address of the applicant's representative is sufficient as information to contact applicant under R40(1)(b) - GL A-II, 4.1.2
 - Since Applicant is outside of EPC CS (Japan), he needs representation before the EPO anyway - A133(2)
 - I am his representative and EPO has my contact details as I am on the list mentioned in A134(5)
@@ -169,7 +170,7 @@ Securing DoF:
 Adding priority claim:
 - We have 16m from earliest prio date to file a declaration claiming priority to JP 12345 - A88(1); R52(2)
 - 7 MAR 2016 + 16m [R131(4)] -> 7 JUL 2017 [EPO open]
-- We still have 4m to file the R52(2) declaration, so it should be plenty of time to find out the exact details of JP 12345.
+- We still have 4m to file the R52(2) declaration, so it should be plenty of time to find out the exact details of JP 12345, add the priority claim under R52(2) and provide the certified copy and translation [R40(3)]. 
 
 
 
