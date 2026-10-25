@@ -1,0 +1,170 @@
+Question 1
+H3-07	(10.5 points)
+
+
+Will a date of filing be accorded to the European patent application in the following situations? If so, what will be the filing date? If applicable, what further requirements have to be met?
+In each case the documents are filed directly with the EPO in Munich on 3 March 2019 and the requirements of Rule 40(1)(a) and (b) are fulfilled.
+
+General considerations:
+- EPO office in Munich is competent filing office for EP applications - A75(1); R35(1)
+- All three requirements (a) to (c) of R40(1) need to be satisfied to accord a filing date. - R40(1)
+- Nationality of applicant does not matter for according filing date - A58
+- Language of application does not matter for according filing date - A14(2)
+- No representation required for act of filing - A133(1) and A133(2)
+- "Filing date" = "date of filing" = "DoF"
+
+(a) Upon filing the application the Dutch applicant makes reference to a Dutch national application filed on 3 January 2018.
+Upon invitation from the EPO, a certified copy and translation into English of the earlier filed application and a set of claims are filed on 12 May 2019.
+
+- DoF accorded as R40(1)(c) requirement met by referring to Dutch app - R40(1)(c)
+- Need to indicate filing date of Dutch app; its file number; the office of filing; and indicate that this reference replaces the description and any drawings - R40(2)
+- It does not matter that the Dutch app was filed more than 12m from the EP app DoF. No requirement to claim prio to the Dutch app - GL A-II, 4.1.3.1
+- The applicant must supply a copy of the previously filed application certified as correct by the authority with which it was filed within two months of filing the application - R40(3)
+- 3 MAR 2019 + 2m [R131(4)] -> 3 MAY 2019 [EPO open]
+- The copy was not filed by then and EPO requested certified copy with R55 communication with a non-extendable 2m period - GL A-II, 4.1.5
+- 12 May 2019 is comfortably under 2m from earliest possible R55 notification date of 3 May 2019.
+- DoF filing is retained if certified copy provided within 2m period of R55 - A90(2); GL A-II, 4.1.5; R55
+-  Translation of Dutch app is necessary under R40(3) for examination but not for according a DoF - GL, A-II, 4.1.4
+- Set of claims irrelevant for getting a filing date - R40(1)
+- DoF accorded as 3 MAR 2019.
+
+(b) Upon filing the application the French applicant Mr. F makes reference to a French national application filed on 7 March 2018. At the same time, the applicant files a set of claims. Mr. F is neither the applicant nor the successor in title of the French national application.
+
+- Set of claims irrelevant for getting a filing date - R40(1)
+- DoF accorded as R40(1)(c) requirement met by referring to FR app - R40(1)(c)
+- Need to indicate filing date of FR app; its file number; the office of filing; and indicate that this reference replaces the description and any drawings - R40(2)
+- Applicant/successor in title status irrelevant between EP app and app to which reference is made under R40(1)(c); R40(2) - GL A-II, 4.1.3.1 - this would only matter if EP app claimed prio to the FR app, but here it does not.
+- DoF accorded as 3 MAR 2019.
+
+(c) Upon filing the application the French applicant makes reference to an earlier filed French national application indicating that the reference also replaces the claims.
+In the Request-for-Grant form, the applicant has omitted to indicate the file number of the previously filed application.
+Upon invitation from the EPO, the missing file number is filed on 4 April 2019. At the same time a certified copy of the earlier filed application is filed.
+
+- omission of file number is a deficiency under R40(2)
+- triggers R55 invite with 2m non-extendable period to correct deficiency
+- 4 APR 2019 is well within 2m of any possible invitation date considering app was filed on 3 MAR 2019
+- 2m period for filing certified copy is satisfied - R40(3)
+- However, DoF accorded will be 4 Apr 2019 because conditions of R40(2) were not fulfilled on filing.
+
+(d) Upon filing the application the Chinese applicant makes reference to an earlier filed Chinese application.
+Upon invitation from the EPO, a certified copy of the earlier Chinese application is not filed.
+
+- not providing the certified copy after R55 invite results in application not being treated as an EP application - A90(2)
+- no DoF accorded in that case.
+- No FP and no RE available because there is no EP app to speak of - A121; A122
+
+
+(e) Upon filing the application the Taiwanese applicant makes reference to a Taiwanese application filed on 6 March 2018. In the Request-for-Grant form, the applicant indicates that he claims priority from the earlier filed application. A certified copy of the earlier Taiwanese application is included in the filing.
+However, the applicant does not file a translation of the earlier Taiwanese application.
+
+- Requirements of R40(1) are all met.
+- Priority likely validly claimed as:
+-- within 12m under A87(1)
+-- from a WTO member state under A87(1)
+- certified copy included under - R40(3)
+- translation must be filed within 2m for progressing examination. If not, R58 invite sent out to cure deficiency.
+- However, this is irrelevant for according a filing date. - GL, A-II, 4.1.4
+- DoF accorded as 3 MAR 2019.
+
+
+---------------------------------------------------------------
+
+
+Question 2
+H3-08 	(10.5 points)
+
+A European patent application EP1 claiming the priority of a Uruguayan patent application filed on 27 August 2024, was filed in the Spanish language on 25 August 2025 at the Spanish Patent Office by a European representative on behalf of a Uruguayan medium-sized enterprise. EP1 was forwarded to the EPO under Article 77(1) EPC and was received on 4 September 2025. On the same day the search fee and 70% of the filing fee were paid. A translation of EP1 was received by the Receiving Section on 16 October 2025.
+a) What is the legal status of EP1?
+b) What would be the legal status if the Spanish Patent Office had never forwarded the application to the EPO?
+
+---------------------------------------------------------------
+
+
+
+Question 3
+H3-19 (Selection) 	(EQE - 5 points) 
+
+In January 2018, Applicant A and applicant B filed a European patent application EP-P, which is still pending. Applicant A designated NL, and applicant B designated BE. All other designations were withdrawn on filing.
+ A divisional application EP-D, filed recently in the name of applicant A, is divided out from application EP-P. 
+Applicant A asks you if EP-D will be accepted as a divisional application. What do you advise? 
+
+- NO, it will not be accepted as a divisional application.
+- EP-P is pending. Hence, a divisional app may be filed - A76(1); R36(1); G 1/09
+- Multiple applicants designating different EP CSs allowed for EP apps - A59
+- preserves unity of application under A118
+- Withdrawing designation possible at any time before grant - A79(3)
+- Divisional must be filed in name of all applicants - J 2/01
+- EP-D only filed in name of A. This makes it not validly filed and it will not be dealt with as an EP app - A90(2). 
+- Solution is to re-file together in name of A and B and transfer rights from B to A under A72.
+- All designations not withdrawn from the parent need to be designated for the EP-D - A76(2); G 4/98
+- So if A is interested in designating NL only for EP-D, he needs to withdraw BE designation after transfer of rights - A79(3).
+
+---------------------------------------------------------------
+
+Question 4
+H3-22 	(10.5 points) 
+
+Last week, on 19 February 2019, a Korean applicant living in Korea submits an EPO form 1001, together with the name and address of his representative. Section 26 of the form refers to an earlier Korean patent application "KR14-May-2017 2017014231", and a request is made to replace the description and drawings by this reference. No other indications are made in section 26, and no other documents are subsequently filed. 
+(a)  Will a date of filing be initially accorded to the application? 
+
+(b)  What must the applicant then do for the application to retain the filing date? 
+
+(c)  What further steps are needed in relation to the Korean description?
+
+
+---------------------------------------------------------------
+
+Question 5
+H3-32 	(EQE - 8 points) 
+
+
+For European patent applications EP1 and EP2, the applicant filed a divisional DIV1 on 1 October 2024 of EP1, and a divisional DIV2 on 14 January 2025 of EP2.
+
+The applicant received an invitation, under R.58 EPC, to file the missing claims for DIV1 no later than 4 February 2025. When checking his files, the applicant confirmed that the missing claims was the only deficiency in DIV1. He also noticed that there was a single deficiency in the filing of DIV2, namely that the filing and search fees had not been paid. On 4 February 2025 the applicant tried to file the claims for DIV1 and to pay the fees for DIV2. However, in spite of all due care taken, the claims for DIV1 failed to arrive at the EPO and the debit order for DIV2 could not be executed as there were insufficient funds in the account. 
+The applicant learned about these failures today, 11 March 2025, by receipt of two EPO communications, dated 7 March 2025, indicating the loss of rights for DIV1 and DIV2. 
+A) Can the claims for DIV1 still be validly filed?
+
+B) Can a divisional application of DIV2 be validly filed today? 
+
+
+
+---------------------------------------------------------------
+
+
+Question 6
+2015 Paper D1 - QUESTION 5 	(7 MARKS) 
+
+
+Applicant E filed a European patent application, which discloses new amino acid sequences, but lacks a sequence listing. Applicant E has received a communication from the EPO, dated 18 February 2015, inviting applicant E to remedy this defect. (Today’s date: 24 Feb 2015) 
+a)  What does applicant E have to do to provide a remedy and by when? 
+b)  What is the legal consequence of not remedying the defect? Can this legal consequence be remedied? 
+
+
+
+---------------------------------------------------------------
+
+
+
+Question 7
+2017 Paper D1 - QUESTION 3 	(4 MARKS) 
+
+Today, 7 March 2017, you receive an e-mail from a patent attorney in Japan. He asks you to file a European patent application claiming the priority of Japanese patent application JP 12345, containing a description, claims and drawings, filed in Japanese at the Japan Patent Office (JPO) on 7 March 2016. The text of the e-mail does not contain any details about the applicant but mentions two attachments: one attachment with a copy of JP 12345 as filed, and one attachment with the applicant’s name and contact details. However, the attachments were corrupted and cannot be opened. 
+In the e-mail the patent attorney in Japan informed you that he cannot be contacted today. However, you were instructed to file the application today. 
+How will you proceed? 
+
+---------------------------------------------------------------
+
+Question 8
+2017 Paper D1 - QUESTION 6 	(8 MARKS) 
+
+On 7 March 2016, your client, a Portuguese university, filed a Portuguese patent application PT-H. 
+PT-H is drafted in Portuguese and comprises 32 pages of description and drawings, and 4 pages with 15 claims. Your client has prepared an English translation of PT-H comprising 29 pages of description and drawings and 4 pages with 15 claims. 
+Today, 7 March 2017, your client wants you to file a European patent application EP-H, their first European patent application ever, claiming priority of PT-H.
+a)  Which fees shall be paid within one month of filing? 
+
+b)  How do you minimize the amount of these fees? 
+
+c)  You filed an automatic debit order for EP-H. On the decisive payment date, you 
+receive an e-mail from the EPO informing you that there are insufficient funds in your deposit account to cover any of the fees to be paid under a). You replenish the account 2 days after receiving the e-mail. Do you have to take any further action with respect to the payment of these fees? 
+
+
