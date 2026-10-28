@@ -77,6 +77,8 @@ A European patent application EP1 claiming the priority of a Uruguayan patent ap
 a) What is the legal status of EP1?
 b) What would be the legal status if the Spanish Patent Office had never forwarded the application to the EPO?
 
+
+DID THIS ON PAPER
 ---------------------------------------------------------------
 
 
@@ -110,6 +112,26 @@ Last week, on 19 February 2019, a Korean applicant living in Korea submits an EP
 (b)  What must the applicant then do for the application to retain the filing date? 
 
 (c)  What further steps are needed in relation to the Korean description?
+
+(a) 
+- Anyone can file EP application regardless of nationality - A58
+- Applicants resident outside EPC CSs need professional representation for acts other than filing of EP app - A133(2)
+- Can be filed in any language provided translation into FR/DE/EN is provided - A14(2)
+- Form 1001 sufficient to satisfy R40(1)(a); GL A-III 4.1
+- Name and address of representative enough to satisfy R40(1)(b) - A-II, 4.1.2
+- Reference to previously filed app is needed under R40(1)(c).
+- To satisfy R40(1)(c), ALL aspects of R40(2) must be fulfilled. 
+- In this case, we have indication of replacing drawings (iv); presumed filing date (i), office (iii) and presumed app number (ii).
+- So it should be sufficient. 
+- If not, can always put down those date and number of the KR app and correct under R139 once clarified with the applicant what the actual date is.
+- Or could always file 30 EP applications today in the applicant's name, putting down another day of May 2017 and only pay filing fee for one of them once clarified with applicant what the actual date is.
+
+(b) 
+
+
+
+
+
 
 
 ---------------------------------------------------------------
