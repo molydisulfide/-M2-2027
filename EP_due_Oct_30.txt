@@ -122,11 +122,22 @@ Last week, on 19 February 2019, a Korean applicant living in Korea submits an EP
 - Reference to previously filed app is needed under R40(1)(c).
 - To satisfy R40(1)(c), ALL aspects of R40(2) must be fulfilled. 
 - In this case, we have indication of replacing drawings (iv); presumed filing date (i), office (iii) and presumed app number (ii).
-- So it should be sufficient. 
+- So it should be sufficient to get a DoF under A80.
 - If not, can always put down those date and number of the KR app and correct under R139 once clarified with the applicant what the actual date is.
 - Or could always file 30 EP applications today in the applicant's name, putting down another day of May 2017 and only pay filing fee for one of them once clarified with applicant what the actual date is.
 
-(b) 
+(b) To retain filing date, the Applicant will then need to:
+- supply certified copy of the KR app under R40(3) within 2m of filing the app: 19 FEB 2019 + 2m [R131(4)] -> 19 APR 2019 [EPO closed] -> R134(1) -> 23 APR 2019. Still time to do this.
+- EPO has no access to the KR app itself - OJ 2009, 486; GL A-II 4.1.3.1
+- If we miss it, we get R55 invitation anyway and a further 2m from date of communication - GL A-II 4.1.5
+- This will retain the filing date.
+- Otherwise not treated as EP app - A90(2), R55
+
+(c)
+- Desc needs to be translated into FR/DE/EN within 2m of DoF - A14(2); R6(1)
+- That's 23 APR 2019. Still time to do this.
+- If not done on time, EPO will send A90(3), (4); R57(a); R58 invitation with further 2m to do it.
+- Claim will need to be provided eventually - R57(c), which will need to be directly and unambiguously derivable from the description as they were not incorporated by reference on the date of filing from the KR app. 
 
 
 
