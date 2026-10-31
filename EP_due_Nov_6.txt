@@ -65,11 +65,13 @@ What must be done to obtain the desired protection in the following cases?
 - Either way; a divisional application will have to be filed to get a patent for matter related to I1 - A76(1); R36(1)
 - This has to be done while this app is still pending - G 1/09; GL A-IV 1.1.1.
 - Same for I3.
-- The cost will be effectively 3 search fees + 3 exam fees, etc. - R38(1)
+- The cost will be effectively 3 search fees + 3 exam fees, etc. anyway. - R38(1)
+- But the search fee paid under R38(1) for the divisionals will be refunded under Rfees 9(2) - in this case in full because the claims/matter will be indentical to that already searched by the EPO - OJ 2024, A6
 - Appeal fee is more than search fee. Not worth requesting a non-unity decision and appealing it if we are looking to minimize costs.
 - Either way, a single application can only lead to grant of a patent for a single invention. So no matter if there is or isnt unity, a divisional MUST be filed, unless the applicant is happy to somehow have protection for I2 as a dependent claim from I1 and this counts to him as "protection".
 - to minimize costs further; ensure page fees under R38(2) and claims fees R45 are kept to minimum (ideally zero).
-- 
+- file online to get a lower online filing fee - RFees2(1).1
+
 
 
 
