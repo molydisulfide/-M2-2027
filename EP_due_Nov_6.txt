@@ -44,12 +44,7 @@ Considerations of somehow including the new drawings into the disclosure of EP2:
 - Probably not worth it.
 - Cannot file EP3 claiming partial prio to EP2 and adding drawings because EP2 was not the first app for the invention already disclosed in UK2. 
 
-
-
 -------------------
-
-
-
 
 Question 2
 H4-08		(EQE - 4.5 points)
@@ -58,6 +53,29 @@ The Search Division informs the applicant in accordance with Rule 64(1) EPC that
 What must be done to obtain the desired protection in the following cases?
 (a) The applicant decides that he only wishes to continue with invention two as the only practical embodiment and wishes to abandon the claims for inventions one and three.
 (b) The applicant wishes to obtain protection for all three inventions, with minimum cost.
+
+(a) 
+- Since the search fee (Rfees2(1).2) has validly been paid for invention two, the Applicant may proceed towards grant of invention two based on this application. 
+- Matter pertaining to inventions one and three may simply be excised from the application to reach unity of invention under A82; R44
+- Prosecution may continue based on matter directed to invention two only, which had been searched and can thus be validly pursued and used to amend the claims in view of cited prior art from the search report (G 2/92; R137(5)) 
+- Search fee for invention one will not be refunded in that case - 
+
+(b) 
+- Two search fees have already been paid for I1 and I2. These will not be refunded unless a R64(2) refund is requested and the non-unity finding is found to be unjustified. 
+- Either way; a divisional application will have to be filed to get a patent for matter related to I1 - A76(1); R36(1)
+- This has to be done while this app is still pending - G 1/09; GL A-IV 1.1.1.
+- Same for I3.
+- The cost will be effectively 3 search fees + 3 exam fees, etc. - R38(1)
+- Appeal fee is more than search fee. Not worth requesting a non-unity decision and appealing it if we are looking to minimize costs.
+- Either way, a single application can only lead to grant of a patent for a single invention. So no matter if there is or isnt unity, a divisional MUST be filed, unless the applicant is happy to somehow have protection for I2 as a dependent claim from I1 and this counts to him as "protection".
+- to minimize costs further; ensure page fees under R38(2) and claims fees R45 are kept to minimum (ideally zero).
+- 
+
+
+
+
+---------------------
+
 
 Question 3
 H4-11		(10 points)
