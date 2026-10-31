@@ -9,6 +9,22 @@ On 20 February 2015, the contents of UK1 and UK2 were made publicly available.
 Later the applicant noticed that he had forgotten to file the drawings for EP1. On 23 February 2015 he filed drawings for EP1 and he also filed drawings for EP2. The drawings for EP1 are identical to the drawings of UK1. The drawings for EP2 are newly drafted, because UK2 does not contain any drawings. 
 Today, on 24 Feb 2015, the applicant asks you what can be done to optimise the situation with regard to EP1 and EP2. 
 
+Timeline:
+- UK1 and UK2 filed @ 17 FEB 2014 [different inventions]
+- EP1 and EP2 filed @ 17 FEB 2015. Claims/spec identical to UK1 and UK2, respectively. Prio claimed respectively.
+- UK1 and UK2 published @ 20 FEB 2015.
+- EP1 and EP2 drawings filed @ 23 FEB 2015. EP1 drawings = UK1 drawings. EP2 drawings = new matter over UK2.
+- TODAY @ 24 FEB 2015. We need to "optimise" situation.
+
+Consider EP1 first:
+- Prio validly claimed within 12m period - A87(1)
+- Effective date is 17 FEB 2014 - A89
+- Publication of UK1 will spoil novelty of added drawings of EP1 if EP1 filing date is redated to 23 FEB 2015 - A54(2)
+- Cannot refile EP1 claiming prio to UK1 and including drawings because 12m period is already gone - A87(1).
+- If ALL drawings are missing, this qualifies as missing parts under R56.
+- Redating can be avoided under R56(3) if the missing parts are completely contained in the priority document. This is the case here.
+- In order to avail of remedy of R56(3): (a) a copy of UK1 has to be provided to the EPO within 2m of the filing date accorded under R40(1); (b) an indication as to where the missing drawings are completely contained needs to be provided to the EPO within 2m of DoF - R56(1); R56(2); R56(3).
+- 17 FEB 2015 + 2m [R134(1)] -> 17 APR 2015 [EPO open]. Still time to act and provide the copy of UK1 and indicate where the missing drawings are contained. This effective incorporation by reference will save the filing date of EP1 and hence the effective date under A89, while ensuring the drawings are parts of the original disclosure of EP1. 
 
 
 
