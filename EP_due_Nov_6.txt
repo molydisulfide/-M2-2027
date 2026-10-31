@@ -11,7 +11,7 @@ Today, on 24 Feb 2015, the applicant asks you what can be done to optimise the s
 
 Timeline:
 - UK1 and UK2 filed @ 17 FEB 2014 [different inventions]
-- EP1 and EP2 filed @ 17 FEB 2015. Claims/spec identical to UK1 and UK2, respectively. Prio claimed respectively.
+- EP1 and EP2 filed @ 17 FEB 2015. Claims/spec identical to UK1 and UK2, respectively. Prio claimed respectively. Drawings missing for both.
 - UK1 and UK2 published @ 20 FEB 2015.
 - EP1 and EP2 drawings filed @ 23 FEB 2015. EP1 drawings = UK1 drawings. EP2 drawings = new matter over UK2.
 - TODAY @ 24 FEB 2015. We need to "optimise" situation.
@@ -24,7 +24,25 @@ Consider EP1 first:
 - If ALL drawings are missing, this qualifies as missing parts under R56.
 - Redating can be avoided under R56(3) if the missing parts are completely contained in the priority document. This is the case here.
 - In order to avail of remedy of R56(3): (a) a copy of UK1 has to be provided to the EPO within 2m of the filing date accorded under R40(1); (b) an indication as to where the missing drawings are completely contained needs to be provided to the EPO within 2m of DoF - R56(1); R56(2); R56(3).
-- 17 FEB 2015 + 2m [R134(1)] -> 17 APR 2015 [EPO open]. Still time to act and provide the copy of UK1 and indicate where the missing drawings are contained. This effective incorporation by reference will save the filing date of EP1 and hence the effective date under A89, while ensuring the drawings are parts of the original disclosure of EP1. 
+- 17 FEB 2015 + 2m [R134(1)] -> 17 APR 2015 [EPO open]. Still time to act today and provide the copy of UK1 and indicate where the missing drawings are contained. This effective incorporation by reference will save the filing date of EP1 and hence the effective date under A89, while ensuring the drawings are parts of the original disclosure of EP1. 
+- Simultaneous request along with the R56(3) requirements may be filed within a single submission - GL A-II 5.4.1
+- The "completely contained" requirement applicable to late-filed missing drawings also requires them to be in the same format as the drawings of the priority application, meaning that the drawings filed under Rule 56(3) may contain colour or greyscale content only to the same extent as the drawings in the priority application; see the notice from the EPO dated 5 September 2025 (OJ EPO 2025, A57).
+- The copy of the priority application that is required for the request according to Rule 56(3) does not need to be certified. - GL A-II 5.4.3
+
+Consider EP2 now:
+- Here, the situation is materially different as there were no drawings at all in UK2. So we cannot user R56 to add missing parts and use our priority claim to incorporate them by reference.
+- The missing drawings in this case have essentially been provided under the provisions of R56(2). 
+- This will result in redating of EP2 to 23 FEB 2015, losing priority claim due to not meeting 12m period of A87(1) and publication of UK2 becoming full A54(2) prior art against EP2.
+
+How to preserve priority date of EP2:
+- We have right to withdraw the filed missing elements under R56(6) within 1m of the notification from the EPO that EP2 has been redated - R56(2). In that case, re-dating shall be deemed to not have been made.
+- Earliest possible deadline in that regard would be 23 MAR 2015 [EPO open]. Today there is still time to act and withdraw the drawings from EP2 under R56(6). This will keep our priority date and not make UK2 prior art against EP2 - A89; A54(2).
+
+Considerations of somehow including the new drawings into the disclosure of EP2:
+- UK2 and UK1 are different inventions. UK2 has no drawings at all. EP2 drawings are effectively new matter with earliest possible effective date being the DoF of EP2. EP2 only claimed prio to UK2 on its DoF. 
+- If we are sure that drawings of EP2 will be novel and inventive over the disclosures of UK2, we can go ahead and keep them in EP2 and keep the re-dated DoF. But claims and desc of EP2 will be not novel over UK2 publication. Will need to rewrite claims within A123(2) but can be based on the drawings if directly and unambiguously derivable. 
+- Probably not worth it.
+- Cannot file EP3 claiming partial prio to EP2 and adding drawings because EP2 was not the first app for the invention already disclosed in UK2. 
 
 
 
