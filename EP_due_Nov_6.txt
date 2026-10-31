@@ -1,0 +1,80 @@
+Question 1
+2015 Paper D1 - QUESTION 1 	(9 MARKS) 
+
+
+On 17 February 2015, applicant A filed on the last day of the priority period European patent applications EP1 and EP2, together with copies of the earlier national British patent applications UK1 and UK2. UK1 and UK2 relate to different inventions. 
+EP1 claims the priority of the earlier national patent application UK1. The description and claims of EP1 and UK1 are identical. 
+EP2 claims the priority of the earlier national patent application UK2. The description and claims of EP2 and UK2 are identical. 
+On 20 February 2015, the contents of UK1 and UK2 were made publicly available. 
+Later the applicant noticed that he had forgotten to file the drawings for EP1. On 23 February 2015 he filed drawings for EP1 and he also filed drawings for EP2. The drawings for EP1 are identical to the drawings of UK1. The drawings for EP2 are newly drafted, because UK2 does not contain any drawings. 
+Today, on 24 Feb 2015, the applicant asks you what can be done to optimise the situation with regard to EP1 and EP2. 
+
+
+
+
+-------------------
+
+
+
+
+Question 2
+H4-08		(EQE - 4.5 points)
+
+The Search Division informs the applicant in accordance with Rule 64(1) EPC that the application contains three inventions, and that with respect to the second and third invention a further search fee has to be paid for each of them if the European search report is to cover these inventions. A further search fee is only paid for the second invention. In the first communication from the Examining Division, the objection of non-unity is maintained in respect of the three inventions.
+What must be done to obtain the desired protection in the following cases?
+(a) The applicant decides that he only wishes to continue with invention two as the only practical embodiment and wishes to abandon the claims for inventions one and three.
+(b) The applicant wishes to obtain protection for all three inventions, with minimum cost.
+
+Question 3
+H4-11		(10 points)
+
+A European patent application is filed at the end of November 2024 with a single claim, claiming priority from a national application filed in December 2023. The only fees paid were for filing and search. In early May 2025, the applicant receives the Search Report, including the Written Opinion - the Search Report cites two "X" documents against the claim, and explains in the Written Opinion that the claim is no longer novel in light of both references.
+The applicant disagrees with the interpretation of the "X" documents by the Search Division.
+Yesterday, 29 May 2025, the applicant received the Rule 69(1) communication, dated 23 May 2025 and indicating that the search report will be published on 25 June 2025.
+a) What steps must the applicant take to ensure that application will be examined? And to obtain a maximum territorial scope of protection?
+b) What would the legal status be if these steps are not performed? Are there any remedies?
+c) During what time period may the applicant submit amendments of his own volition?
+
+
+
+Question 4
+H4-12 alternative		(EQE - 10 points)
+
+On 7 February 2025, applicant A filed a European patent application EP-2 claiming priority from a national application NP filed on 7 February 2024. The search report of EP-2 was published in the European Patent Bulletin on 13 August 2025. Applicant A paid the examination and designation fee in January 2026. No extension or validation fees were paid.
+Today, 3 March 2026, applicant A becomes aware that a separate invention, disclosed but not claimed in EP-2, is particularly relevant in Georgia due to a competitor's activities there. The separate invention lacks unity with the independent claims of EP-2.
+Applicant A wants to obtain patent protection in Georgia for the separate invention.
+
+How should applicant A proceed?
+
+
+Question 5
+H5-04 (Selection)	(EQE - 6.5 points)
+
+(a) An applicant irrevocably withdraws a European patent application one day after having received notification that the European patent application will be published as an A2 document. Which fees, if any, will be refunded by the EPO?
+(b) An applicant irrevocably withdraws a European patent application seven months after publication of the search report, having requested examination and having paid the examination fee upon filing the application. Which fees, if any, will be refunded by the EPO? 
+
+
+Question 6
+H6-03 (Selection) 	(5 point) 
+
+
+In July 2025, a European patent application was duly filed in Greek by a Greek small and medium-sized enterprise (SME). On the Request for Grant form 1001, filed together with the application, the applicant declared that they are an SME by ticking the appropriate box and requested examination using the appropriate Greek sentence. On the same day, the applicant also paid all fees due, including the examination fee, while validly benefiting from the 30% reduction in the examination fee. 
+In 2026, the applicant had an enormous commercial success and has grown from an SME towards a large enterprise with an annual turnover of about € 120 million in 2026, with further growth being expected. 
+A few weeks ago, in January 2027, the application was published in English, together with the search report. The applicant wants to proceed towards substantive examination. 
+Is the amount in which the examination fee sufficient in view of the growth of the company? How to proceed? 
+
+
+
+
+
+
+
+
+
+Question 7
+H6-10 (Selection) (EQE - 8 points)
+
+Your client validly filed a European application EP1 as a first filing containing independent apparatus claims 1, 2 and 3. Your client received from the EPO a first invitation dated 02.04.2024 to indicate which of the independent claims are to be searched because independent claims 1, 2 and 3 do not comply with Rule 43(2) EPC. All claims combine to form a single general inventive concept. Your client did not reply to the first invitation.
+Your client received, with the European search opinion, a second invitation to correct deficiencies in the application. The publication of the European search report for EP1 was mentioned in the European patent bulletin on 14.08.2024. Your client did not reply to the second invitation. The request for examination has not been filed. Today is 11.03.2025.
+a) When did the time limit for replying to each of the first and second invitations expire? Is it still possible to reply to these invitations?
+b) Your client intends to amend application EP1 so that examination will be carried out on the basis of original claim 3. What do you advise your client in order to obtain protection for the subject matter of claim 3?
