@@ -141,7 +141,7 @@ H5-04 (Selection)	(EQE - 6.5 points)
 - Active withdrawal possible at any time - J 11/80; GL A-VI 1.2, e.g., through EPO Form 1018.
 - Moreover, if the search report has not been drawn up yet and the EP app is withdrawn, the search fee - Rfees 2(1).2 - is refunded - Rfees 9(1).
 - So in this case it's likely there will be a full refund of the search fee as well.
-- The designation fee cannot be validly paid before ESR publication anyway - A79(2) - so if it was paid it will be refunded in full because there is no legal basis for payment yet. 
+- The designation fee cannot be validly paid before ESR publication anyway - A79(2) - so if it was paid it will be refunded in full because there is no legal basis for payment yet. - GL A-X 5.2.2
 
 (b) 
 - 50 % of exam fee - Rfees 2(1).6 - will be refunded if EP withdrawn after substantive examination has begun and before expiry of time limit for replying to first A94(3) comm. - Rfees 11(b). 
@@ -152,11 +152,6 @@ H5-04 (Selection)	(EQE - 6.5 points)
 - So refund will not be given for the exam fee.
 - No refund for search fee as ESR was issued already.
 - No refund of designation fee if validly paid after publication of ESR - R39(3).
-
-
-
-
-
 
 ------------------------------------------------------
 
@@ -169,8 +164,19 @@ In 2026, the applicant had an enormous commercial success and has grown from an 
 A few weeks ago, in January 2027, the application was published in English, together with the search report. The applicant wants to proceed towards substantive examination. 
 Is the amount in which the examination fee sufficient in view of the growth of the company? How to proceed? 
 
+Timeline:
+- JUL 2025 - EP filed in Greek. Declaration under R7b(1) was made on filing and examination was requested in Greek - meets A14(4) person requirements for discount under R7a(1) and SME status under R7a(2) to avail of R7a(1) discount. 
+- However, SMEs are not eligible for further reductions under R7a(3).
+- So only 30 % discount available on the exam fee - Rfees 14(1)
+- No longer has SME status by end of 2026 - annual turnover exceeds 120 M -  OJ 2024 A8; GL A-X 9.3.1
+- JAN 2027 - publication of EP app in ENG along with ESR - A1 publication.
+- triggers 6m period to request examination.
+- however, exam fee already validly paid and request for examination filed and translated into english [because app was eventually published so A14(2) translations were always filed in time so that the app was not deemed withdrawn by publication time]
 
-
+On the merits:
+- key consideration is that status change of applicant relating to R7a(2) does not have retroactive effect on fee reductions that were justified when granted - OJ 2014 A23
+- the company should now declare status change under 7b(2) to ensure any fees are not debited under the reduced rate for which they no longer qualify.
+- This will ensure that the designation fees, renewal fees, etc do not get incorrectly debited which could lead to eventual withdrawal of application under R7b(4)
 
 
 --------------------------------------------------------------------------
