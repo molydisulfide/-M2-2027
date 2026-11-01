@@ -44,7 +44,7 @@ Considerations of somehow including the new drawings into the disclosure of EP2:
 - Probably not worth it.
 - Cannot file EP3 claiming partial prio to EP2 and adding drawings because EP2 was not the first app for the invention already disclosed in UK2. 
 
--------------------
+------------------------------------------------------------------------
 
 Question 2
 H4-08		(EQE - 4.5 points)
@@ -73,10 +73,7 @@ What must be done to obtain the desired protection in the following cases?
 - file online to get a lower online filing fee - RFees2(1).1
 
 
-
-
-
----------------------
+--------------------------------------------------------------------------
 
 
 Question 3
@@ -117,7 +114,7 @@ c)
 
 
 
-
+--------------------------------------------------------------------------------
 
 
 
@@ -130,6 +127,7 @@ Applicant A wants to obtain patent protection in Georgia for the separate invent
 
 How should applicant A proceed?
 
+----------------------------------------------------
 
 Question 5
 H5-04 (Selection)	(EQE - 6.5 points)
@@ -137,6 +135,30 @@ H5-04 (Selection)	(EQE - 6.5 points)
 (a) An applicant irrevocably withdraws a European patent application one day after having received notification that the European patent application will be published as an A2 document. Which fees, if any, will be refunded by the EPO?
 (b) An applicant irrevocably withdraws a European patent application seven months after publication of the search report, having requested examination and having paid the examination fee upon filing the application. Which fees, if any, will be refunded by the EPO? 
 
+(a)
+- A2 publication means application published only with no ESR - R68(1)
+- If the examination fee - Rfees 2(1).6 - had already been paid by the Applicant, it can be refunded (in full) if the EP application is withdrawn before substantive examination begins. Since ESR is not yet published, we substantive examination has not yet begun (R10 EPC). - Rfees 11(a).
+- Active withdrawal possible at any time - J 11/80; GL A-VI 1.2, e.g., through EPO Form 1018.
+- Moreover, if the search report has not been drawn up yet and the EP app is withdrawn, the search fee - Rfees 2(1).2 - is refunded - Rfees 9(1).
+- So in this case it's likely there will be a full refund of the search fee as well.
+- The designation fee cannot be validly paid before ESR publication anyway - A79(2) - so if it was paid it will be refunded in full because there is no legal basis for payment yet. 
+
+(b) 
+- 50 % of exam fee - Rfees 2(1).6 - will be refunded if EP withdrawn after substantive examination has begun and before expiry of time limit for replying to first A94(3) comm. - Rfees 11(b). 
+- We are 7m after ESR. Examination likely to have begun already but A94(3) comm likely not issued yet. 
+- So time limit of Rfees11(b) has certainly not passed yet. 
+- 50 % refund of exam fee likely.
+- Could even be the case that Examination has not started properly yet and active withdrawal may be received under Rfees 11(a) and 100 % of exam fee is refunded.
+- So refund will not be given for the exam fee.
+- No refund for search fee as ESR was issued already.
+- No refund of designation fee if validly paid after publication of ESR - R39(3).
+
+
+
+
+
+
+------------------------------------------------------
 
 Question 6
 H6-03 (Selection) 	(5 point) 
@@ -151,7 +173,7 @@ Is the amount in which the examination fee sufficient in view of the growth of t
 
 
 
-
+--------------------------------------------------------------------------
 
 
 
