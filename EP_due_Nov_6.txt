@@ -89,6 +89,36 @@ a) What steps must the applicant take to ensure that application will be examine
 b) What would the legal status be if these steps are not performed? Are there any remedies?
 c) During what time period may the applicant submit amendments of his own volition?
 
+a)
+- The period for filing request for examination is up to 6m after date on which Bulleting mentions the publication of the ESR - R70(1)
+- The applicant should pay the examination fee and file request for examination before:
+- 25 JUN 2025 + 6m [R131(4)] -> 25 DEC 2025 [EPO closed] -> [R134(1)] -> 5 JAN 2026.
+- Can even do it before publication of ESR and just confirm that he wishes to proceed with the application in the response - R70(2)
+- Because the opinion was negative (X documents kill novelty under A54(2)); a response to the European search opinion is mandatory - R70a(1). 
+- Must be filed in the 6m period of R70(1) - by 5 JAN 2026.
+- Examination fee - Rfees2(1).6 - needs to be paid under A94(1) so that the request is deemed validly filed.
+- Designation fee is due upon mention of publication of ESR - A79(2), R39(1), Rfees 2(1).3.
+- It may be paid within 6m of publication of ESR - R39(1). It's a single fee for all EPC CSs.
+- For maximum territorial scope of protection - pay also extension/validation fees within same time limit as designation fees - A79(2). These fees are separate for each extension/validation state and so need to be paid separately within the 6m period. 
+- Check renewal fees to be paid to EPO for third and subsequent years - A86(1); R51(1) to make sure app is not deemed to be withdrawn.
+
+b) 
+- If exam fee not paid or request for exam not filed, request is deemed not filed - A94(1) - and app is deemed to be withdrawn - A94(2)
+- If designation fee not paid, app deemed to be withdrawn - R39(2)
+- If response to negative opinion not filed; deemed withdrawal under A94(4); R70a(3)
+- FP is not excluded and available for all of the above - A121(4); R135(2)
+- Need to pay FP fee and complete omitted act, etc.
+- Not paying extension/validation fee means the extension/validation is considered withdrawn. FP also available. Also get 2m grace period - OJ 2015 A19, GL A-III 12.2
+
+c)
+- No amendments may be submitted before receipt of the ESR - R137(1)
+- After ESR receipt, amendments may be made within the 6m period for requesting examination - R137(2)
+- Any other voluntary amendments must be admitted by the Examining Division at their discrection - R137(3)
+
+
+
+
+
 
 
 Question 4
@@ -113,7 +143,7 @@ H6-03 (Selection) 	(5 point)
 
 
 In July 2025, a European patent application was duly filed in Greek by a Greek small and medium-sized enterprise (SME). On the Request for Grant form 1001, filed together with the application, the applicant declared that they are an SME by ticking the appropriate box and requested examination using the appropriate Greek sentence. On the same day, the applicant also paid all fees due, including the examination fee, while validly benefiting from the 30% reduction in the examination fee. 
-In 2026, the applicant had an enormous commercial success and has grown from an SME towards a large enterprise with an annual turnover of about € 120 million in 2026, with further growth being expected. 
+In 2026, the applicant had an enormous commercial success and has grown from an SME towards a large enterprise with an annual turnover of about € 120 million in 2026, with further growth being expected.
 A few weeks ago, in January 2027, the application was published in English, together with the search report. The applicant wants to proceed towards substantive examination. 
 Is the amount in which the examination fee sufficient in view of the growth of the company? How to proceed? 
 
