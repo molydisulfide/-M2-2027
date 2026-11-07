@@ -1,0 +1,186 @@
+Question 1
+H7-07 	(6 points) 
+
+
+A European patent application was filed with reference to and claiming the priority of a previously filed French application. The reference to the earlier national application indicated that it replaces the description and drawings. A set of claims was filed 1 month after filing the European patent application.
+
+During examination before the Examining Division it is found that one of the claims in the set of claims filed after filing the European patent application contained a feature of the invention not disclosed in the description and drawings of the earlier national application but only contained in the set of claims of the earlier national application. 
+
+(a)  May the claim be maintained unamended? 
+
+(b)  Would your answer have been different if the applicant had detected the error within 2 months of filing the European patent application? 
+
+(a)
+- Date of filing [A80] was obtained by meeting the requirements of R40(1) through incorporation by reference - R40(1)(c).
+- The FR application's description and drawings effectively become the original disclosure provided on the DoF.
+- The claims were filed voluntarily BEFORE the invitation under R58 to provide claims to meet R57(c) requirements.
+- Claims filed AFTER the date of filing are considered amendments and must find basis in the description/drawings filed on DoF. - A123(2)
+- The feature is present in the priority document. 
+- For the purpose of Art. 123(2) EPC, "the content of the application as filed" does not include any priority documents, even if they are filed on the same day as the European patent application - T 260/85, OJ 1989, 105; G 3/89, OJ 1993, 117; G 11/91, OJ 1993, 125.
+- So the application as filed only includes the parts which were incorporated by reference - in this case ONLY spec and drawings. The claims of the priority doc do not form the original disclosure of the EP app.
+-  Hence, the claim will have to be amended/deleted to overcome A123(2) objections.
+
+(b)
+- Claims are never missing parts under R56. 
+- Erroneously filed elements, including claims, may be, in principle, corrected under R56a.
+- However, claims submitted after DoF are treated as AMENDMENTS to the EP application and R56a cannot be used to refile them by importing them from the FR prio doc under R56a(4).
+- The claim with added matter will need to be amended/deleted to comply with A123(2). 
+
+--------------------------------------------------
+
+
+Question 2
+
+H7-11 (Selection)		(6 points)
+Consider the following two situations and discuss whether the Examining Division will object to the amended set of claims, and, if so, what is the legal basis for the objection and how can the applicant react?
+
+a) During the search of a European patent application the Search Division was of the opinion that the invention lacked unity of invention. The applicant was invited to pay additional search fees for inventions two and three. The applicant paid only one additional search fee (for the second invention).
+In reply to the search opinion, the applicant restricted the claims to the original claims directed to invention three.
+In the first communication pursuant Article 94(3) and Rule 71(1) EPC, the Examining Division confirmed the opinion of the Search Division. In his reply the applicant files an amended set of claims deleting the claims of the first and second invention and claiming only the subject-matter of the third invention.
+
+b) During the search of a European patent application the Search Division was of the opinion that the single claimed invention was not novel and not inventive.
+In the first communication pursuant Article 94(3) and Rule 71(1) EPC, the Examining Division confirmed the opinion of the Search Division. In his reply the applicant files an amended set of claims deleting the claims of the originally claimed invention and claiming only the subject-matter of another, second invention. The claims directed to the second invention are directly and unambiguously derivable from the description as filed, but which does not combine with the originally claimed invention or group of inventions to form a single general inventive concept.
+
+a)
+- Finding of non-unity under A82/R44 will require limitation of the claim set to the inventions for which search fees had been paid - R64(1), Rfees 2(1).2; GL B-VII 1.2.1
+- Applicant paid the additional search fee for Invention 2 but leaves Invention 3 in the claims.
+- He even now deletes the claims directed to Invention 1 and 2 for which the search fees have been paid - R64(1)
+- By not having paid the search fee for Invention 3, it is deemed that the Applicant has elected the searched invention to exclude Invention 3 - GL C-III, 3.2.1
+- Sjm related to Invention 3 is deemed not to have been search and cannot be used to amend the claims of the present application. A divisional - A76; R36 - must be filed to puruse a patent for Invention 3 - G 2/92.
+- The application will be refused under R64 in line with G 2/92.
+- It's too late to pay search fee - exam division cannot issue R64 invitation.
+- Only solution is filing a divisional.
+
+b)
+- Invention 1 was searched and a patentability opinion was given.
+- Invention 2 is not added matter under A123(2). So claims are validly amended.
+- But they lack unity with Invention 1 under A82/R44.
+- If there is no unity, i.e., no special technical features that contribute to novelty/inventiveness over the cited prior art - R44(1) - then it is likely that matter of Invention 2 had not been searched at least partially.
+- Claims cannot be amended with matter that had not been searched under R137(5).
+- Filing divisional for Invention 2 a solution.
+- could also ask for a decision of non-unity and appeal etc but too expensive. 
+
+
+
+--------------------------------------------------
+
+
+Question 3
+H7-15 (Selection) 	(EQE - 7 points) 
+
+European patent application EP1 was published on 13 March 2024. In reply to a communication of the examining division, the applicant filed amended claims containing improved subject-matter in June 2025. This improved subject-matter is new and inventive over the originally disclosed subject-matter, and, in itself, is sufficiently disclosed according to Art. 83 EPC. On 9 December 2025 the applicant filed a second European patent application EP2 describing and claiming the improved subject-matter. 
+Can the applicant obtain valid protection for the improved subject-matter via EP1 or EP2? (Today is 3 March 2026) 
+
+Timeline:
+- EP1 published @ 13 MAR 2024
+- EP1 "improved" new and inventive sjm @ JUN 2025
+- EP2 for said sjm filed @ 9 DEC 2025
+- TODAY: 3 MAR 2026
+
+Allowability of sjm for EP1:
+- sjm is novel over original disclosure of EP1.
+- Hence, it is added subject matter under A123(2) for EP1.
+- Needs to be excised from EP1. Cannot be patented through EP1.
+- A divisional cannot be filed for it because it would also extend beyond orignal disclosure of EP1 under A76. 
+- No valid protection obtainable for sjm through EP1.
+
+Allowability of sjm for EP2:
+- Publication of EP1 did not contain sjm.
+- Sjm was only added after publication of EP1 and is allegedly novel and inventive over EP1.
+- EP1 comprises A54(2) state of art against EP2.
+- But EP2 claims sjm that was not in EP1 publication.
+- So in principle, EP2 novel and inventive over EP1.
+- However, amendments to EP1 would have been made available to the public soon after JUNE 2025 in the EP register since they were filed after publication of EP1 - A128(4)
+- Hence EP2 not novel and not inventive over matter introduced in those amendments which was made available to the public. 
+
+
+--------------------------------------------------
+
+
+Question 4
+H7-20 (EQE - 5 points)
+
+Company A filed a European patent application EP on 8 March 2025. EP contains the following claims:
+Independent claim 1: Feature A
+Dependent claim 2: Combination of features A and B
+Dependent claim 3: Combination of features A, B and C.
+The European search report of EP mentions European patent application D1. In addition, a German national patent application D2 has been brought to the attention of the EPO by third party observations under Article 115 EPC. D1 was filed on 9 January 2024 and published on 11 July 2025 together with the search report. D2 was filed on 23 January 2024 and published on 24 July 2025. D1 discloses feature A. D2 discloses the combination of features A and B. EP is pending today.
+How can the applicant obtain a European patent giving the broadest possible protection which cannot be invalidated by the cited documents in any of the Contracting States?
+
+Status of D1 vs EP:
+- DoF of EP = 8 MAR 2025
+- DoF of D1 = 9 JAN 2024
+- Pub date of D1 = 11 JUL 2025
+- D1 is A54(3) document against EP.
+- D1 discloses A. This means my claim 1 is not novel over D1. 
+
+Status of D2 vs EP:
+- DoF of EP = 8 MAR 2025
+- DoF of D2 = 23 JAN 2024
+- Pub date of D2 = 24 JUL 2025.
+- D2 is published after the DoF of EP. Hence it does not make up state of the art under A54 against EP.
+- EP claims 1 to 3 are all novel over D2.
+
+How to get EP to grant as broad as possible:
+- Limit claim 1 to original claim 2 to become novel over A54(3) doc D1. D1 cannot be used for an inventive step attack. 
+- This will get a R71(3) comm for sjm A + B in the independent claim. Broader than A + B + C.
+
+Question of DE as designated state:
+- D2 may serve as a prior right document in Germany and might still be used to destroy the novelty of the A + B claim because D2 discloses A + B.
+- A new set of claims should be filed for Germany under R138 amending claim 1 to A + B + C.
+- The EPO will inform the applicant of D2 being a prior right in Germany under A139(2)
+- The EPO must evaluate the need to file such claims - J 21/82
+
+
+
+
+
+
+
+--------------------------------------------------
+
+Question 5
+H8-06 (Selection) (EQE - 4.5 points)
+
+
+The mention of the grant of your client's European patent was published on 15 May 2024. At the same time, the specification of the European patent containing the description and a set of claims was published in English; French and German translations of the claims were included. No opposition was filed. Today, 11 March 2025, your client informs you that he has just noted an obvious error in the French translation of the claims filed with the EPO, namely, that one of the claims has been omitted.
+He asks you whether this error can be corrected before the EPO.
+
+
+--------------------------------------------------
+
+
+
+Question 6
+H8-09 (Selection) 	(EQE - 7.5 points)
+
+
+On instructions from your client, you keep a watch on a competitor's EP application filed 16 March 2023 and claiming priority of a previous LV application, filed 18 March 2022 in Latvian at the Latvian patent office. In the search report, only "A"-documents were cited. By a recent inspection of the files, you found out that a translation of the previous application into one of the official languages of the EPO has not been filed. You further noted that the EP application contains more text than the previous LV application, and that a reply to a first communication in accordance with Article 94(3) EPC has to be filed shortly.
+Your client has just become aware of an article published on 24 June 2022 which describes subject-matter identical to that of the competitor's EP application. He wants you to check the relevance of this article in the light of the previous LV application.
+(a) How would you proceed if your client instructs you to obtain a translation of the previous LV application, as soon as possible, from the competitor?
+(b) Do you think that proceeding this way would be the best in the interest of your client?
+
+
+
+--------------------------------------------------
+
+
+Question 7
+H8-14	(8 points) 
+
+A European application EP1 was filed in German in June 2018 with 12 claims. After receiving a positive search report, EP1 was amended and 3 dependent claims were added. No further amendments were filed. The Examining Division subsequently issued a Rule 71(3) EPC communication in May 2024, informing the applicant that it intends to grant the description currently on file, together with 22 claims. The examiner considered that some of the claims were unclear due to the recital of multiple alternatives, and therefore proposed separating the alternatives to create additional dependent claims. All proposed claims had unity, and the proposed amendment did not change the scope of the claims. 
+In response, the applicant requested that the amendments to the claims be reversed. He also validly paid the fee for grant and publishing and 7 claims fees. No translations of the claims were filed.
+ During oral proceedings, the applicant and the Examining Division agreed that the clarity objection would be resolved if the alternatives in only 2 claims were separated, resulting in 17 claims. 
+Today, 11 January 2025, the applicant faxes you a further Rule 71(3) communication dated 2 January 2025. The accompanying text comprises the description on file, and the 17 claims agreed upon during oral proceedings. He wishes the application to be granted with the 17 claims, avoiding any surcharges. 
+What will you advise him? 
+
+--------------------------------------------------
+
+
+Question 8
+H8-18 (4 points)
+
+During opposition against a European patent, the proprietor noted that the B1 publication contains an error in dependent claim 6. Dependent claim 6 of the printed specification differed from the documents (Druckexemplar) transmitted to the applicant with the communication under Rule 71(3) (Form 2004) which was approved by him and formed the basis of the decision to grant.
+Can this error be remedied?
+
+
