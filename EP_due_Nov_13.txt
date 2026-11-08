@@ -131,12 +131,6 @@ Question of DE as designated state:
 - The EPO will inform the applicant of D2 being a prior right in Germany under A139(2)
 - The EPO must evaluate the need to file such claims - J 21/82
 
-
-
-
-
-
-
 --------------------------------------------------
 
 Question 5
@@ -146,10 +140,15 @@ H8-06 (Selection) (EQE - 4.5 points)
 The mention of the grant of your client's European patent was published on 15 May 2024. At the same time, the specification of the European patent containing the description and a set of claims was published in English; French and German translations of the claims were included. No opposition was filed. Today, 11 March 2025, your client informs you that he has just noted an obvious error in the French translation of the claims filed with the EPO, namely, that one of the claims has been omitted.
 He asks you whether this error can be corrected before the EPO.
 
+- In decisions of the European Patent Office, only linguistic errors, errors of transcription and obvious mistakes may be corrected. - R140
+- The description, claims and drawings cannot be corrected using R140 - G 1/10.
+- In particular, the translation of the claims does not form part of the decision to grant and R140 does not apply.
+- Corrections under R139 regarding obvious mistakes are only admissable when the application is pending - J 42/92.
+- The application is pending as long as the 9m opposition period is still running.
+- 15 MAY 2024 + 9m [R131(4)] -> 15 FEB 2025 [R134(1)] -> 17 FEB 2025.
+- Today is too late to use R139 because application is no longer pending.
 
 --------------------------------------------------
-
-
 
 Question 6
 H8-09 (Selection) 	(EQE - 7.5 points)
@@ -183,4 +182,7 @@ H8-18 (4 points)
 During opposition against a European patent, the proprietor noted that the B1 publication contains an error in dependent claim 6. Dependent claim 6 of the printed specification differed from the documents (Druckexemplar) transmitted to the applicant with the communication under Rule 71(3) (Form 2004) which was approved by him and formed the basis of the decision to grant.
 Can this error be remedied?
 
-
+- YES it can be corrected during opposition.
+- Mistakes in a European patent specification made during its production have no effect on the content of the patent granted. For this, only the text on which the decision to grant is based is decisive  - H‑VI, 4. 
+- If necessary, the EPO may arrange for correction to be made public as soon as any mistake in a specification is discovered. 
+- This is done by means of a note in the European Patent Bulletin and publication of a corrigendum, the sole purpose being to bring the specification into line with the content of the decision to grant - Rule 143(2); OJ EPO 2014, A86.
